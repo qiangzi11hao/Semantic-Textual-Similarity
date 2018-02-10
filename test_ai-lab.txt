@@ -1,0 +1,750 @@
+11501	A man in a blue shirt is running in a stadium field.	A man wearing a blue hat and shirt is riding a white horse.
+11502	Two cartoon rabbits are kissing.	A rabbit is kissing another rabbit.
+11503	The dog is in the air above the grass.	The dog is laying on a bed with a blue sheet.
+11504	A man is sweeping the floor of a house using a long broom.	The man swept the empty living room.
+11505	two puppies playing around in the grass	Two dogs are wrestling in the grass.
+11506	A woman is dancing in the rain.	A woman dances in the rain out side.
+11507	The missile exploded.	A rocket exploded.
+11508	A woman is seasoning a piece of meat.	A man is loading a rifle with bullets.
+11509	A woman is talking to her pet bunny as she fondles it.	A woman walks her dog onto astro turf.
+11510	A person is slicing some onions.	A woman is chopping herbs.
+11511	A man is cutting an onion.	A man cuts an onion.
+11512	A woman mixes a beauty treatment in a glass.	A woman is mixing a cream in a glass with a spoon.
+11513	A band is performing on a stage.	A band is playing and singing on a stage.
+11514	The person is starting a fire.	A person makes fire.
+11515	A woman is playing the flute.	A man is playing a flute.
+11516	A cat plays in his water.	The cat fished a straw out ouf his water dish.
+11517	A child is walking from one picnic table to another.	The boy hops from one picnic table to the other in the park.
+11518	A man and a woman looking at the camera.	A man and a woman laughing.
+11519	a man walks two dogs on leashes down the street	A man walks two dogs in the city.
+11520	A woman is dancing in a cage.	A woman is dancing.
+11521	A woman is flipping pancakes.	A cartoon chef is flipping pancakes.
+11522	A man is playing with frogs	A cat is playing with a camera.
+11523	A cat is playing a key board.	A man is playing two keyboards.
+11524	The lady put the baby int a trashcan.	A woman puts a baby in a trash can.
+11525	A pitcher on a mound throws a baseball.	A boy in the middle of a pitch at a baseball game.
+11526	A man puts some cheese on a pizza.	A man is sprinkling shredded cheese on a pizza.
+11527	Three dolphins are jumping out of a pool in front of a crowd of people.	A man is giving a presentation in front of a lot of people.
+11528	A man is pouring rice a roni into a pan.	A man poured ric-a-roni into a pan.
+11529	A woman is firing a rifle.	A man is performing stunts.
+11530	Baseball players playing a game at the park.	A basketball player, playing in the home coming game.
+11531	A man is running with a bus.	A man runs with a truck.
+11532	A dog under the stairs	A dog is resting on the stairs.
+11533	a bird lands in the water.	a boat floats in the water.
+11534	A man is standing on a roof top playing a violin.	A man is on a roof dancing.
+11535	A woman is cutting an onion.	A man is chopping an onion.
+11536	A small black dog is in the grass.	A black dog is running in the grass.
+11537	A group of male construction workers repair railroad tracks on a cloudy day	A crew of workers working on a railroad track.
+11538	A man is playing a flute.	A man is playing a bamboo flute.
+11539	A group of teenagers jumping and having a good time.	A group of kids having a good time.
+11540	Three men are playing guitars.	Three men are on stage playing guitars.
+11541	A man is playing a guitar.	A boy is playing a piano.
+11542	A man is folding a piece of paper.	A man is slicing a plastic container with a sword.
+11543	A polar bear is running towards a group of walruses.	A polar bear is chasing a group of walruses.
+11544	A man is putting garlic on some bread slices.	A man is sprinkling seasoning on several split and buttered loaves of bread.
+11545	A turtle walks over the ground.	A large turtle crawls in the grass.
+11546	Two brown dogs runs through the water.	Two brown dogs running through water.
+11547	A man and a woman talk in a diner.	A man and a woman are riding on a bicycle.
+11548	Person with two ski poles skiing down a snowy hill.	A person skiing down a snowy hill.
+11549	An animal is biting a persons finger.	A slow loris is biting a persons finger.
+11550	A man reels in a fish.	A woman is pouring oil in a bowl.
+11551	A man is drilling a hole in a board.	Someone is drilling a hole in a piece of wood.
+11552	Men are playing soccer.	Two teams play soccer.
+11553	A parrot is talking.	A parrot is talking into a microphone.
+11554	Someone is frying meat.	Someone is playing paino.
+11555	The bird ate the food in the tree from a bowl.	A bird is eating from a bowl.
+11556	A man is talking on the phone.	A man is moon-walking across a store.
+11557	A man is playing on a guitar and singing.	A woman is playing an acoustic guitar and singing.
+11558	A man plays a guitar.	A woman is playing guitar.
+11559	A woman is cutting onions.	A woman is cutting tofu.
+11560	A man is cutting a potato.	A woman is climbing a rock wall.
+11561	A man is placing meat inside a plastic bag.	A woman is carrying a wallaby in a bag.
+11562	Three dogs playing in the snow while one dog wears a jacket.	Three dogs playing in the snow, with a city in the background.
+11563	A cat is sliding upside down under a couch.	A cat is crawling under a piece of furniture on it's back.
+11564	A rugby player in dark gear is carrying a light colored rugby ball with arm outstretched.	A brown dog splashes in the water while carrying a ball in it's mouth.
+11565	A man is playing guitar.	A woman is peeling a tuber.
+11566	Two girls in blue and teal dresses and large hats are standing next to a large tree trunk.	A woman, a little boy, and a tiny baby are standing in front of a cow statue.
+11567	A dog in the snow.	Two dogs in snow.
+11568	A dog is driving a car.	A guy is talking into a microphone.
+11569	A tiger cub is making a sound.	A tiger is walking around.
+11570	A smiling Caucasian male wearing a blue and black striped shirt it about to take a photograph.	A man in a white shirt and black pants is smiling.
+11571	Two men are fighting in a cow pasture.	Two men are fighting in a cattle pen.
+11572	A young child rides a horse.	The little girl rode a horse.
+11573	A man pours oil on some tomatos.	The man poured oil on the cut tomatoes.
+11574	A white dog runs along a rocky shoreline.	A dog jumps over a hurdle.
+11575	Five men in tuxedos are walking down steps.	Five men in tuxedos walk down a set of steps
+11576	Three humans are walking a dog.	Three people are walking a dog.
+11577	A dog rides a skateboard.	A dog is riding a skateboard.
+11578	A dog is playing with a toy.	A dog is eating a doll.
+11579	A man is riding on one wheel on a motorcycle.	A person is performing tricks on a motorcycle.
+11580	A woman is cutting an onion.	A woman is cleaning a garden.
+11581	A woman is squeezing a lemon.	A woman is squeezing juice out of a lemon.
+11582	A man is fishing in the river.	A man is singing while walking down the sidewalk.
+11583	A woman is feeding a baby.	A man is adding water to pan.
+11584	The man is sitting at the top of a rocky mountain.	A person sticks their head out of a tent at the top of a mountain.
+11585	The black dog is running through the snow.	A race car driver is driving his car through the mud.
+11586	A man is dancing.	A man is talking.
+11587	A man is riding on a horse.	A girl is riding a horse.
+11588	The dog is running with food in his mouth.	The dog is running with a yellow ball in his mouth.
+11589	A black and white dog is running through the field.	A black and white dog is running in the grass.
+11590	A man plays a keyboard.	A person is playing the keyboard.
+11591	A woman is cooking something.	A woman is pouring ingredients into a frying pan.
+11592	Rocky and Apollo Creed are running down the beach.	The men are jogging on the beach.
+11593	A man is slicing a potato into pieces.	A man is cutting a potato.
+11594	A dog swimming with a stick in it's mouth.	A dog running with a stick in it's mouth.
+11595	A boy played a keyboard.	A person is playing a piano keyboard.
+11596	Two girls walking in the ocean.	two girls walking in the street
+11597	Five kittens are eating out of five dishes.	Kittens are eating food on trays.
+11598	A black and white dog is running in a grassy garden surrounded by a white fence.	A black and white dog is jumping over a hurdle.
+11599	In Abu Dhabi the Golden Market is one of the premier public outdoor shopping areas.	A busy city square in an asian country.
+11600	A woman is bungee jumping.	A girl is bungee jumping.
+11601	The four women are practicing for a upcoming match.	The women are in a play
+11602	The polar bears fought over the kill.	Polar bears are fighting each other.
+11603	A group wading across a witch	A group wading across a ditch
+11604	A woman is handling a frog.	A man is holding a frog.
+11605	A boy is playing a key-board.	A boy is playing the piano.
+11606	A man dives into a pool.	A man dives into a swimming pool.
+11607	The man hit the other man with a stick.	The man spanked the other man with a stick.
+11608	A black dog is walking on the grass with a stick in it's mouth.	A boy holds a net with a snake in it close to the ground.
+11609	The woman is measuring the other woman.	The lady measured the other woman's ankle.
+11610	There is a older man near a window.	A boy is near some stairs.
+11611	A man is cutting a snake to cook.	A woman is cutting meat.
+11612	The people are leaving the airplane.	The people are entering the plane.
+11613	A man is riding a horse.	A man is driving a car.
+11614	Man standing on top of jagged rocks near the ocean.	A man is standing on top of rocks overlooking the ocean.
+11615	A person is folding a piece of paper.	Someone is folding a piece of paper.
+11616	A person is peeling a potato with a potato peeler.	A man is cutting tomatoes with a cleaver.
+11617	Two dogs share a toy in a field of vegetation.	Two snowboarders are in the air over the snow.
+11618	A man is slicing a potato.	A woman is cutting a jalepeno.
+11619	A dog is on the beach near a ball.	A guy is going up for a lay-up on a basketball court.
+11620	A wet child enjoys the summer.	A woman is enjoying the summer weather.
+11621	A woman is slicing pumpkin.	A person is slicing cantaloupe.
+11622	The military officer barked at the recruits.	An officer is talking to recruits.
+11623	A woman is peeling an onion.	The woman is slicing green onions.
+11624	A brown dog is resting its paws on a laptop keyboard.	A dog sits with its paws on a laptop computer.
+11625	A boy is very close to a girl.	A girl is close to a boy whose face is not shown.
+11626	A man is punching through boards.	A dog is running through water.
+11627	A boy is playing a piano.	A man is singing and playing a guitar.
+11628	The man is playing the guitar.	The man is peeling a potato.
+11629	A woman is dancing by a fire.	A woman is taking a bath.
+11630	Three dogs are playing in the water.	Three dogs swim in the water.
+11631	A dog running through a forest in the winter time	A dog running through a lot of twigs.
+11632	A man is crying.	A woman is dancing.
+11633	A person is scaling a rock wall.	A person and a horse are above a fence.
+11634	A cat is walking around a house.	A woman is peeling potato.
+11635	A person is riding their bike on a trail next to the woods.	A small child in a yellow shirt is holding their arms out to the sides.
+11636	The man is riding a horse.	A woman is using a hoe.
+11637	One child pulls another, sitting in a red wagon, along the sand.	A young boy pulls another boy wearing a silly hat in a radio flyer wagon.
+11638	four children are playing on a trampoline.	Four kids are jumping on a trampoline.
+11639	Someone is pouring ingrediants into a pot.	A man puts vegetables into a pot.
+11640	A woman is cutting some flowers.	A woman is cutting broccoli.
+11641	A brown and white dog is catching a tennis ball while standing on its hind legs.	the brown and white dog is carrying a stick in his mouth.
+11642	A man puts a knife in a vice.	A man is dancing.
+11643	The man talked on the telephone.	The man is talking on the phone.
+11644	a woman watches a rap group live	An audience watches a girl dance.
+11645	A woman is applying makeup.	A man is playing a guitar.
+11646	A brown dog runs towards the camera on a dirt trail with mountains in the background.	A brown dog runs toward the camera down a rocky trail through the brush with mountains in the background.
+11647	A man is dieing in an operating room.	A man is kissing a woman in stage.
+11648	A woman peels a potato.	A woman is grilling pineapples.
+11649	An airplane is flying in the air.	A South African Airways plane is flying in a blue sky.
+11650	Two foxes are eating from a plate on a brick patio.	Foxes are eating from a plate.
+11651	A man and woman are walking.	A man and woman walking hold each other.
+11652	Two people are playing golf on a golf course.	Two people are on a golf course playing golf.
+11653	A kangaroo is eating.	Kangaroo eating.
+11654	A small baby is playing a guitar.	A boy sits on a bed, sings and plays a guitar.
+11655	A girl is eating a cupcake.	A man is playing a trumpet.
+11656	A cat opens a drawer and climbs inside.	A big cat opens a plastic drawer with his paws and then hops inside.
+11657	A woman with two men in hats socializing outside.	A young woman with a knit cap stands against the wall of a Domino's Pizza.
+11658	The road is long.	There is nothing on the side of the road.
+11659	A dog is running around a yard.	A black pet dog runs around in the garden of a house.
+11660	A man sits with fishing poles near a body of water.	A man sits on a rock next to a folding deck chair and a fishing pole.
+11661	A man is playing the guitar.	A person is slicing a meat into pieces.
+11662	The two officers are driving	Two officers are on horses.
+11663	The man played his guitar.	A man is playing a guitar.
+11664	The man drilled holes into the wood.	A man drills wood.
+11665	The boy is stuck in the door of the doghouse.	A child is stuck in a dog house.
+11666	Children play fight with swords.	A child and parent pet a horse.
+11667	A dog prepares to herd three sheep with horns.	A dog and sheep run together.
+11668	A man is kicking pots of water.	A man is turning foods.
+11669	A family is playing on the beach with their dog.	A naked little girl being thrown into the air.
+11670	A guy and a girl are rock climbing with backpacks on.	Two boys are riding on a toy with a blonde girl running long side of them.
+11671	The children are holding musical instruments.	A group of children are singing and playing instruments
+11672	A man is swinging in a rope.	A gibbon is swinging in the trees.
+11673	A man is adding oil to a pot.	A dog is catching a fish in a river.
+11674	A man is speaking on a stage.	A man is speaking at a podium.
+11675	2 Cows are in a field.	Two sheep are in a field.
+11676	A woman is slicing some tuna.	A woman is cutting raw fish.
+11677	A woman is chopping a hard egg.	A person is cutting  boiled egg into pieces.
+11678	Someone is mixing a liquid.	A man is playing a guitar.
+11679	A man and a woman are smiling.	A man and a woman laughing.
+11680	A white dog running through the snow	The black and white dog runs through the grass.
+11681	A man is playing a wooden flute while several other men play bongo drums.	A man is playing a flute.
+11682	A small white dog running across a lawn.	A small white dog running
+11683	Two dogs run side-by-side on the grass.	Two dogs running on grass.
+11684	A small boy in a bathrobe is sitting in a metal chair.	A boy in a robe sits in a chair.
+11685	A dog is running through a pond	A pale dog is running along a dirt path.
+11686	A woman stands with her arms out at her sides while another takes a picture.	A man stands in a crowd holding a white object.
+11687	A man is eating a banana by a tree.	A man is eating a banana.
+11688	A black and white dog is running on the beach.	The black and brown dog is running through the snow.
+11689	A small kitten is playing a ball.	A kitten is playing with a ball.
+11690	A woman is slicing some vegetables.	The woman is dicing garlic.
+11691	Blond woman in a tunnel.	The couple kissing is near a blond woman.
+11692	Two puppies are playing with each other.	Some men are playing soccer.
+11693	A man is doing push-ups.	A woman is cutting some octopus.
+11694	A woman is riding a horse.	A man rides a horse.
+11695	The man is trying to feed the snake with a mouse.	A man is working on his laptop.
+11696	A group of people sing.	Some people are singing.
+11697	A black hooded man is using a large magnifying glass to look at a booklet.	A white hooded woman is using a magnifying glass to look at a booklet.
+11698	A girl is playing a guitar.	A boy is playing a key-board between the people.
+11699	A girl bounces in a bounce house.	A girl dances like a man in costume
+11700	A man is catching a ball.	A cat is rubbing against a baby.
+11701	A man dives into a pool.	A man is diving into a pool.
+11702	A man is dragging a dead deer.	A man is jumping into water from a cliff.
+11703	A harnessed dog leaps over a log as another dog follows behind.	A brown and white dog is leaping over a log in a field while another dog follows behind it.
+11704	Black and white image of a wave crashing in the ocean.	a small black dog in the ocean with some rocks in the background
+11705	The little boy is singing and playing the guitar.	A baby is playing a guitar.
+11706	A group of people are dancing.	Women are dancing outside.
+11707	A boy waves around a sparkler.	A young boy is twisting a sparkler around in the air.
+11708	A little girl in a red shirt pulls a kite.	A girl in a red shirt takes a picture on a phone.
+11709	Two skiing people are doing cross country skiing.	People skiing cross country.
+11710	A woman is slicing some tofu.	A woman is cutting a block of tofu into small cubes.
+11711	A man is riding an electric bicycle.	A man is riding a bicycle.
+11712	A boy is pushing a van.	A person is slicing a tomato.
+11713	A woman is peeling a potato.	A woman is hitting a man.
+11714	A man sits by a dock looking at the water.	A man jumps off a rock into the water
+11715	Someone is slicing a cucumber.	A man is slicing a cucumber.
+11716	The black and white dog is running on the grass.	A black and white dog swims in blue water.
+11717	A dog swims in the water.	Three dogs swim in the water.
+11718	A person dices up an orange pepper.	The cook is slicing bell peppers.
+11719	A woman is slicing a leek.	A woman is slicing ginger.
+11720	Someone drew on Washington's face on the dollar.	A person draws on a dollar bill.
+11721	A woman is cutting an onion.	A man is cutting onions.
+11722	A man is coming out into the water.	A man rises from a swamp.
+11723	The woman picked up the kangaroo.	A woman picks up a baby kangaroo.
+11724	A man is moving a tree limb.	The woman is playing the violin.
+11725	Someone is carving a statue.	A man is carving a statue.
+11726	A man is playing a guitar.	A man is playing a keyboard.
+11727	A man is playing a guitar.	A man is cleaning a cd.
+11728	Three boys are running on the beach playing a game.	Two young boys and one young man run on a beach with water behind them.
+11729	A man is doing exercise.	A baby is laughing.
+11730	The man is walking.	A man is talking.
+11731	A dog jumping for a Frisbee in the snow.	A dog is jumping in the snow.
+11732	A boy is playing the piano.	A man is playing a piano.
+11733	A man is playing a guitar.	Someoen is playing guitar.
+11734	He is about to run into the boat	The man is getting his boat clean to take it out on the water.
+11735	A woman is feeding an aardvark.	A woman is chopping up garlic.
+11736	A man is eating a banana.	Someone is peeling a banana.
+11737	A little girl with her hands in the air is sitting on a man's back while he is laying on a blanket.	A kid runs in the opposite direction of others who were playing a game.
+11738	A dog running along the beach.	Boy and girl running along the beach.
+11739	The man is exercising.	A man is doing pull-ups.
+11740	An animal run in circles.	A squirrel runs in circles.
+11741	A white dog walking in the snow.	A black and tan dog walking through the snow.
+11742	A man is eating food.	A man is eating something.
+11743	A woman is about to paint.	A boy is about to take a picture.
+11744	A submarine is going through water.	A baby is falling asleep.
+11745	The black and white dog has a stick in his paws.	A black dog and a white dog are standing on snow.
+11746	A man in a black leather jacket is sleeping in a subway car.	A man in a black leather jacket falls asleep on public transportation.
+11747	A man is cutting a potato.	A woman is cutting a tomato.
+11748	A cat is watching a TV.	A man is slicing a leave.
+11749	A girl in orange lights a candle.	A girl in an orange shirt lights candles.
+11750	A person is cutting some burrata cheese.	The person is slicing cheese.
+11751	A woman is cutting an onion.	A woman is rowing a boat.
+11752	Two boys on a couch are playing video games.	Two boys are playing a video game.
+11753	A  man is dancing.	A man and woman is dancing.
+11754	A man is tying his shoe.	A dog is riding on a bicyclists shoulders.
+11755	A tiger is playing with his trainer.	A tiger attacks a man.
+11756	A woman in a plaid outfit is looking through a bag of produce.	This is the picture of a woman in a flowered dress, toting something in a bucket.
+11757	The man is jumping into the water.	The man is up in the air.
+11758	A man plays an acoustic guitar.	A woman and dog are walking together.
+11759	A woman with a young girl pose with bear statues in front of a store.	A man in a jersey stands in front of a large crowd.
+11760	A group of people in front of a red fire truck.	A group of people are standing around a red fire truck.
+11761	A man is playing a piano.	A guy is peeling a potato.
+11762	a dog is running across the sand with a stick in it's mouth.	A dog is running through a creek with a stick in its mouth.
+11763	A woman is swinging her arms.	A woman is slicing an onion.
+11764	The animal with the big eyes is eating.	A slow loris is eating.
+11765	A man is dancing.	A man is speaking.
+11766	A skier wearing blue snow pants is flying through the air near a jump.	A skier stands on his hands in the snow in front of a movie camera.
+11767	The two dogs are running through the grass.	Three dogs run in the snow.
+11768	Two dogs are running through a grassy area.	Two dogs running through a grassy field.
+11769	A machine is sharpening a pencil.	The machine shaved the end of the pencil.
+11770	a boy swinging on a swing.	The girl is on a swing.
+11771	A cat cleans itself.	A cat is licking itself.
+11772	A woman rides an elephant in front of an adoring crowd.	A woman rides an elephant.
+11773	A woman is cutting up a chicken.	A woman is slicing meat.
+11774	A woman and man are dancing in the rain.	A man and woman are dancing in rain.
+11775	A man in a wet suit is throwing a baby wearing a wet suit up into the air.	A man in a white print shirt and a woman in a black dress dancing.
+11776	A man is doing a stunt on his bicycle.	A man is doing a wheelie on his motorcycle.
+11777	The head of a child with dark glasses is in focus.	There is a woman with a full head of hair.
+11778	A tent and a campsite in a sunlit forest.	A white dog on a beach is carrying a stick in its mouth.
+11779	A girl playing is a pile of colorful balls.	A little girl plays in a pit of colorful balls.
+11780	A man is dancing.	A man is singing.
+11781	A little girl and boy are reading books.	An older child is playing with a doll while gazing out the window.
+11782	A group of people standing outside of a building.	A large group of people have formed a line outside.
+11783	A dog and cat laying down together.	Two grey dogs are carrying a stick in the water.
+11784	A young man and woman sitting on a bench outside are kissing.	The man and woman sitting on a bench are kissing.
+11785	The girl sang into a microphone.	The lady sang into the microphone.
+11786	The woman in overalls paints a picture for her wall.	A woman is painting her wall white.
+11787	Two boys are talking on the phone.	A woman is talking on a telephone.
+11788	Two people walking on the beach at sunset.	Two people walking along the shore at sunset.
+11789	A skateboarder attempts a trick on the side of a low wall.	A boy does skateboard tricks on a railing.
+11790	A girl in a pink shirt is sprawling her limbs out in midair.	A man dressed in a Santa suit is climbing up a large concrete building.
+11791	A woman is riding a horse.	A man is running on rope.
+11792	someone is slicing a vegetable.	Someone is slicing a tomato.
+11793	A man is playing a piano.	A person is playing the piano.
+11794	A woman is climbing a cliff.	A woman is climbing a rock face.
+11795	A man is tying his shoe.	A man ties his shoe.
+11796	A tan and white dog retrieving a ball on a gravel path.	A large dog walks along a gravel path in the woods.
+11797	A blonde dog is catching a ball in its mouth in the snow.	A little blonde girl is sitting on a green chair.
+11798	A woman is peeling some fish.	A woman is pouring a yellow mixture on a frying pan.
+11799	A man is playing on his keyboard.	A man is playing a guitar.
+11800	A man in a brown coat rubs his nose.	A bald man with a red beard holds his hand near his mouth.
+11801	A car is parking.	A cat is playing.
+11802	Two dogs running on the shore.	A white dog running on the beach.
+11803	A man is playing the drums.	A man is playing guitar.
+11804	A girl is putting gel in her hair.	A woman is putting gel on her hair.
+11805	Two children in a field of red flowers.	Two kids are playing in a field of red flowers.
+11806	A dog is running in the snow.	Two dogs running in the dirt
+11807	A panda bear is laying down.	A baby panda relaxes on some logs.
+11808	The man is playing the guitar.	A man is playing a guitar.
+11809	the people are running a marathon	People are running a marathon
+11810	Two dogs are running on the grass in front of the trees.	A brown dog is running on the grass in front of some trees.
+11811	The cats are running through the grass.	Some dogs running through the park.
+11812	A man plays the flute.	A man is playing a flute.
+11813	A man is holding a leaf.	A monkey is fighting a man.
+11814	A man is adding oil to car.	A man is putting anti-freeze into a car.
+11815	A machine is sharpening a pencil.	A girl is riding a bicycle.
+11816	A man takes a piece of pepperoni pizza out of a pizza box and puts it on the lid after he closes the box.	The man took a piece of pepperoni pizza out of the box.
+11817	A boy in a red sled is riding down the hill.	A multicolour dog in a red collar crouching on the grass.
+11818	A person is peeling a potato.	The man is peeling a potato.
+11819	A man blowing a large bubble.	A man walking a large black horse.
+11820	A woman is riding on a horse.	A man is shooting off guns.
+11821	A woman is dancing in the rain.	A woman is adding oil to a dish.
+11822	A man is assembling speaker parts.	A man is playing the guitar.
+11823	A man with a gray beard is being shaved in front of a lecture hall	A man with a beard is sitting in the grass.
+11824	A man is playing a flute.	A dog is barking at a fly.
+11825	A girl in water without goggles or a swimming cap.	A girl in water, with goggles and swimming cap.
+11826	An elderly man in a blue shirt is holding up a piece of canvas art.	A black man is walking next to a building in a big city.
+11827	Someone is slicing two uncooked racks of ribs apart.	Someone is cutting a piece of meat.
+11828	A brown dog jumping into the air to catch a ball.	three young woman jumping into the air to catch a ball.
+11829	A man is playing a guitar.	A man is cleaning a glass door.
+11830	The person is wearing a fedora.	A man is wearing a uniform.
+11831	A dog is jumping over a barrier at a agility competition.	A dog jumping over an obstacle course fence.
+11832	The man is peeling an apple.	A man peels an apple.
+11833	A man makes a call on a cell phone.	A man is making a phone call.
+11834	Someone is slicing an onion.	A woman is cutting onion.
+11835	The dog pulled the dogs tail and then his leg.	A monkey pulled a dogs tail.
+11836	A person is slicing some garlic.	A person is dicing a clove of garlic with a knife.
+11837	The rollerblades are moving.	Two vehicles are going towards the camera.
+11838	Two brown dogs chase each other in the snow.	Two brown dogs are playing with each other in the snow.
+11839	A little girl plays the violin on a beach.	The girl sat on the couch to crochet.
+11840	One man in an orange shirt wearing a white helmet is riding a bike.	The man wearing a blue helmet is riding a Polaris.
+11841	A black and white dog swimming in clear water.	A small black and white dog is swimming in water.
+11842	A man is taking some math classes.	A man is rinsing a steak.
+11843	A cat swings on a ceiling fan.	A cat is spun around by a ceiling fan.
+11844	A man is slicing a potatoe.	A man is peeling a banana.
+11845	Someone typed on a keyboard.	Someone is typing.
+11846	A man is kicking a soccer ball.	A man is mixing a bowl.
+11847	A puppy is sliding backwards along the floor.	A puppy is pushing itself backwards.
+11848	The lady chopped up the green onions.	The lady cut up a green onion.
+11849	A young girl is sitting on Santa's lap.	A little girl is sitting on Santa's lap
+11850	The man is buttering the bread.	The man is stirring the rice.
+11851	The skateboarder gets to the top of the ramp.	The skateboarder rides the pipe wall at a skater park.
+11852	A man is playing a guitar.	A man is eating a banana.
+11853	A boy is making some dance steps.	A boy is pouring something from a pitcher.
+11854	A man is patting an alligator on the mouth.	A person is dumping chopped vegetables into a pot on the stove.
+11855	A dog splashing in the water.	A dog splashes in the murky water.
+11856	A man is passionately playing a guitar in front of an audience.	A woman is peeling a potato.
+11857	A man is playing the guitar and singing.	A man is opening a package containing headphones.
+11858	the man is catching a ball	A man is kicking a ball.
+11859	A skateboarder jumps off the stairs.	A dog jumps off the stairs.
+11860	A man steers a blue boat past brightly colored houses.	a man driving a blue boat passes by some colorful houses.
+11861	The man is talking.	A man is walking down stairs.
+11862	A lady and her daughter look through a microscope.	A girl and a lady both looking through a microscope.
+11863	There are four people outside.	Five people are outside.
+11864	A group of people are at a convention waving American flags.	A crowd of people at an outdoor event
+11865	A cat is playing a piano.	A man is playing a guitar.
+11866	A man riding a motorcycle while wearing a black uniform.	A white motorcycle is being ridden around a race track.
+11867	Six dogs running on the sandy beach.	Six dogs walking beside the beach.
+11868	A woman is dancing in the rain.	A woman is dancing in railway station.
+11869	Three dogs play in a grassy field.	Some kids play in a field.
+11870	A smiling man and a baby girl posing for photo.	A smiling man holds a small child wearing pink and red.
+11871	A man is playing the guitar and singing.	A man sings with a guitar.
+11872	A woman drives a golf cart.	A man riding a cart.
+11873	A man is playing a violin.	The baby is laughing and crawling.
+11874	The two men are wearing jeans.	The two men are wearing pants.
+11875	The turtle followed the fish.	A sea turtle is hunting for fish.
+11876	A lion is walking.	A lion is pacing in a pen.
+11877	A white cat perched on a small wooden cabinet is looking outside the window.	A cat, perched on a table, looks out the window.
+11878	A man is playing a flute.	A man is playing guitar.
+11879	The women are trying to sell something to the individual.	The men are trying to make some money.
+11880	American flag is waving.	A American flag is blowing in the wind.
+11881	A woman is slicing an onion.	A woman is slicing lemons.
+11882	A woman is cutting broccoli.	A woman is slicing broccoli.
+11883	A man in a dress suit is riding a bike down the paved road.	A man is using a large pole to remove letters from a sign.
+11884	The boy is looking up at the girl as another girl ignores them.	the boy is diving into the pool as the couple watch.
+11885	A man at a farmers market.	A man is at a farmers market.
+11886	A man is pouring chili into a bowl.	A man opens a can and pours the contents into a bowl.
+11887	The man cut up an onion.	A man is dancing.
+11888	The large brown dog is jumping through the tall grass.	The girl wearing a blue shirt is running through a science center.
+11889	A man is cutting up a cucumber.	A man is slicing a cucumber.
+11890	A man climbing a cliff face.	A man climbs a sheer cliff face.
+11891	A man performs on a stage.	A man guts a fish.
+11892	Scuba diver submerged in water.	The scuba diver is underwater.
+11893	A deer jumps a fence.	A deer jumping over a fence.
+11894	A dog is standing in the sand.	A tan dog is standing in front of some plants.
+11895	the tan dog is playing with the red dog out in the snow	A yellow dog is playing in the snow.
+11896	Kids playing ball in the park.	Two dogs playing by the shore.
+11897	Friends walk into a building	a man walks along walkway to the store
+11898	A man is lifting weights.	A woman is exercising her abs.
+11899	A dog runs on brown grass.	A wet dog runs through the yellow grass holding a tennis ball.
+11900	A person is squeezing through an opening in the rock face.	A medium sized brown dog is running through an open white wooded area.
+11901	An elderly man is speaking at a podium.	A man is making a speech at the podium.
+11902	Man riding a surfboard on a wave.	A man in black on a surfboard riding a wave.
+11903	A woman rapidly fires a handgun.	A woman is shooting off a gun.
+11904	A clown is singing and people are dancing.	A clown is singing.
+11905	A man is looking at a computer monitor.	A man is using a laptop.
+11906	A man is playing a harp.	A man is playing a keyboard.
+11907	Adding aspirin to the water could kill the plant.	Men are trying to remove oil from a body of water.
+11908	A man is rinsing a steak.	A man is playing a guitar.
+11909	A baby is crawling happily.	A cat is walking on hardwood floor.
+11910	A person is whisking eggs in a bowl.	A woman is beating two eggs in a bowl using a wire whisk.
+11911	Three young men run, jump, and kick off of a Coke machine.	Three men are jumping off a wall.
+11912	The people got off the train.	The people got off the train at the station.
+11913	The woman is waiting for her date.	The woman is on her way to a date.
+11914	Two dogs swim in a pool.	Dogs are swimming in a pool.
+11915	Kids are dancing on stage.	Some people are dancing on stage.
+11916	A man is playing a large flute.	A man is playing a flute.
+11917	A woman is wearing headphones.	A woman is chopping some shiso leaves.
+11918	A brown dog sits on the beach.	A dog running on the beach
+11919	Three clowns in bright, multi-colored costumes.	Three women in brightly colored dresses.
+11920	A person is riding a motorcyle.	A person is chopping an onion.
+11921	A blue and white soccer team playing against each other.	A topless woman with her face painted is covered in mud.
+11922	The boy is raising his hand.	The man is raising his hand.
+11923	A monkey is walking on a bed.	A man is riding a horse.
+11924	A woman standing in front of trees and smiling.	A man is walking by trees in front of the city skyline.
+11925	The animal is eating.	A woman is dancing.
+11926	The black and white dog runs through the grass.	A black and white dog is running through grass.
+11927	A rabbi is talking.	A man is walking on a rope.
+11928	Two robots share a kiss.	A male and female robot are kissing.
+11929	A black dog is running in the grass.	A boy running through green grass.
+11930	The woman is holding the harness that the brown and white dog is wearing.	A man and woman are looking at artwork that is on easels and clipped to a fencing wall.
+11931	A pregnant woman is in labor	a woman has a child.
+11932	The man cut a paper plate.	A man is cutting a paper plate.
+11933	Two little girls in pink are dancing.	Two ladies jogging on a path near the waterfront.
+11934	The brown and black dog sprints across the snow.	A black dog is running quickly along the ground.
+11935	The girl danced in front of the bonfire.	A woman is dancing to music standing near a bonfire.
+11936	The man is playing the drums.	A man pours cleaner in his sink.
+11937	A woman is slicing an onion.	A woman is cutting a carrot.
+11938	Woman playing tennis and hitting the ball.	A woman is playing volley ball.
+11939	A girl holds up a yellow balloon animal.	A child holds a yellow balloon.
+11940	A man severs the toe of an empty leather boot using a sword.	A man is cutting a boot with a sword.
+11941	A dog swims through the water.	A dog wearing a cape is running through the snow.
+11942	A woman dances while a man plays the keyboard.	A woman is dancing on a stage.
+11943	A black and white dog is carrying a stick in its mouth.	The black and white dog has a stick in his paws.
+11944	The little girl played on the grass with a dog and a ball.	A baby plays with a dog and ball.
+11945	A man is praying.	A man is running.
+11946	A skateboarder does tricks on a half-pipe.	A man skateboards on a half pipe.
+11947	This dog is jumping through the water.	Two dogs running through the water on a beach.
+11948	A man is speaking.	A man is cooking.
+11949	A woman in an red tracksuit squeezing lemons in a press.	A young woman in a pink hoodie takes a picture.
+11950	A brown dog is jumping up to catch a green strap in it's mouth.	A grey dog jumps to bite a green leash.
+11951	An elderly woman rides a bicycle along a city street.	An elderly woman walking uphill crossing the street.
+11952	A man is cutting a fish.	A man guts a fish.
+11953	Swimmers are racing in a lake.	Women swimmers are diving in from the starting platform.
+11954	A woman puts make-up on.	A woman is putting on eyeshadow.
+11955	Someone slices a bottle with a sword.	A man breaks a bottle with a sword.
+11956	A cat retrieves an object out of a dish of water.	The cat tried to eat the corn on the cob.
+11957	a grey dog swimming through a river with a stick in his mouth	Dog swimming through water carrying stick in its mouth
+11958	Two birds interacting in the grass	Two dogs play with each other outdoors.
+11959	A man running on a track.	a man running track
+11960	A man sitting on the floor plays a guitar.	A man sitting on the floor in a room is strumming a guitar.
+11961	A woman is putting her baby in a waste bin.	The woman is poking holes in the potato.
+11962	A man is cutting a rope with a sword.	The man slced through a thick rope with a sword.
+11963	The boy cut the grass by the curb with scissors.	A boy cuts grass with scissors.
+11964	A man is playing a guitar.	A man is playing a trumpet.
+11965	A woman supervisor is instructing the male workers.	A woman is working as a nurse.
+11966	A man is dancing on the road.	A man is dancing.
+11967	A woman is chopping broccoli.	A woman is chopping garlic.
+11968	The couple danced in the church.	A couple slow dances.
+11969	A little boy and a little girl playing together outside.	A woman wearing a white shirt stands on the street.
+11970	A panda is sliding down a slide.	A panda slides down a slide.
+11971	A woman is speaking in sign language.	A woman spices some seafood.
+11972	A man is running on the road.	A panda dog is running on the road.
+11973	A boy is checking a calender.	A boy is looking at a calendar.
+11974	A woman puts cosmetics on her eyelid.	The woman is pencilling on eye shadow.
+11975	A woman dances on a stage.	A woman is dancing.
+11976	A man is riding a horse by a creek.	A man is riding a horse.
+11977	A boy skateboards down the railing of some graffiti stairs	A skateboarder slides down a handrail on his feet.
+11978	A man is writing in a book.	A man is writing on a paper.
+11979	A woman is adding oil on fishes.	The woman is cutting potatoes.
+11980	A man mixes vegetables in a pot.	A person is stirring vegetables in a pot.
+11981	The man is wearing a black shirt and hat and smiling.	A man is lifting a little girl above his head.
+11982	A child wearing blue and white shorts is jumping in the surf.	A girl wearing green twists something in her hands.
+11983	A woman is cutting a squash.	A woman is cutting big pepper.
+11984	A young boy is standing on a gray tiled area.	A young boy is practicing his karate in a gym.
+11985	A small dog laying on the bed.	A small dog is laying on a bed.
+11986	The woman is holding the hands of the man.	The woman is checking the eyes of the man.
+11987	A group of people are standing by a window watching something.	A group of people stand and wait to see something.
+11988	A cat gets stuck on a moving ceiling fan.	A cat is swinging on a fan.
+11989	Someone is slicing tortila's.	Someone is riding a horse.
+11990	A person is adding chili powder to chili with beans.	The man is adding seasoning to the beans.
+11991	A dog is trying to get bacon off his back.	A dog is trying to eat the bacon on its back.
+11992	There is a black dog jumping into a swimming pool.	A black dog is leaping into a swimming pool.
+11993	A man is playing the drums.	A woman is slicing some leaves.
+11994	A woman is relaxing in a bath tub.	A woman is stabbing a potato with a fork.
+11995	A woman is dancing.	A man is talking.
+11996	The man is using a sledghammer to break the concrete block that is on the other man.	A man breaks a slab of concrete that is lying on a prone man with a sledge hammer.
+11997	The lady put the dried noodles in the hot water to cook.	A woman places a container of noodles in a pan of water.
+11998	A man in a straw hat shades his phone while others walk on a busy sidewalk.	A man lies on a street with his headand shoulders under a parked car that is jacked up.
+11999	People step off a train.	A group of people get off a train.
+12000	A soldier walks a dog.	A man walks a dog.
+12001	A woman fires a shotgun.	A woman is shooting a gun.
+12002	A man is speaking.	A man is dancing.
+12003	A woman is playing a guitar.	A man plays a guitar.
+12004	Several kids jump up and down on a trampoline.	A man is doing back flips on a trampoline.
+12005	A large bird standing on a table picks up a plastic glass containing liquid and places it in a bowl of something.	A bird picks up a plastic cup containing a liquid with it's beak and puts the cup into a bowl.
+12006	A young man is riding a skateboard and jumps onto a sidewalk then off at another curb.	A man is riding a skateboard.
+12007	A woman covers a piece of meat with flour.	A woman is seasoning a piece of meat.
+12008	A young boy jumping into a lake.	The boy is jumping into a lake.
+12009	A woman is cooking meat.	A man is speaking.
+12010	A woman is brushing her feet.	A woman is chopping an onion.
+12011	A boy with dark hair is in water and is looking up.	The man is short hair.
+12012	A man is traveling in a boat.	A woman is cutting up a carrot with a knife.
+12013	A man is performing a stunt outdoors.	A young man on a beach is performing skateboard stunts.
+12014	A woman pours a mixture into a bowl and mixes it.	A woman is preparing an egg in a skillet.
+12015	The man spread butter on the loaf of bread.	A man is spreading butter onto bread.
+12016	A cat is playing on the floor.	A man is slicing garlic.
+12017	A man is buttering a piece of bread.	A slow loris hanging on a cord.
+12018	A man is riding a bicycle on a dirt path.	Two dogs running along dirt path.
+12019	A man puts three pieces of meat into a pan.	A man is putting meat in a pan.
+12020	A woman is placing food in a pot of hot water.	A woman is frying meat.
+12021	Man rowing a boat.	a man doing a trick on skateboard
+12022	A small blond boy slides head first down a blue playground slide toward another blond youth.	A young boy with his hair standing up, is sliding down a blue slide
+12023	The cat played with a watermelon.	A cat is playing with a watermelon.
+12024	A man is putting a knife in a vice.	A man is getting into a car in a garage.
+12025	A car backs out of a space.	A car is backing out of a blocked lane.
+12026	Two females jump off of swings.	Two girls jump out of swings.
+12027	A man is getting inside a car.	An elderly man is getting into a red car.
+12028	Ten people riding ATVs.	4 people are riding bikes
+12029	A basketball player makes the 5th rebound of the night,	A tennis player in the middle of a game.
+12030	A guy is riding a horse.	A man is riding a horse in the desert.
+12031	Three men sit on a bench.	two men sit on a bench.
+12032	A tan girl in a floral bikini is swimming in dark blue waters.	a little girl in a flowered bathingsuit runs through the sand at the beach
+12033	a man in red shorts is walking along rocks by a river carrying a stick.	A man is walking on rocks with water flowing around them.
+12034	A person sitting in an office takes a picture.	A woman is sitting in an office.
+12035	a white dog running in the snow	The dogs are running in the snow.
+12036	A woman picks up and holds a baby kangaroo.	A woman picks up and holds a baby kangaroo in her arms.
+12037	A man seated is playing the guitar.	A man is playing an acoustic guitar and singing into a microphone.
+12038	Zombies parading around eating brains.	The zombies are eating flesh together.
+12039	The boy is playing the piano.	A band is playing on stage.
+12040	Two black dogs playing in the snow.	A black dog digs in the snow.
+12041	A young woman is playing a guitar.	A woman cuts up some meat.
+12042	A skateboarder doing a trick on a stone wall.	A skateboarder riding up to a slope.
+12043	Elephants are walking down a trail.	A herd of elephants are walking along a trail.
+12044	An old woman is shaking hand with a man.	A man and a woman shake hands.
+12045	Women are running.	Two women are running.
+12046	The man is playing the guitar.	The cat cleaned his face with his paw.
+12047	A man is erasing a chalk board.	A woman is dancing, and singing.
+12048	A boy pushes a wagon with two pumpkins.	A child squats behind a wagon with two pumpkins in it.
+12049	The woman droppped eggplant into the pan.	A woman puts chopped eggplant into a skillet.
+12050	Two men are playing football.	Two men are practicing football.
+12051	Two girls are jumping high in the air.	Two dogs nussle one another in the grass near a lake.
+12052	The men are playing cricket.	The men are playing basketball.
+12053	A kid runs away from a fish swinging around on a fishing pole.	A little kid is running around a fishing pole.
+12054	A girl is riding a horse.	The girl trotted the horse.
+12055	A black, brown and white dog running through a field.	A white and brown dog runs in a field.
+12056	A man shoots a man.	A man with a pistol shoots another man.
+12057	A person is boiling noodles.	A cat is licking a bottle.
+12058	A woman is dancing by a fire.	A man ties a noose.
+12059	A woman is peeling a potato.	A man is slicing potato.
+12060	A girl is styling her hair.	A girl is brushing her hair.
+12061	Several people are sitting around a fire at night.	A group of people sit around a blazing fire at night.
+12062	The group of hikers is resting in front of a mountain.	Several hikers rest with their gear in front of a mountain.
+12063	A man is playing two pianos.	A cat is playing a piano.
+12064	A man and woman dance.	A man is petting a dog.
+12065	The lady sliced a tomatoe.	Someone is cutting a tomato.
+12066	A black dog walking through water.	Two black dogs walking through the snow.
+12067	A man is playing a flute.	A man is riding a scooter.
+12068	A man is playing a guitar.	A woman is riding a horse.
+12069	Three dogs running in the dirt.	The yellow dog is running on the dirt road.
+12070	A monkey pulls the tail of a dog.	A monkey is teasing a dog at the zoo.
+12071	A man is speaking on a phone.	A panda bear is chewing on a stick.
+12072	The two dogs are playing fetch in the snow.	The dogs play in the snow.
+12073	A person is frying meat in a pan.	A person is holding a skunk.
+12074	The woman is kneeling next to a cat.	A girl is standing next to a man.
+12075	The man is playing the guitar.	A man is playing guitar.
+12076	A man is singing into a microphone.	A man is dancing in the rain.
+12077	Two boys in black swimming trunks are holding another boy by his arms and legs on a beach.	Man in white shirt flipping young boy in the water with four other boys surrounding them.
+12078	A woman is cutting some herbs.	A woman is chopping cilantro.
+12079	The smiling woman at the beach is buried in seaweed.	A girl in a cowboy hat with a sheep on a leash.
+12080	A woman is peeling a potato.	A lion is walking around.
+12081	A man pours rice into a pot.	A man is putting rice in a bowling pot.
+12082	A tattooed man in black playing a white guitar and singing.	A woman in a black and white coat and earmuffs.
+12083	A woman is adding spices on a meat.	A woman adds ingredients to beef.
+12084	A man cuts a potato.	A man is slicing a potato.
+12085	A woman puts slabs of meat in a pan.	A man puts pieces of meat into a plastic bag.
+12086	The girl is wearing a blue striped shirt and Rollerblades.	a man wearing a black and white shirt jumping on a dogs back
+12087	A badger is digging in the dirt.	A man is moving large rocks.
+12088	A person is playing the keyboard.	A boy is playing a key-board.
+12089	A girl is talking to her dad on a cellphone.	a girl is talking on her phone.
+12090	Someone is drawing.	Someone is dancing.
+12091	A man is adding pork chops to a pan.	A woman is peeling a potato.
+12092	A black dog is chasing after a red Frisbee.	A black poodle is running in the snow.
+12093	The man is using a camera to hammer a nail.	Someone is banging a camera lense against a nail.
+12094	A cat is licking a sucker.	A woman is slicing cucumber.
+12095	A red haired women in black is posing for a man while resting on a tree.	A man in a black shirt is holding a child wearing sunglasses.
+12096	Girls are walking on the stage.	Women models are walking down a catwalk.
+12097	A baby elephant is eating a small tree.	A little girl peddling a scooter.
+12098	A man is walking slowly across a rope bridge.	A boy is walking across a bridge.
+12099	A man is running on a field.	A man climbs up a rope.
+12100	A woman is slicing up some meat.	A woman is breading some meat.
+12101	A young boy jumps into a pool with outstretched arms.	A dog jumps into a backyard pool.
+12102	Three boys are dancing.	Kids are dancing.
+12103	A man is playing keyboard.	A person is playing a piano.
+12104	Two soccer players battle for the ball during an intense match.	Two little orange and white dogs are in the snow.
+12105	A chimp is kicking a target.	A woman is putting oil into a skillet.
+12106	A woman cuts up a vegetable.	A woman is slicing egg plant.
+12107	A young boy in red swim trunks is jumping into a pool.	A dog is being squirted with a hose as it jumps into a paddling pool.
+12108	A little girl peddling a scooter.	A girl is riding a scooter.
+12109	Two dogs play in the grass.	Two dogs are playing in the grass.
+12110	A sad man is jumping over a small stream to meet his companion on the other side.	A man is jumping over a stream to meet his companion on the other side.
+12111	A man and a woman walk through the woods.	The man and woman are walking.
+12112	The baby is laughing and crawling.	A baby is laughing and crawling on the floor.
+12113	A man is running.	A man is singing.
+12114	A white dog with red ears is running in the snow.	a wet black dog with a red collar is in the river
+12115	A large brown dog is crouching in a grassy field.	A brown dog is running in a field.
+12116	A boy is riding a bike on a gate.	A woman is riding a horse.
+12117	Three guys in speedos have their feet up on the railing of a boat getting a tan.	A few men on the deck are dropping another man into the water
+12118	Two black dogs playing in the grass.	Two dogs play in the grass.
+12119	A bird sits in a tree.	A bird sits in a leafless tree.
+12120	A woman is brushing some shrimp.	A woman brushes some shrimp.
+12121	A person is adding food in a pan.	A man is dancing in the street.
+12122	A small guinea pig is gnawing and eating a piece of carrot on the floor.	A Guinea pig eats a carrot.
+12123	A tiger trys to climb the wall.	A lion is trying to climb up over a wall.
+12124	The boy is playing the piano.	The woman is pouring oil into the pan.
+12125	A dog sat at the counter of a store.	The dog is standing at the counter.
+12126	A person is riding a horse.	A woman is slicing potatoes.
+12127	A man walking down the stairs.	A man walks down a staircase.
+12128	Boat sails in rough water.	A man is kayaking in rough waters.
+12129	Two people wearing hats sit and look at the camera.	A man wearing a blue shirt makes a grouchy face.
+12130	A dog runs through the grass.	A dog runs through the snow.
+12131	They are preparing for a performance at school.	Two medical professionals in green look on at something.
+12132	two puppies playing around in the grass	Two puppies play in the grass
+12133	a group of old men walking down the street	A couple walking down the street.
+12134	A man with a hard hat is dancing.	A man wearing a hard hat is dancing.
+12135	Kids play soccer on a field.	Three boys playing soccer in a field
+12136	A woman in jeans plays a video game in front of a large screen.	A man and a woman are posing for a photograph in front of a yellow flower-bed.
+12137	A woman puts ingredients in a whisked egg.	A man pours gasoline.
+12138	A woman is slicing an onion.	A man is slicing a tomato.
+12139	A woman is playing flute.	A woman plays on a flute.
+12140	The brown dog is running along a grassy pathway.	A brown dog is running along a grassy stretch divided by strings.
+12141	The cougar is chasing the bear.	A cougar is chasing a bear.
+12142	A black and white dog is swimming in a large green lake.	A black dog runs fast into shallow water.
+12143	A boy and a girl playing on the beach.	A dog playing in the waves with a ball.
+12144	The man erased what the other man had on the board.	The man erased the work on the board.
+12145	The girl with the blue bucket splashes beneath the pier.	The girl in the ski jacket is walking near the buildings.
+12146	A little boy hits a golf ball.	The little boy swung at the golf ball.
+12147	A group of people are wearing police uniforms conducting an arrest.	A group of police officers are wearing protection.
+12148	A boy is playing a key-board.	A little boy is playing a keyboard.
+12149	A woman is slicing a lemon.	A man is showing a bread.
+12150	There was girl stranded on the roof.	The couple was on the bed.
+12151	The man is playing the guitar.	The girl is playing the guitar.
+12152	the men are about to score in a water polo tournament	The two men are about to compete in a match.
+12153	The boy in the green jersey plays goalie on the soccer team.	The team in blue is playing a game against the team in white
+12154	A man is playing a guitar.	The girl is playing the guitar.
+12155	A cat opens a drawer and climbs inside.	A cat is opening a drawer and climbing inside.
+12156	A black and a yellow dog	A black dog and a brown-and-white dog play in a field.
+12157	Dog running towards camera with a ball in its mouth.	The black and white dog swims with a brown object in its mouth.
+12158	Two baby pandas are playing.	Two pandas are laying together.
+12159	A lion is playing with people.	A lion is playing with two men.
+12160	The man is shaking hands with other men.	A man is shaking another mans hand.
+12161	A man with glasses is talking.	A man in a library is talking.
+12162	A woman feeds an animal by hand.	The women are feeding the animal.
+12163	A dog running across the sand	A dog running through the water.
+12164	A kid is talking in class.	A girl is going to class.
+12165	Two dogs running through tall grass.	Two dogs are running through a grassy area.
+12166	A dog runs through a field chasing a ball.	A child runs through the grass.
+12167	Little white dog wearing a leash jumping after a red ball.	A black and white dog returns a stick in the snow.
+12168	A cow is eating grass.	A cow is eating hay.
+12169	Women are holding each other and dancing together.	Two men are playing table tennis.
+12170	A little boy clowns with a colander on his head.	A boy with a metal colander on his head.
+12171	a girl with vases in the background inside her house	The girl is standing as the other girl with glasses works on her hand painting.
+12172	A woman tosses a cat in the air, and the cat hangs off a rod on the ceiling.	A person throws a cat in the air and it grabs onto the ceiling.
+12173	The hedgehog chewed on the towel.	A hedgehog is biting at a blanket.
+12174	A hockey player looks intently downward.	A hockey player during a game.
+12175	The rhino grazed on the grass.	A rhino is grazing in a field.
+12176	A boy is playing piano and singing.	A pig is agitating a lion.
+12177	A man helps a boy ride a bike.	The man helps the boy ride a bike.
+12178	Two men are dancing.	Two women are shopping.
+12179	A woman is riding a horse.	A woman is riding a donkey.
+12180	The man has a orange shirt.	The woman has a orange shirt.
+12181	Spectators taking pictures of a rally car.	A crowd of people watching cars race down the track.
+12182	Two hockey players fighting on the ice.	Two hockey players in a struggle on the ice.
+12183	A car backs out of a space.	A car is taking reverse.
+12184	A man stands astride a bike on a rocky trail by a lake.	A woman is wearing a white headband, purple tank top and black gloves.
+12185	A group of people are nervous about crossing the water.	A group of people are on the water.
+12186	a brown dog running through the dirty muddy grass	The large brown dog is running outside in the dirt.
+12187	The sky has very little to no clouds.	This Lady might be ready for Rock Climbing, or just watching the Clouds, above.
+12188	A man is playing the drums.	A man is playing the guitar.
+12189	A woman and a man are amused by headphones.	A man and a woman resting after exercise.
+12190	The man did pushups on a wall.	The man tased the food.
+12191	A man is cutting a paper.	A person is tearing paper.
+12192	A man is riding a bike.	A panda bear is eating.
+12193	Some children are raising their hands and clapping.	Three children are playing soccer in the sand.
+12194	A baby rhino is walking around his pen with his mother.	A baby rhino is following an adult rhino.
+12195	A man is dancing.	A man is thinking.
+12196	A woman is playing the guitar.	A person is playing a guitar.
+12197	Three children wrestle on a floral carpet.	Three children playing on the floor.
+12198	A man is praying.	A man is dancing.
+12199	The girl has a driver's license	A man has a driver's license.
+12200	A man is shooting a gun.	A man is spitting.
+12201	People are playing baseball.	The cricket player hit the ball.
+12202	Three dogs playing in the snow.	Three dogs are playing in the water.
+12203	A man is holding up and talking about a gray You Tube T-shirt.	A man is showing a t shirt.
+12204	A man is cutting apple by his hand.	A man is cutting carpet with a knife.
+12205	A brown dog laying on a blue cover.	A person is diving into clear blue water.
+12206	A person is picking a komodo dragon and putting it in a box.	A person is placing a baby komodo dragon into a container.
+12207	A ballet dancer is performing on stage.	The beaver is being petted.
+12208	The white and brown dog runs across the grass.	A brown and white dog runs across the grass.
+12209	A man is playing a guitar.	A woman is playing an electric guitar.
+12210	A dog is playing in the snow.	A dog is pawing at a fly in the carpet before it.
+12211	A man in red swim trunks playing volleyball.	A man and woman sitting on a motorcycle.
+12212	The fruits should be eaten with lemon juice in order to prevent oxidation in your stomach.	three dogs growling On one another
+12213	Two Asian men and Asian woman sit in black massage chairs.	Two Asian men and a woman are relaxing in massage chairs.
+12214	A woman peels shrimp.	A woman is peeling shrimp.
+12215	A man is spinning.	A man is dancing.
+12216	Blond boy jumping onto deck.	A boy jumping down a wet inflatable slide.
+12217	The lady made some slices on the shrimp.	A chef is slicing a shrimp.
+12218	A cartoon woman dives into a pool.	A cartoon woman is diving off a board.
+12219	a wet black dog with a red collar is in the river	A black dog with a red collar wading through the water.
+12220	A woman is cutting an onion.	A woman is cutting through an onion.
+12221	A helicopter is landing on a helipad.	A helicopter lands.
+12222	A person wipes butter on a tray.	A person is buttering a tray.
+12223	a man working at the steel mill	A man working in a foundry.
+12224	A man is jumping a wall.	A man jumps onto a short wall.
+12225	A person is rinsing a steak off with water.	A man is rinsing a large steak.
+12226	A group of people are sitting at at a beach on towels watching the Blue Angels.	A group of people are sitting at a beach watching the Blue Angels.
+12227	A baby elephant is eating.	A baby elephant eats a sapling.
+12228	A woman in a black dress smiles in front of a silver truck.	A girl wearing a black top is smiling with a silver truck in the background.
+12229	A man in a blue dress shirt.	A man in a white shirt and blue pants is talking with a woman in a pink shirt.
+12230	A cat is pouncing on a trampoline.	A man is slicing a tomato.
+12231	A monkey is karate kicking a person.	A monkey pratices martial arts.
+12232	A little boy is playing a keyboard.	A boy is playing key board.
+12233	Three people sit at a picnic table outside of a building painted like a union jack.	Three people sit at an outdoor table in front of a building painted like the Union Jack.
+12234	A child runs into and out of the ocean waves.	A young boy is running toward and from the ocean waves.
+12235	Two dogs are playing around in the dirt.	A dancer posing for the camera in a red and white dress.
+12236	A man and a woman are kissing each other.	A man and a woman are talking to each other.
+12237	A man is straining pasta.	A man plays a wooden flute.
+12238	A motorcross driver going by during a race	A race car driver performs in the race of his life.
+12239	A man plays a guitar.	A man is playing a guitar.
+12240	The man talked on the telephone.	Girls are walking on the stage.
+12241	A man is making a bed.	A woman is playing a guitar.
+12242	The woman is drinking lemonade and watching T.V.	The man is sitting drinking coffee.
+12243	A person breaks an egg into a small bowl.	A man cracks an egg.
+12244	Two dogs fighting in the snow.	Two dogs standing in the snow.
+12245	A group of teenagers in red shirts are smiling.	A group of people are wearing orange shirts.
+12246	A man is peeling potato.	A man is playing a guitar.
+12247	A man with a grey beard rides his bike on the beach of the ocean.	A spotted dog stands on his hind legs to catch a ball on the beach.
+12248	The woman is shooting a machine gun.	The man is shooting a gun.
+12249	A woman is applying eye liner to her eyelid using an eye pencil.	A woman is applying cosmetics to her eyelid.
+12250	A baby is crawling happily.	A baby sneezed and scared another baby.

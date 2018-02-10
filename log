@@ -1,0 +1,27 @@
+Best Params:
+{'n_estimators': 300}
+Best CV Score:
+-0.6948786136251307
+Best Params:
+{'n_estimators': 300}
+The Peasorn of RandomForest: 0.821383882377
+The peasorn of GradientBoostingRegression: 0.814689618923
+The peasorn of all: 0.820553125184
+The Peasorn of Xgboost: 0.814597643058
+
+The Peasorn of RandomForest: 0.819063604526
+The peasorn of GradientBoostingRegression: 0.815973263185
+The peasorn of all: 0.819069260632
+The Peasorn of Xgboost: 0.812198136656
+
+
+Best Params:
+{'n_estimators': 400}
+Best CV Score:
+-0.688270384650971
+Best Params:
+{'n_estimators': 350}
+The Peasorn of RandomForest: 0.817893196354
+The peasorn of GradientBoostingRegression: 0.81366238197
+The peasorn of all: 0.818067791602
+The Peasorn of Xgboost: 0.809983882023

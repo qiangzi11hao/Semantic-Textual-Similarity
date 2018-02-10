@@ -1,0 +1,1500 @@
+10001	two big brown dog run snow 	brown dog run grass 	2.00000
+10002	woman peel potato 	woman slice tomato 	1.33300
+10003	small boy build wooden blocks 	small boy wear blue shirt stack wooden blocks 	4.00000
+10004	soccer player kick soccer ball goal 	soccer player score goal 	3.80000
+10005	man spin surf board 	man put barbecue sauce chicken 	0.00000
+10006	person snowmobile 	person snowmobile mid jump 	3.60000
+10007	person scrub zucchini 	woman scrub zucchini vegetable brush 	4.00000
+10008	dog jog grass 	dog trot grass 	5.00000
+10009	three child play hay outdoors  throw camera lens 	three young child play hay  throw camera 	4.80000
+10010	men fighting 	two men fighting 	4.25000
+10011	man play flute 	man dancing 	0.20000
+10012	people play cricket 	men play cricket 	3.20000
+10013	young adult cold	asian child play dog 	0.20000
+10014	girl slice onion 	woman chop onion small pieces 	2.20000
+10015	two black white dog play together outside 	two child black dog play snow 	1.00000
+10016	woman fry grind meat 	man cut trunk axe 	0.50000
+10017	rabbit sniff paw stuff rabbit 	live rabbit play stuff animal bunny 	4.50000
+10018	pair dog play purple ball 	two dog play purple football 	4.40000
+10019	man play haki sak office 	man season vegetables 	0.40000
+10020	black white dog run water 	black white dog run grass 	2.60000
+10021	woman hold newspaper 	man rollerblade metal bar 	0.00000
+10022	two people walk ocean 	two men fleece hat look camera 	0.40000
+10023	baby laughing 	baby laugh giggling 	4.00000
+10024	puppy play plastic container 	dog play plastic container 	3.80000
+10025	man read email 	person open banana 	0.00000
+10026	girl slice butter two pieces 	woman slice tofu 	1.00000
+10027	kitten drink milk bowl 	small child drink water cup 	0.80000
+10028	man play drums 	man play drums 	5.00000
+10029	man peel banana 	woman peel potato 	1.40000
+10030	girl sing play guitar 	young man sing play guitar 	2.40000
+10031	someone slice onion 	someone carry fish 	0.75000
+10032	one woman measure another woman s ankle 	woman measure another woman s ankle 	5.00000
+10033	man talk phone 	man talking 	3.20000
+10034	man play musical keyboard 	man play keyboard piano 	5.00000
+10035	monkey hang trees 	monkey swing branch branch 	2.00000
+10036	woman play guitar 	man sing play guitar 	1.75000
+10037	man play guitar 	man play guitar 	4.85700
+10038	squirrel run around circles 	squirrel move circles 	4.40000
+10039	young boy wear red winter coat eat hold candy bar 	young boy wear red coat eat chocolate bar 	4.00000
+10040	man slice bun 	man break pots 	0.40000
+10041	many people beach  near build flag flying 	busy beach ha people scatter watch sky 	2.40000
+10042	two men fighting 	man exercising 	0.75000
+10043	man woman kiss other 	man woman hug kiss other 	3.40000
+10044	woman eat fish restaurant 	woman eat large fish restaurant 	4.60000
+10045	dog jump trampoline 	dog bounce trampoline 	4.80000
+10046	young boy hold guitar 	little boy play guitar 	2.75000
+10047	man eat pizza 	man eat slice pizza 	4.80000
+10048	man cut grass 	clown singing 	0.00000
+10049	brown white dog walk shallow waters 	white brown dog appear walk water 	4.60000
+10050	man play guitar 	man seat room play guitar 	4.00000
+10051	man row boat 	man slice tomato 	0.40000
+10052	woman slice potato 	woman slice carrot 	2.50000
+10053	person mix water flour 	person hitchhike road 	0.80000
+10054	couple policewoman sing karaoke 	two woman dancing 	0.80000
+10055	person peel shrimp 	person prepare shrimp 	3.60000
+10056	dog  superman  shirt sleep blanket 	brown dog superman shirt lay blue blanket 	4.00000
+10057	woman cut pineapple 	woman slice pineapple pieces 	4.00000
+10058	woman waterskiing 	woman wake board lake 	1.75000
+10059	man draw figures 	man draw digital dry erase board 	3.33300
+10060	woman add oil pan 	man pour oil pan 	3.00000
+10061	lady cut potatoe 	man cut potato 	2.40000
+10062	dog swim stick mouth 	dog swim water stick mouth 	5.00000
+10063	man dance ceiling 	man dance ceiling room 	4.80000
+10064	men perform stage 	comedic mime perform stage 	2.60000
+10065	young girl smile head upside	girl pose head upside down 	4.60000
+10066	man play guitar 	man drain pasta 	0.40000
+10067	two girl shore watch people boat fish 	two males  one red one white play basketball game 	0.00000
+10068	girl dance cage 	onion chopped 	0.00000
+10069	white dog run across snow 	white bear walk along snow covered grind cast shadow snow 	1.40000
+10070	woman slice meat knife 	man spread dough 	0.41700
+10071	man play guitar 	someone handle bun 	0.00000
+10072	skateboarder city street 	skateboarder air big  outdoor ramp 	2.60000
+10073	turtle walking 	tortoise walking 	4.40000
+10074	squirrel spin around circles 	squirrel run around circles 	4.00000
+10075	three dog snow fence 	two dog drink water lake 	1.00000
+10076	pair men walk along beach 	two men stand surf beach 	2.60000
+10077	two dog pee red fire hydrant 	two dog urinate red fire hydrant 	5.00000
+10078	paper cut scissors 	piece paper cut 	4.00000
+10079	woman cut onion 	woman chop onions 	4.80000
+10080	woman peel orange 	man play flute 	0.00000
+10081	man play ukulele 	man sit play small guitar 	2.20000
+10082	two gray dog run together green grass 	two grey dog run green grass 	4.60000
+10083	two dog snow	two dog play grass 	2.40000
+10084	man skate set stairs 	man ski snowy hill 	0.80000
+10085	small child play letter p	  young girl sit front bookcase   read book 	0.80000
+10086	plane ride road 	airplane move along runway 	2.81200
+10087	child two dog play water 	child red blue floaties look water 	2.20000
+10088	black dog white dog play street 	black dog white dog play street together 	4.60000
+10089	person play guitar 	man play guitar 	3.00000
+10090	man perform labor 	man perform today 	2.80000
+10091	man draw picture 	person drawing 	3.60000
+10092	girl fly kite 	girl run fly kite 	4.00000
+10093	woman chop garlic 	woman slice fish 	1.00000
+10094	someone play piano 	someone play guitar 	2.40000
+10095	someone greating carrot 	woman grate orange food 	2.50000
+10096	someone fold piece paper 	person slice small piece ginger 	0.25000
+10097	black dog run snow 	black brown dog run snow 	4.00000
+10098	man spitting 	man talking 	0.80000
+10099	woman slice carrot 	man slice tomato 	1.20000
+10100	group navy seal sing	group military personnel play brass quintet 	2.40000
+10101	boy doe skateboard trick stair downtown 	boy run sidewalk	0.60000
+10102	man season sausages 	man add season water bowl 	2.40000
+10103	flag wa move air 	flag waving 	3.75000
+10104	dog run grass 	two dog run brush 	2.80000
+10105	man jump bike trick surround trees 	boy rid green trick bike step outdoors 	3.00000
+10106	brown dog wade water 	dog splash murky water 	3.60000
+10107	man cut tomatoes 	woman cut broccoli 	1.50000
+10108	cheetah running 	cheetah run across field 	3.80000
+10109	young girl glass sit hold two american flags 	girl glass look two american flag near wooded area 	2.60000
+10110	black white dog jump water 	white dog run across water 	2.80000
+10111	female dj hold michael jackson album 	girl hold picture michael jackson smile	3.00000
+10112	man butter piece bread 	man apply butter bread 	5.00000
+10113	brown white dog run snow 	brown white dog run grass 	2.40000
+10114	woman put makeup man 	woman paint face man 	2.80000
+10115	man cut tomato pieces 	woman cut vegetables 	1.80000
+10116	young person deep thought 	young man deep thought 	4.60000
+10117	large tan dog run green item mouth	tan dog carry green squeak toy mouth 	4.40000
+10118	woman dance women 	woman shred chicken 	0.40000
+10119	white brown dog play black toy 	white brown dog play tug o war 	3.40000
+10120	two people walk water 	two girl walk tree front brick building 	1.20000
+10121	baby boy want mother 	baby boy happy see mother 	2.80000
+10122	man sell items 	man clean house 	0.80000
+10123	brown dog run green grass 	brown dog run though river 	2.40000
+10124	woman read public transportation 	man ha fall asleep public transportation 	1.60000
+10125	person pour rice pudding bowl 	lady pour rice pudding bowl 	4.00000
+10126	someone peel potato 	someone slice tomato 	1.40000
+10127	man dancing 	man eat bread 	0.80000
+10128	man play guitar 	baby play guitar 	1.80000
+10129	two child splash water 	two dolphin jump water 	1.40000
+10130	two little girl talk telephone 	two girl talk phone 	4.50000
+10131	woman hold kangaroo 	man hat sing song 	0.00000
+10132	man lift weight garage 	man lift weights 	4.25000
+10133	man sing play guitar 	man play guitar 	3.60000
+10134	man mow lawn 	woman cut lemon 	0.20000
+10135	young boy rid bike 	young girl lay blue inflatable toy	0.40000
+10136	skier fall snow 	skier fall face first snow 	4.00000
+10137	boy study calendar 	boy look calendar 	4.40000
+10138	two kid swimming 	six kid go swimming 	2.80000
+10139	man jump rope outside 	woman slice cucumber 	0.00000
+10140	two black dog jump play yellow tennis ball snow 	brown dog black dog play yellow soccer ball 	2.00000
+10141	man wear orange coat speak another walk snow 	man woman dressedin old fashion clothe sit outside table 	0.60000
+10142	brown white dog run across brown field 	person hang rocky cliff 	0.00000
+10143	three people stand outdoor glass structure 	girl stand high obstacle course platform 	0.40000
+10144	man peel potato 	man hiking 	0.50000
+10145	cat eat corn 	cat eat corn cob 	4.25000
+10146	man play guitar 	lady play guitar 	2.20000
+10147	bear run two dogs 	bear fight wolves 	1.40000
+10148	lady peel potatoe 	woman peel potato 	4.75000
+10149	soccer player kick soccer ball goal long way field 	soccer player kick ball goal 	3.25000
+10150	someone stir chili kettle 	someone stir pot chili spoon 	3.80000
+10151	two rooster fighting 	two men fighting 	2.00000
+10152	three dog play snow 	boy play sand 	0.80000
+10153	man try fee mouse snake 	man tease snake mouse 	3.20000
+10154	boy trick skateboard	boy doe trick skateboard 	4.80000
+10155	man take inside green pepper 	someone remove seed bell pepper 	4.00000
+10156	black dog run water 	black dog run water 	4.60000
+10157	couple run towards ocean 	man woman run together  hold hands 	2.81800
+10158	boy cut paper 	man load rifle 	0.00000
+10159	lady stir raw egg bowl 	woman pour eye bowl 	1.00000
+10160	two construction worker sit beam take break 	man put shirt near elevator 	0.00000
+10161	white dog run water beach	white dog run water onto shore 	4.60000
+10162	man cut pipe scissors 	man cut carpet knife 	1.20000
+10163	young girl dirt face red child s bike background 	old woman short white t shirt stand path watch child play 	0.80000
+10164	woman play flute 	man play keyboard 	1.00000
+10165	tree bend storm 	tree hit hard winds 	2.66700
+10166	two woman hold checker flag near orange car 	two lady skimpy clothe pose next old fashion car 	2.80000
+10167	woman mince garlic 	person clean disk 	0.00000
+10168	lady cut tail body shrimp 	woman clean shrimp 	4.50000
+10169	three child eat food 	deer jump fence 	0.00000
+10170	woman take bath 	woman rid horse 	0.53800
+10171	woman boil shrimp 	woman comb hair 	1.00000
+10172	woman walk side highway 	man stand one foot bridge 	0.40000
+10173	three little girl sit grass 	two poodle run snow 	0.80000
+10174	cook prepare food 	cook make food 	5.00000
+10175	two kid look product sell inside subway shop 	kid steal store 	0.80000
+10176	person cut mushrooms 	person cut mushroom knife 	4.20000
+10177	person walk stone path 	man walk sidewalk 	3.50000
+10178	man woman bollywood dancing 	man woman dance rain 	1.66700
+10179	black white dog jump air catch frisbee	black white dog jump yard 	3.40000
+10180	man row boat 	man shoot gun 	0.85000
+10181	man dangle mouse near snake 	man feed mouse snake 	3.20000
+10182	woman cut tomato 	woman slice potato 	1.00000
+10183	man play keyboards 	man rid mechanical bull 	1.20000
+10184	two worker sit next pipe eat lunch	construction worker sit eat lunch 	3.80000
+10185	woman play flute 	woman play flute 	5.00000
+10186	woman slice tomato 	man slice onion 	1.60000
+10187	black white dog ha mouth wide open 	black white dog jump snow 	1.80000
+10188	child slide snow 	man sleep street 	0.00000
+10189	big turtle walking 	tortoise walking 	4.25000
+10190	woman slice tofu 	woman put lipstick 	0.40000
+10191	lion cub try climb fence 	lion try climb wall 	2.75000
+10192	man hang line cliff water 	man sit pier bottle water 	0.60000
+10193	kitten play blue rope toy 	kitten play toy 	4.40000
+10194	man walk dog beach 	man dog beach 	4.40000
+10195	person writing 	person write pencil 	3.60000
+10196	two little girl play trampoline 	two little boy play playground 	1.40000
+10197	people stand escalator move up 	people ride escalator 	4.60000
+10198	baby crawl doorway 	baby crawl across floor 	2.40000
+10199	woman scrap carrot 	man strike clay pots 	0.00000
+10200	black brown dog run woods 	dog run woods 	4.00000
+10201	brown white dog run grass 	tan black dog run across grass 	3.40000
+10202	brown dog splash water 	four dog splash water	2.40000
+10203	man wear grey jacket stand side street 	boy wear blue life jacket hold onto side green boat 	0.60000
+10204	man play guitar 	man play guitar friend 	3.20000
+10205	man put chicken container 	man put food box 	2.50000
+10206	two different breed brown white dog play beach 	two dog play sand beach 	4.00000
+10207	person us blowtorch two cameras 	person burn cameras 	2.33300
+10208	man burn flag 	man shoot gun 	0.50000
+10209	woman look duck walk behind it 	woman go walk dog 	1.00000
+10210	man star leaf 	man slice vegetable 	0.80000
+10211	woman black dress red accessory walk street 	woman black dress walk street 	3.80000
+10212	woman fire rifle 	woman cut lemon 	0.20000
+10213	woman debone fish 	man catch fish 	1.25000
+10214	white brown dog run quickly grass 	big white dog run grass 	3.40000
+10215	dog run backyard full leaves 	three dog run field 	2.80000
+10216	man smell two pizzas 	woman feed man 	0.20000
+10217	cat shimmy bed 	cat crawl upside couch 	2.00000
+10218	girl purple shirt pink headband pose	young girl wear hat blue jean swing 	0.40000
+10219	cook season dough 	man season dough pan 	3.75000
+10220	dog barking 	jet flying 	0.23100
+10221	woman shoot gun 	woman shoot shotgun 	4.09100
+10222	woman braid hair 	man rid motorcycle 	0.00000
+10223	woman feed man 	woman mix meat 	1.00000
+10224	man open door 	man cut onion 	0.80000
+10225	two white dog walk snow 	tan dog black collar bark snow 	2.00000
+10226	man swing rope water 	man maroon bath suit swing rope lake 	3.00000
+10227	someone hold pet baby tiger 	someone rinse large beef steak kitchen sink 	0.40000
+10228	woman pick tomatoes 	woman pour batter bowl 	1.00000
+10229	man spread butter big piece bread 	man smear butter slice garlic bread 	3.50000
+10230	two skinny young boy play sand water 	two dog shake water off 	0.40000
+10231	man put broccoli water 	person peel potato 	1.00000
+10232	man rid bike 	woman dance street 	0.20000
+10233	woman slice onion knife 	man prepare dish 	1.25000
+10234	kid play guitar 	boy play guitar 	3.80000
+10235	man put two paper towel paper plate 	man put paper dish 	2.20000
+10236	explosion boom desert 	nuclear weapon explode desert 	3.40000
+10237	boy climb forest hill 	boy climb hill 	4.00000
+10238	herd deer cross street 	herd caribou cross road 	3.00000
+10239	people walk home	people waiting 	1.60000
+10240	woman cut potato 	woman rid horse 	0.75000
+10241	woman cut vegetables 	woman place skewer food onto cooker 	1.00000
+10242	boy play instrument 	man play trumpet 	2.50000
+10243	two people race sidecar motorcycle mud 	dog carry long stick mouth 	0.00000
+10244	man hug someone 	man take picture 	0.40000
+10245	white fluffy dog run pure white snow 	fluffy  white dog run snow 	4.60000
+10246	player bounce ball 	player catch ball 	1.60000
+10247	woman open soda drink it 	woman rid elephant 	0.60000
+10248	skier go snowy hill 	brown dog lay snow 	0.40000
+10249	men compete contest 	two woman compete contest 	2.40000
+10250	four child stool diner 	four child sit tall bar stool yellow grey bar 	3.60000
+10251	man play basketball 	man play piano 	1.40000
+10252	two brown dog bite other 	two brown dog bite sand 	4.20000
+10253	man play guitar 	man play flute 	1.80000
+10254	man play white guitar 	man play white guitar sing well	3.20000
+10255	cat drink milk 	kitten drink milk 	4.00000
+10256	man ha ski ready field get ice	man boat get ready pull net see caught 	0.40000
+10257	woman cut onion 	woman cut meat 	2.00000
+10258	puppy try come sink 	puppy try get tub 	3.00000
+10259	man find something 	woman slice something 	0.80000
+10260	man look window 	woman swim water 	0.25000
+10261	young boy white dress shirt play grassy plain 	woman get hair salon 	0.00000
+10262	young boy hair stand up  slide blue slide	kid orange shirt slide teal slide 	2.60000
+10263	man play guitar 	woman play flute 	1.80000
+10264	man dog rock beach 	man dog rocky seashore 	4.60000
+10265	lady put skewer shimp hot water 	lady fry bread meat hot oil 	1.60000
+10266	tan dog jump catch tennis ball 	red dog jump catch tennis ball mouth 	3.00000
+10267	man cut carpet knife 	man cut carpet knife 	4.75000
+10268	woman sitiing down 	two woman sit close talking 	2.60000
+10269	two homeless men stand outside cardboard sign 	two homeless young men hold cardboard sign 	4.60000
+10270	white dog run beach 	white dog run along beach 	5.00000
+10271	man smoking 	man mixing 	0.20000
+10272	woman lie blanket rock read book 	woman seat sing song play guitar too 	1.20000
+10273	two men push cart woods 	two men push carts 	3.50000
+10274	black dog run white dog snow 	black dog chase brown dog snow	1.80000
+10275	person boil soup 	woman place egg pan 	0.25000
+10276	woman slice herbs 	man slice bread 	1.60000
+10277	two little girl talk phone 	little girl walk street 	0.50000
+10278	man play keyboard 	man play keyboard 	5.00000
+10279	man bowling 	kitten walking 	0.00000
+10280	clown strike pose camera 	child orange boogie board waves 	0.60000
+10281	black poodle play snow 	black poodle frolic snow 	5.00000
+10282	man kick soccer ball 	man perform trick soccer ball 	2.60000
+10283	man stir sauce chicken 	man stir oil 	2.40000
+10284	man play guitar sings 	man sing play guitar 	5.00000
+10285	woman fold paper 	woman apply eye shadow 	0.40000
+10286	woman add oil fishes 	woman rid horse 	0.80000
+10287	four snowboarder go jump air 	two racer come turn 	1.00000
+10288	man tie stenographer machine 	man use stenograph 	2.25000
+10289	woman cut pink loaf knife 	man play guitar 	0.11800
+10290	woman blue bath suit jump dock lake 	boy blue shirt blue jean run across playground	0.40000
+10291	man rid bicycle narrow path 	man rid unicycle pave road	2.60000
+10292	many middle eastern people sit back blue truck 	group people rid back truck 	3.40000
+10293	cat jump box 	young man talk leaf 	0.00000
+10294	helicopter get ready take off 	plane get ready take off 	2.80000
+10295	man play piano 	man play guitar 	1.60000
+10296	small dog run obstacle course 	small dog jump obstacle 	3.80000
+10297	dog run long grass 	dog lay long green grass 	2.60000
+10298	girl sing stage 	man sing stage 	2.80000
+10299	woman slice pepper 	woman cut red pepper 	3.93800
+10300	woman spread mustard bread roll 	kitten play woman s finger 	0.00000
+10301	golden color dog jump around grass hold stick mouth 	black dog run grass carry something red mouth 	2.40000
+10302	girl communicate sign language 	young girl use sign language 	3.94100
+10303	blonde woman look medical supply work suitcase 	blond woman search medical supply suitcase 	5.00000
+10304	person slice scallop 	person slice octopus 	2.00000
+10305	woman paint picture large build see background 	person paint picture large build see background 	4.20000
+10306	man play electronic keyboard 	man play flute 	1.20000
+10307	man play piano 	woman play guitar 	1.20000
+10308	polar bear slide snow 	polar bear slide across snow 	5.00000
+10309	man attack woman 	man slap woman 	3.60000
+10310	two men sit room 	two men stand room 	3.00000
+10311	man eat popcorn watch cartoon late one night 	man girl watch cartoon home	2.80000
+10312	group four child dance backyard 	group child stretch color mats 	1.60000
+10313	three dog play white snow 	two dog play grass 	1.60000
+10314	black white dog run grass 	tan dog walk snow 	2.00000
+10315	woman write something 	woman chop green onions 	0.80000
+10316	lionel richie dance ceiling 	lionel ritchie dance stand ceiling 	4.00000
+10317	dog look swim pool 	dog walk around pool 	2.00000
+10318	woman mix eggs 	woman eating 	0.50000
+10319	man break wooden board hand 	man break tile hands 	2.50000
+10320	woman play flute 	woman play flute 	5.00000
+10321	black dog run snow 	black dog run water 	2.40000
+10322	dog red toy mouth 	brown dog carry stick mouth 	2.20000
+10323	man dancing 	rat running 	0.00000
+10324	person stir rice 	woman crack egg 	1.00000
+10325	man long hair look camera 	man sunglass look straight ahead 	2.00000
+10326	woman sit water 	woman skate park 	0.80000
+10327	woman play guitar singing 	woman play guitar 	3.20000
+10328	kangroo eat something 	kangaroo eating 	4.80000
+10329	woman apply eye shadow 	woman wash bowl 	1.20000
+10330	young boy play red ball pit 	laugh boy lie pit blue balls 	3.00000
+10331	man eat wood 	man add oil car 	0.50000
+10332	one boy push another boy swing 	boy push another boy swings 	4.80000
+10333	man karate kick another man wear protective box gloves 	man kick box trainer 	2.50000
+10334	little white curly haired dog run across pavement stick mouth 	white curly haired dog run stick mouth 	4.60000
+10335	woman play flute 	girl play flute 	3.80000
+10336	woman slice lemon 	man talk microphone 	0.00000
+10337	two men dance together 	woman open closet 	0.00000
+10338	person slice bread pieces 	man slice bread 	3.20000
+10339	woman fry something pan 	man play guitar 	0.00000
+10340	man woman walk past record shop	man woman kiss front crowd people 	0.20000
+10341	dog play snow 	two dog play shore 	1.80000
+10342	raccoons eating 	man eating 	1.50000
+10343	two dog run snow	dog lay snow 	2.20000
+10344	man rid bike 	man rid horse 	2.00000
+10345	man speaking 	man spitting 	0.63600
+10346	man play guitar 	man play flute 	1.64300
+10347	dog run field 	dog run field 	4.80000
+10348	person check rice pudding 	horse running 	0.00000
+10349	black horse run around 	horse running 	4.20000
+10350	someone pour oil skillet 	someone pour milk blender 	1.60000
+10351	two boy play field 	two people head cover scarves 	0.00000
+10352	woman hold dog another dog stand nearby field 	lady hold one dog another dog play yard 	3.40000
+10353	target hit gun fire 	target wa shoot bullets 	4.21400
+10354	surfer rid break wave 	group surfer catch wave	2.60000
+10355	two kid walk path woods 	two child walk path woods 	5.00000
+10356	boy red jump sandbox 	dog swim pond	0.00000
+10357	women talking 	men talking 	2.60000
+10358	man dance diner 	bomb explode desert 	0.00000
+10359	man play piano 	man play wooden flute 	1.40000
+10360	man play violin 	man play violin 	5.00000
+10361	group couple dancing 	men woman dance slowly 	3.33300
+10362	someone blanket 	person make blanket 	1.40000
+10363	man play violin 	man play harp 	1.60000
+10364	woman slice pumpkin 	woman rid elephant 	0.40000
+10365	infant sit cot reach touch face old boy 	boy seem ill touch face toddler 	2.20000
+10366	many football player sit ground 	dog roll ground 	0.00000
+10367	dog steal food refrigerator 	dog take something refrigerator 	3.20000
+10368	little girl ribbon hair pick nose 	little girl purple shirt helmet rid scooter 	1.20000
+10369	man play piano 	man play guitar 	1.77800
+10370	girl read newspaper 	chef peel potato 	0.00000
+10371	shirtless man play football lawn 	shirtless man catch football	4.40000
+10372	woman add mushroom liquid pot 	young man play guitar 	0.00000
+10373	person comb cat hair 	person brush cat 	4.40000
+10374	group teenager jump air beach 	group young people jump air beach 	4.80000
+10375	person slice onion 	cat pooping toilet 	0.00000
+10376	man shoot car 	man cut potato 	0.40000
+10377	yard ha dog 	dog run another dog 	1.60000
+10378	cat play antenna 	boy play mud 	0.40000
+10379	man prepare snake cooking 	man drop slice cucumber water 	1.00000
+10380	man pour liquid pan 	chef pour oil pan 	2.60000
+10381	wet child shiver towel pool 	wet child shiver towel front pool 	4.60000
+10382	child jump swim pool 	dog jump swim pool 	1.20000
+10383	person chop coriander leaves 	woman slice green leaves 	2.25000
+10384	dog stick follow another dog water 	four wheel drive car drive mud 	0.00000
+10385	group men play brass instruments 	group guy play instrument outside 	3.40000
+10386	group people dance	group men dancing 	3.40000
+10387	close up hummingbird 	closeup hummingbird flying 	3.60000
+10388	person red vest touch blue ice skate another person 	lady fasten someone s ice skate snow 	2.20000
+10389	two dog play shore 	two dog play snow 	2.80000
+10390	woman mix vegetables 	woman add ingredient skillet 	1.60000
+10391	man play soccer 	man draw figures 	0.40000
+10392	bulldog run grassy park people stand background 	dog run large body water cause splash 	1.80000
+10393	man laugh woman	man woman laughing 	4.80000
+10394	boy back flip swim pool 	boy wear red blue swim trunk jump head first swim pool 	2.40000
+10395	people sit around dimly light table smile laughing 	people sit benches 	2.00000
+10396	three child ball pit 	several child play ball pit 	3.40000
+10397	woman crack egg bowl 	woman place skewer onto rack 	0.60000
+10398	someone clean animal 	woman clean shrimp 	2.80000
+10399	man play guitar 	boy talk giant dog 	0.00000
+10400	young boy brown jacket play snow 	two dog play snow 	1.20000
+10401	two woman lose call help 	two asian men gather material business child come them 	0.20000
+10402	person wear scuba gear swim underwater water 	person scuba dive clear blue water 	3.80000
+10403	man ski snow covered hill mountain background	dog enjoy romp water mountain sand background 	0.60000
+10404	hockey goal keeper lay ice front net 	hockey player lay ice front goal 	4.60000
+10405	man pour oil pot 	man pour wine pot 	3.20000
+10406	large black white dog swim water 	black white dog stick muddy water 	3.60000
+10407	band play stage 	woman dance stage 	1.20000
+10408	man smoking 	man sit suit smoked 	4.00000
+10409	old man wear hat stand outside shop door 	man oversized shirt sit shop	2.20000
+10410	lion walk enclose area 	lion walk around 	2.60000
+10411	dog floppy ear walk towards camera woods 	child front reflection turn towards camera smiling 	1.20000
+10412	person play piano 	person slice potato 	0.50000
+10413	man crying 	man screaming 	3.00000
+10414	man woman rest couch 	man woman asleep couch 	4.00000
+10415	man rid horse 	man rid horse 	5.00000
+10416	woman run beach 	dog run across land 	1.80000
+10417	woman hold black purse smoke cigarette 	woman black bag smoke cigarette	4.80000
+10418	woman peel lemon 	man balance wire 	0.40000
+10419	man climb rope 	man sit rock 	0.25000
+10420	black dog run snow 	black dog run beach 	1.80000
+10421	person hold net stand water 	black woman two black child sit thatch tent 	0.60000
+10422	man cut tree axe 	man chop tree axe 	5.00000
+10423	white black dog jump pool 	woman black apron stand front mirror 	0.00000
+10424	woman slice tofu 	woman cut tofu 	5.00000
+10425	gorilla play drums 	monkey play drums 	3.33300
+10426	man make bed 	man speak audience 	0.75000
+10427	woman dancing 	woman exercising 	1.00000
+10428	man place meat bag 	man drivong car 	0.50000
+10429	woman attempt ride small wave 	man woman sit back back outside sun 	0.00000
+10430	woman add spice meat 	woman add sugar meat 	2.75000
+10431	woman boil eggs 	woman place two egg pot water 	3.00000
+10432	brown dog splash water everywhere shake water itself 	white dog stand river shake dry 	2.40000
+10433	man messenger bag front gray tile wall 	man red jacket stand front lighthouse 	0.80000
+10434	two men set electronic equpitment	two dog wrestle grind snow 	0.00000
+10435	man red jacket hold bike picture 	woman red jacket video tap natural landscape 	0.40000
+10436	woman crack two egg glass bowl 	woman crack egg bowl 	3.80000
+10437	swimmer backstroke swim pool 	person back stroke swim pool	4.80000
+10438	person fold square paper piece 	man fold paper 	3.25000
+10439	woman take picture 	man play guitar 	0.25000
+10440	person cut potato 	person slice shallot 	1.00000
+10441	men fight other 	man draw white paper 	0.40000
+10442	person rid skateboard air ramp 	biker rid along track element locate wooded area 	0.60000
+10443	man lay shoot gun	man lay grind shoot rifle 	3.80000
+10444	woman chop garlic 	woman dice garlic 	4.80000
+10445	man running 	man mooing 	1.00000
+10446	person peel shrimp 	man peel shrimp 	3.80000
+10447	boy rid tricycle 	woman rid water scooter 	1.25000
+10448	girl play flute 	band play stage 	1.28600
+10449	man cycling 	man talking 	0.60000
+10450	woman red overall stand sidewalk 	woman red overall stand sidewalk 	5.00000
+10451	man smoking 	baby suck pacifier 	0.00000
+10452	four girl happily walk sidewalk 	three young girl walk sidewalk 	3.40000
+10453	dog chase cat 	dog chase black cat 	4.40000
+10454	man dance ceiling room 	man dance upside down ceiling 	4.60000
+10455	man take slice pizza 	man talk cell phone 	0.80000
+10456	dog run grass	two dog run grass 	2.60000
+10457	two woman dance sing front crowd 	woman sing dancing 	3.53800
+10458	little boy little girl play together outside 	young boy young girl walk towards	2.00000
+10459	black dog bite light brown dog ear playful manner 	black dog playfully bite another dog live room set	4.00000
+10460	lady mix meat mixture bowl 	woman stir meat bowl 	4.00000
+10461	young girl 	young boy woman 	1.00000
+10462	woman brown hair 	woman ha gray hair 	2.40000
+10463	woman cut onion 	horse standing 	0.00000
+10464	two boy jump pool 	two boy midair jump inground pool 	4.20000
+10465	old man stand outside front truck 	woman dress green roller skate outside event 	0.00000
+10466	cyclist make bike jump two rocks 	man jump bicycle air two rocks 	4.40000
+10467	woman pose christmas card 	girl take photo 	1.20000
+10468	woman add pasta pot water 	woman make noodles 	3.60000
+10469	man aim gun 	boy play toy phone 	0.00000
+10470	player shoot win points 	basketball player score point team 	2.80000
+10471	dog run along grass 	brown dog run grass 	4.20000
+10472	man set camera take sunset picture beach 	man take picture lake 	2.20000
+10473	dog could figure get stick doggy door 	dog try get dog door 	2.75000
+10474	two sumo ringer fight other 	man ride water toy water 	0.00000
+10475	dog bite can 	dog open food 	1.75000
+10476	man play flute 	man pet tie dog 	0.20000
+10477	blond haired lady white pose camera 	black white dog run mouth open 	0.00000
+10478	woman sew machine 	woman bread meat 	0.60000
+10479	cat try touch dog 	cat tease dog touch head 	3.25000
+10480	boy play baseball 	man play baseball 	3.00000
+10481	three child play laugh floor 	three child play floor 	3.80000
+10482	girl dance sandy beach 	girl sandy beach 	3.60000
+10483	woman black shirt stand front banana fruit stand 	woman wear black stand front pickup truck 	2.40000
+10484	two dog run field 	two dog run field 	5.00000
+10485	three men dry pull subaru ditch along mountain road 	two men wait ride side dirt road 	1.40000
+10486	woman play electric guitar 	man play acoustic guitar 	2.40000
+10487	woman rest float raft 	woman relax inner tube 	3.80000
+10488	man play guitar 	man play guitar 	3.66700
+10489	man play flute 	man play piano 	1.60000
+10490	person put shred cheese pot 	hamster eat seeds 	0.25000
+10491	person rid horse 	man rid horse 	3.80000
+10492	woman slice onion 	woman cut onion 	4.20000
+10493	three child play floor toys 	three child sit floor play several toys 	4.20000
+10494	man add vegetable broth pot 	man add slice vegetable cook bowl water 	3.40000
+10495	tiger club play ball 	person chop shrimp knife 	0.00000
+10496	small boy play dog 	baby play dog 	3.75000
+10497	animal eating 	animal hopping 	0.40000
+10498	man play trumpet 	man play musical instrument 	3.40000
+10499	man singing 	man dancing 	0.50000
+10500	black person black red sleep bench open black umbrella 	man sit take nap park bench open umbrella protect sun 	3.60000
+10501	woman slice tomatoes 	woman chop potato 	1.40000
+10502	man eat food 	man eat piece bread 	3.40000
+10503	man woman rid car 	woman fry shrimp 	0.40000
+10504	woman serve volleyball net 	one woman hand volleyball another woman serf them 	2.75000
+10505	woman water skiing 	woman slice fish 	0.40000
+10506	man rid bicycle 	monkey rid bike 	2.00000
+10507	man slice bun 	man slice onion 	2.40000
+10508	three little boy cover bubbles 	three child stand pool cover foam bubbles 	4.20000
+10509	person slice onions 	someone slice onion 	4.60000
+10510	man run jump wall 	man jump wall 	3.40000
+10511	two dog yard 	two dog stream 	2.00000
+10512	man talk woman beach 	man walk street 	0.00000
+10513	little boy play guitar 	boy play guitar 	4.60000
+10514	woman cut broccoli 	woman cut broccoli 	5.00000
+10515	girl tide bed 	woman make bed 	2.50000
+10516	two men funny skit boxer front crowd people 	boys dance front people 	1.50000
+10517	group people walk sidewalk big city 	group people rid back truck 	1.00000
+10518	two dog beach 	dog walk beach 	2.40000
+10519	people make structure cards 	two people together one use piece clothe different way intended 	0.20000
+10520	man demonstrate work clay least two people observe 	least one three woman talk others 	0.60000
+10521	brown dog lay blue sheet 	brown dog two black dog overgrow grassy field 	0.80000
+10522	man backpack look left 	adult male wear backpack walk look left 	3.80000
+10523	girl style hair 	girl file nails 	1.25000
+10524	man peel potato 	man peel potatoe 	3.80000
+10525	brown white dog walk snowy steps 	black white dog frolic snow 	2.60000
+10526	man jump water 	man cut paper 	0.80000
+10527	woman man rid car 	woman drive car talk man seat beside her 	3.40000
+10528	puppy play blue tennis ball 	puppy play tennis ball 	4.00000
+10529	girl jump car 	girl jump onto car 	4.80000
+10530	man dog rocky seashore 	man dog stand rock next water	4.80000
+10531	man eating 	man eat food 	4.60000
+10532	two dog run grass near house trees 	two dog run green yard	4.20000
+10533	woman sit alone brick wall	woman walk red bag 	1.20000
+10534	cat rapidly swat kid head 	cat boy play together 	2.60000
+10535	man rooftop	man hold microphone room 	0.80000
+10536	batman robin fly helicopter water 	helicopter fly water 	2.60000
+10537	man cut bread 	man trick soccer ball 	1.00000
+10538	clown perform brother sister rest party watches 	blond haired child perform trumpet front house young brother watches 	1.20000
+10539	small white brown dog jump horizontal pole 	brown white dog jump red yellow pole	3.00000
+10540	man clean windows 	man drive car 	0.40000
+10541	woman rid horse beach 	man carry another man back 	0.40000
+10542	black dog jump water 	black dog shake water 	3.00000
+10543	    greyhound dog run around track 	muzzle greyhound dog run around track	4.00000
+10544	black dog run water 	black dog run water 	4.80000
+10545	young girl run beach 	little girl run shore beach 	4.20000
+10546	tiger walk around cage 	tiger walk around aimlessly 	3.00000
+10547	girl jumping 	boy rock climbing 	0.60000
+10548	woman beat two egg bowl 	person mix ingredient bowl 	3.00000
+10549	someone crack egg open 	man break egg 	3.00000
+10550	black dog lay sand 	kid play water	0.00000
+10551	man play keyboards 	man play guitar 	2.20000
+10552	two dog play grass 	two dog play snow 	2.80000
+10553	black dog wear orange collar entangle fish wire 	black dog wear red collar shake water off 	1.80000
+10554	black dog walk grass stick mouth 	black dog run grass toy mouth 	3.20000
+10555	woman shoot shotgun 	woman shoot rifle 	2.80000
+10556	boy play noodle pool 	boy play foam noodle toy pool 	4.60000
+10557	cat drink water 	truck go hill 	0.00000
+10558	softball player swing pitch 	baseball player hit ball	2.80000
+10559	man play piano 	woman play violin 	1.00000
+10560	man play piano 	man play piano 	4.00000
+10561	young man skateboard skate park 	boy blue shirt airborne skateboard skate park 	3.80000
+10562	owl ha wing widespread day 	bird ha wing spread flies 	2.40000
+10563	chimpanzee hurt woman 	man drive car 	0.00000
+10564	man play keyboard nose 	man play piano nose 	4.40000
+10565	man woman drive street jeep 	man woman drive road open air vehicle 	4.00000
+10566	woman smoking 	woman make food 	0.80000
+10567	woman swimming 	man spitting 	0.00000
+10568	man play guitar 	man eat pasta 	0.53300
+10569	deer jump fence 	deer jump fence 	5.00000
+10570	panda bear lay logs 	panda lie down 	3.60000
+10571	person peel shrimp 	lady peel shrimp 	3.50000
+10572	man rid horse 	man play keyboard 	0.20000
+10573	man chop tree axe 	man cut tree axe 	4.75000
+10574	two dog play snow 	two dog play snow 	5.00000
+10575	black dog run grass 	black brown dog run grass 	3.20000
+10576	two woman mix something food processor 	two woman make something blender 	4.00000
+10577	boy play guitar 	kid play guitar 	3.60000
+10578	black white dog jump hurdle 	white dog run bridge 	2.00000
+10579	woman pick kangaroo 	woman carry kangaroo 	3.50000
+10580	woman season oil 	woman pour ingredient bowl 	1.40000
+10581	two men help boy 	two men young child 	3.60000
+10582	man ride horse 	woman rub baby s leg 	0.00000
+10583	woman rid horse 	woman pick tomatoes 	0.50000
+10584	man mow grass 	guy mow lawn 	4.80000
+10585	woman knife slice pepper 	woman slice green pepper 	4.00000
+10586	fish swimming 	fish swimming 	4.13300
+10587	two woman couch 	two woman hug couch 	3.20000
+10588	two dog play snow 	two kid play dog 	1.20000
+10589	dog look around	dog watch store counter 	1.60000
+10590	flock bird hover sandy beach 	bird fly beach 	3.80000
+10591	dog leap dock water 	black dog leap dock water 	4.00000
+10592	boy school take test 	boy take test school 	5.00000
+10593	girl stand subway wait something 	girl stand dimly light area 	2.00000
+10594	woman put sun glasses 	woman put sunglasses 	5.00000
+10595	man woman rid bike street 	man woman rid bicycle across junction city 	3.60000
+10596	dog jump midair catch frisbee 	brown dog jump pink frisbee 	4.00000
+10597	man run street 	man play guitar 	0.80000
+10598	two people ride bike dirt road 	two people rid bike hill 	3.40000
+10599	dog jump chain 	dog leap chain 	5.00000
+10600	woman sit asleep head rest hand 	man rest head hand 	2.20000
+10601	man chase dog try pas barrier enter play area 	man follow black white dog take obstacle course 	2.20000
+10602	woman dog stand grass 	man carry sign stand rain 	0.00000
+10603	brown black dog jump catch red ball 	brown black dog jump red ball 	5.00000
+10604	skunk look there 	skunk look camera 	2.40000
+10605	man red short white shirt kick soccer ball 	black dog stand surf hold red rubber ball 	0.00000
+10606	kid play toy phone 	little boy play toy phone 	3.50000
+10607	man slice potato 	woman peel potato 	2.33300
+10608	rabbit play toy rabbit 	bunny play stuff bunny 	4.25000
+10609	man play guitar 	man play flute 	2.20000
+10610	man slice onion 	man slice onion 	5.00000
+10611	man hike woods 	man track wood 	3.00000
+10612	rooster peck dead mouse 	chicken peck dead mouse 	4.00000
+10613	two dog play beach together 	two black dog play grass 	3.00000
+10614	man rid bike beach ocean 	man walk cow side road 	0.80000
+10615	man pour oil pan 	man pour oil skillet 	4.20000
+10616	group kid jump contest 	group kid sleepover 	1.20000
+10617	woman cook eggs 	woman cook something 	3.00000
+10618	cow eat grass 	dog pull girl hill 	0.00000
+10619	someone mix ingrediants 	someone sew things 	0.25000
+10620	guy play hackysack	man play key board 	1.00000
+10621	woman man embrace watch horror movie 	man woman watch movie together 	2.80000
+10622	woman tap finger table 	woman tap fingers 	4.00000
+10623	man press microwave buttons 	man turn microwave 	2.75000
+10624	yellow dog play grassy area near flowers 	girl play swing 	0.40000
+10625	several people sit around fire night 	group people stand sit around grind night 	2.60000
+10626	two dog play snow 	two dog play grass 	2.40000
+10627	woman pencil eye shadow 	girl use eye pencil eyelid 	2.80000
+10628	man walk outside 	man dancing 	0.75000
+10629	woman rain 	car drive along road 	0.00000
+10630	man stir ingredient bowl 	man beat two egg bowl fork 	2.75000
+10631	woman black orange jacket throw stick brown black dog fetch 	man blue jacket stand crowd 	0.00000
+10632	little girl hold wooden stick 	little girl swim pool 	2.20000
+10633	woman cut cucumber 	man play guitar 	0.00000
+10634	monkey push another monkey 	monkey push monkey 	4.80000
+10635	toddler walk hallway 	little girl walk hallway 	3.60000
+10636	dog bind across brown grass 	two dog bind across grass 	2.60000
+10637	dog run across snow snowball mouth 	tan dog run grass yellow toy mouth 	2.40000
+10638	group people sweep water house 	people sweep water house 	5.00000
+10639	girls hold hand blue clothe	young people wear jean red green shirts 	1.80000
+10640	man drive white car 	man give interview 	0.40000
+10641	girl play along image big screen 	three girl hold umbrella back camera 	0.40000
+10642	girl fly kite run hill 	girl lose kite 	2.25000
+10643	man red black hit soccer ball head 	man red strip soccer shirt head ball 	3.60000
+10644	lady crack two raw eggs 	woman crack egg bowl 	3.20000
+10645	kitten eat food 	kitten eat dishes 	4.00000
+10646	group seven people raft rapid green boat 	group people stand sit around grind night 	0.00000
+10647	climber stand rock face next pink rope 	child run snow fence background 	0.00000
+10648	doctor wa help patient 	doctor try revive man 	2.80000
+10649	girl play guitar 	man play guitar 	2.80000
+10650	person surf large wave 	person surfing 	3.60000
+10651	man bike nest river 	man bike doe high jump 	1.20000
+10652	person chop herb 	man finely chop green substance 	3.00000
+10653	woman joker make man 	girl apply face makeup man 	1.80000
+10654	child red shirt use black wake board splash beach wave 	man rowboat row across blue water 	1.00000
+10655	person throw cat ceiling 	person throw cat ceiling 	5.00000
+10656	dog ha sweater on 	man suit jacket sit red couch cat 	0.60000
+10657	baby tiger play ball 	baby play doll 	1.60000
+10658	boy rid horse 	monkey rid bus 	0.40000
+10659	brown dog catch green frisbee 	brown dog wait frisbee come catch it 	3.80000
+10660	man slice open fish 	man cut fish 	4.40000
+10661	dog knock boy water twice 	dog push toddler rain puddle 	2.69200
+10662	large gray dog play deep snow 	four dog play snow 	2.60000
+10663	man play guitar 	man stab target 	1.20000
+10664	two hiker stand top snowy mountain 	two mountain climber stand top mountain look around 	3.40000
+10665	couple walking 	men sawing 	0.00000
+10666	child wake up 	girl wake up 	3.20000
+10667	many people bicycle racing  include one man three wheeled bike 	man rid three wheeled wheelchair 	2.60000
+10668	woman grate carrots 	woman coat pork chop 	1.60000
+10669	man sing play guitar 	man stuff full food 	0.50000
+10670	woman pour egg fry pan 	man pet two dogs 	0.16700
+10671	man play flute 	woman apply eye liner 	0.00000
+10672	shirtless man sit chair 	shirtless man sit chair 	3.80000
+10673	young boy jump air beach 	boy jump air beach 	4.80000
+10674	someone slice tomato 	someone slice fruit 	3.20000
+10675	cat stare camera 	cat address camera 	3.00000
+10676	woman add ingredient bowl 	woman crack three egg bowl 	1.75000
+10677	woman play flute stage 	woman play flute 	3.60000
+10678	woman write letter 	woman sit desk 	1.66700
+10679	man carry another man 	man spray another man water hose 	0.80000
+10680	two woman give demonstration renaissance fair 	two people demonstration renaissance fair 	4.20000
+10681	three dog stand snow next blue fence 	three dog play shallow next rocky shore 	2.20000
+10682	girl drag downhill dog 	dog pull child hill 	3.80000
+10683	skateboard perform trick quarter pipe 	skateboarder attempt trick homemade ramp 	3.20000
+10684	one man break cement another man s chest 	man break cinder block another man 	3.75000
+10685	guy sit couch watch television 	guy sit couch watch tv	5.00000
+10686	woman hold dance baby up 	woman abuse child 	1.00000
+10687	woman dice onions 	woman cut onion 	4.40000
+10688	cat rub baby s face 	cat rub baby 	3.80000
+10689	woman mix egg bowl 	man push ups 	0.00000
+10690	girl dance rain 	woman dance rain 	3.00000
+10691	man slice something 	man slice bun 	3.00000
+10692	several swimmer jump water 	swimmers race lake 	1.75000
+10693	baby panda go slide 	panda slide slide 	4.40000
+10694	woman grate onion 	woman grate onions 	5.00000
+10695	man play cello 	man seat play cello 	4.25000
+10696	man rid white horse enclose ground 	someone rid horse 	2.60000
+10697	dog stand water 	girl play parachute 	0.40000
+10698	woman apply cosmetic face 	woman put makeup 	4.60000
+10699	young boy punch yellow ball 	small dog jump yellow beam 	0.40000
+10700	group people stand sand look water 	group people stand beach front boats 	3.20000
+10701	little girl rid toy tricycle springs 	little girl play toy outdoors 	2.80000
+10702	child woman s kid 	boy girl 	0.80000
+10703	young boy jump barefoot outside front yard 	teen ride bike around people walk courtyard 	0.40000
+10704	soccer player kick ball side side legs 	person kick soccer ball back forth feet 	3.40000
+10705	cat playing 	woman play flute 	0.25000
+10706	man trick play cards 	man perform card trick 	5.00000
+10707	man grey suit kneel front woman white dress 	woman red beer follow man white 	0.00000
+10708	man run across high wire 	man run rope 	3.00000
+10709	man us chainsaw sculpt phallic ice sculpture 	man use chainsaw carve wooden sculpture 	2.60000
+10710	woman slice octopus 	man play guitar 	0.00000
+10711	man play electronic keyboard 	band play instruments 	1.25000
+10712	woman dig sand 	man bury sand 	1.40000
+10713	man slice cucumber knife 	man cook tortilla skillet 	0.75000
+10714	men skate road 	two boy skate boarding 	2.60000
+10715	chicken peck dead mouse 	rooster peck dead mouse 	3.60000
+10716	person boil noodles 	woman boil noodle water 	4.00000
+10717	woman split garlic cloves 	woman break head garlic cloves 	4.60000
+10718	lady look sad one buy wares 	lady sell things 	2.00000
+10719	female apply something hair hands 	cat eat slice watermelon 	0.00000
+10720	man walk path 	man walk across tight rope 	0.80000
+10721	man ride motorcycle 	man rid motorcycle 	4.40000
+10722	person peel potato 	cat lick small bottle 	0.00000
+10723	wet  blond dog carry stick shore 	wet  brown dog ha stick mouth run sand next water 	3.60000
+10724	man play guitar singing 	man play guitar 	2.91700
+10725	two team play soccer 	different set team play football field 	2.50000
+10726	young man play piano 	woman peel prawn 	0.00000
+10727	car move road 	car drive road 	4.00000
+10728	woman slice butter 	woman slice tofu 	1.80000
+10729	someone boil okra pot 	someone cook okra pan 	4.40000
+10730	boy play trumpet 	boy play trumpet 	4.40000
+10731	brown dog run grass 	dog run grass 	4.00000
+10732	runners race around track 	runners compete race 	3.20000
+10733	man play piano 	man play flute 	2.00000
+10734	girl black purse sit wooden bench 	young woman black purse sit wooden bench 	4.60000
+10735	dog eat water melon 	dog eat piece watermelon 	4.25000
+10736	man slice fish open 	man slice potato 	2.20000
+10737	girl apply makeup face 	woman put makeup 	2.75000
+10738	man lift weights 	man lift barbell 	4.20000
+10739	golden retriever jump wood porch 	golden retriever jump wooden porch	5.00000
+10740	person slice onion 	person cut ginger 	1.40000
+10741	woman slice mango 	man put cheese tortilla 	0.60000
+10742	large white grey dog run yellow tunnel obstacle course 	white black dog run yellow orange tube 	3.60000
+10743	two puppy play plastic bag 	two dog play yard 	3.00000
+10744	man put season bowl water 	man add season water bowl 	5.00000
+10745	brown dog carry stick mouth 	dog swim stick mouth 	2.60000
+10746	lady crack egg bowl 	man crack egg bowl 	2.60000
+10747	man hold frog 	man empty plastic container 	0.60000
+10748	boy jump blue pool water 	young boy jump pool belly 	3.40000
+10749	man slice cucumber 	man cut cucumbers 	4.50000
+10750	woman bathroom 	woman bathroom 	4.60000
+10751	dog run snow 	dog run snow 	5.00000
+10752	dog leap hurdle 	dog leap hurdle 	4.80000
+10753	woman pink bikini lay deck lounge chair cover pink towel 	woman white shirt black skirt tennis court 	1.40000
+10754	man play drums 	man play drum 	5.00000
+10755	man lift car 	man climb wall 	1.40000
+10756	men play guitars 	three men play guitar sing together 	3.20000
+10757	man play violin rain 	man play guitar rain 	3.20000
+10758	boy play piano 	boy play piano 	5.00000
+10759	person add oil pan 	cook pour oil pan 	4.25000
+10760	person fold tortilla 	man fold tortilla 	3.50000
+10761	two people sit dock near water 	two people sit end dock middle still water 	3.80000
+10762	three dog pull man bicycle snow 	dog pull man type bike  snow 	5.00000
+10763	person skijoring dog mountains 	brown dog play ball water 	0.00000
+10764	meat drop pan 	woman put meat pan 	3.25000
+10765	puppy outdoor 	man print board short yoga pose beach 	0.00000
+10766	soccer player kick ball 	soccer player give ball high kick 	3.80000
+10767	medics transport patient stretcher 	doctor rush patient stretcher 	3.40000
+10768	woman chop onion 	woman chop garlic knife 	1.80000
+10769	woman weight exercises 	woman hair 	0.50000
+10770	man play guitar 	man play guitar singing 	3.20000
+10771	someone sitring noodle water 	woman boil noodle water 	3.20000
+10772	musician smear jam white guitar concert 	trombonist play instrument band parade 	0.40000
+10773	woman file nails 	man peel carrot 	0.00000
+10774	man woman laughing 	man woman kiss 	1.20000
+10775	man play guitar 	boy play guitar 	3.20000
+10776	woman rid horse 	man turn table anger 	0.00000
+10777	girl rid horse 	girl rid bicycle 	1.91700
+10778	black dog blue collar run snow 	black dog red collar play snow 	3.20000
+10779	man call taxi airport sunny day 	man outside july day 	1.40000
+10780	man play guitar 	man sing play guitar 	3.60000
+10781	group teenager dance wooden floor 	group people dark color clothe line dance wooden floor 	3.40000
+10782	men fight basketball game 	men play game basketball 	2.20000
+10783	man throw penny fountain 	little boy throw man water 	0.60000
+10784	person slice tomato 	person slice meat 	1.75000
+10785	young boy rid bike brick road	person doe trick bike ramp surround trees 	2.20000
+10786	child walk street jeep pull up 	woman walk along road man motorcar pull beside her 	1.40000
+10787	girl jump rope sidewalk near park garage 	girl jump rope sidewalk park garage left 	4.40000
+10788	woman eating 	animal eating 	1.60000
+10789	man mix whip cream 	man hold skunk 	0.00000
+10790	man open box take paper 	woman peel potato 	0.00000
+10791	dog return play toy master 	three dog race snow together 	1.00000
+10792	girl come car 	girl jump top car 	2.60000
+10793	two zebra play open field 	two zebra play field 	4.20000
+10794	someone play piano 	man play guitar 	1.20000
+10795	man dry hands 	woman fix hair 	0.25000
+10796	someone pour olive oil bowl tomato wedges 	man pour oil tomato slices 	3.75000
+10797	woman dancing 	woman play clarinet 	0.80000
+10798	people ride paddle raft 	four people float raft 	2.25000
+10799	boy girl dance rain 	man woman dance rain 	2.60000
+10800	woman play electric guitar 	woman play guitar 	3.60000
+10801	toy train strike toy car 	toy train strike toy car 	5.00000
+10802	two dog run snow  one tennis ball 	boy stunt  air  bicycle 	0.00000
+10803	black brown dog chew large stick 	black white dog play sand 	1.80000
+10804	girl eat cupcake 	man slice cucumber 	0.00000
+10805	woman pick can 	man play guitar 	0.13300
+10806	man kick pot water 	man pick flowers 	0.40000
+10807	dog red ball air 	dog dig hole yard 	1.00000
+10808	young boy jump pool say  no diving  	boy jump pool lifeguard watch 	3.20000
+10809	young men jump rock lake 	young man red swim trunk jump large rock water 	4.00000
+10810	man two young boy jump trampoline 	man two boy bounce trampoline 	4.80000
+10811	man remove couple toaster scramble plastic packet 	man remove food bag 	1.75000
+10812	young woman put sticker face 	woman apply sticker face 	4.80000
+10813	man fire shoot gun 	man shoot shotgun 	5.00000
+10814	guy take sunglasses 	boy remove sunglasses 	3.80000
+10815	man shake container kitchen sink 	man empty plastic container 	2.20000
+10816	dog lick baby s drool 	dog lick baby 	2.20000
+10817	two men compete tire roll race 	two people flip tractor tire race 	2.75000
+10818	many people run race street 	puppy run along street 	1.00000
+10819	man mow grass 	man bust concrete 	0.83300
+10820	seat young woman hat read coffee shop 	woman enjoy read coffee shop	4.40000
+10821	woman place baby skateboard beach 	woman hold small baby skateboard beach	4.60000
+10822	woman add oil fishes 	woman pour water fish 	2.25000
+10823	dog car 	dog bite mop 	1.00000
+10824	man get car 	man get car garage 	3.83300
+10825	woman play flute 	woman slice tuna 	0.40000
+10826	woman smoking 	man walking 	0.20000
+10827	man red shirt climb side mountain 	man climb side mountain 	4.20000
+10828	man woman hand chin stand next christmas tree 	man white beard blue cap stand doorway workshop 	0.40000
+10829	man push van 	woman singing 	0.00000
+10830	man pet tie dog 	man show dog camera 	1.00000
+10831	man swimming 	woman slice meat 	0.00000
+10832	woman wash hands 	woman straighten hair 	0.80000
+10833	man hit boy flower vase 	man cut mat 	0.30000
+10834	woman cut meat pieces 	woman cut meat 	4.80000
+10835	three men play chess 	two men play chess 	2.60000
+10836	female maroon shirt engage conversation another female tan blazer 	girl blue dress another girl purple dress  smiling 	1.20000
+10837	man play guitar 	guy sing play guitar 	3.00000
+10838	man drive little red car around traffic 	dog run water beach 	0.00000
+10839	little boy drink juice packet 	boy drink juice packet 	4.80000
+10840	black dog run water 	man football uniform run football game 	0.00000
+10841	three teenage girl dance room 	teenage girl dance camera 	2.40000
+10842	child blue white team uniform chase soccer ball 	young boy blue soccer uniform chase ball 	4.00000
+10843	three men dancing 	women dancing 	1.30000
+10844	plane landing 	animate airplane landing 	2.80000
+10845	cat robot 	man eat bread 	0.00000
+10846	woman hold baby man look another man hold child watches 	woman stand arm store another woman hold camera 	0.40000
+10847	group penguin walking 	large amount penguin head ocean 	2.80000
+10848	woman thinly slice onion large knife 	woman slice onion large knife 	4.20000
+10849	girl black blue wet suit surfing 	woman wear black blue strip suit surf wave 	4.40000
+10850	dog chase cows 	white dog chase cows 	4.00000
+10851	kid play instrument 	young boy play wind instrument 	3.80000
+10852	man walk along path wilderness 	man peel onion 	0.75000
+10853	woman sit desk 	woman rid donkey 	0.40000
+10854	brown dog chase frisbee	brown dog squat grass 	1.60000
+10855	woman ballet 	woman rid horse 	1.00000
+10856	brown dog run grass 	brown dog run grass 	4.80000
+10857	man play football 	man maneuver soccer ball feet 	2.00000
+10858	dog bark toy 	dog bark electronic toy duck 	3.50000
+10859	three dog race dirt track	cars race dirt track	1.40000
+10860	plane take off 	air plane take off 	5.00000
+10861	young laugh girl boy play big drum 	baby girl little boy stand next guitar drum 	2.40000
+10862	man butter bread 	woman ridint horse 	0.00000
+10863	white dog play ball beach 	black white dog play tan dog 	1.60000
+10864	man rid horse 	woman wash freezer 	0.00000
+10865	man rid horse 	man talk phone 	1.00000
+10866	person drop camera escelator 	man toss bag escalator 	2.75000
+10867	group eat take breathtaking view 	group people take look unusual tree 	2.20000
+10868	man enjoy watch three asian child dance 	man watch three asian kid dance 	4.60000
+10869	okapi eat tree 	moose drink sprinkler 	0.33300
+10870	woman play guitar 	man play guitar 	2.40000
+10871	someone feed animal 	someone play piano 	0.00000
+10872	man play guitar singing 	man play guitar 	3.20000
+10873	men play follow leader grass 	rhino graze grass 	1.00000
+10874	man play guitar 	man play guitar 	5.00000
+10875	man lift heavy weights 	wallaby lick woman s hand 	0.25000
+10876	man scale fish 	man pour cook oil pot 	1.00000
+10877	dog run grass 	dog run across grass 	4.80000
+10878	japanese swordsman jump air 	woman get dog jump air 	1.00000
+10879	man eating 	woman rock climbing 	0.00000
+10880	girl play puddle bare feet 	child play two white black geese 	0.60000
+10881	man crouch hold camera 	crouch man hold large camera 	4.60000
+10882	man kick oots water 	woman slice red pepper 	0.25000
+10883	brown black dog snow  show teeth bark other 	black dog fight brown dog snow 	3.40000
+10884	cook white busy kitchen make dinner customers 	woman prepare dinner kitchen 	3.00000
+10885	children jump trampoline 	man sled orange slide 	0.00000
+10886	train moving 	man yoga 	0.00000
+10887	dog play park 	dog leap fence park 	3.20000
+10888	brown white dog pink collar bark brown dog blue collar snow 	dog red collar bear teeth dog blue collar 	3.40000
+10889	black white dog run cow field 	large black white dog run ocean water	2.20000
+10890	girl run along river bank two black dogs 	little boy pet tiger lay down 	0.20000
+10891	two girl pajama pant appear dancing 	two girl baseball cap eat snack outside 	0.60000
+10892	gun fired 	potato peeled 	0.50000
+10893	man talk phone 	man sing woman 	0.25000
+10894	man lift barbells 	man lift weights 	4.00000
+10895	airplane move along runway 	plane land runway 	2.80000
+10896	three child stand near fence 	three child stand fence 	4.60000
+10897	woman fry fish 	woman cook fish 	4.00000
+10898	man play guitar 	man try read paper 	0.80000
+10899	man shoot automatic rifle 	man shoot gun 	3.80000
+10900	man scalling sheer rock face rope support 	young man ski jump purple board 	0.40000
+10901	man wind sail ocean 	dog run ocean 	1.40000
+10902	two dog run beach 	two dog run beach	4.80000
+10903	two woman contestant walk dog dog show 	two woman walk dog dog show 	4.80000
+10904	man play guitar 	smeone lay down 	0.00000
+10905	boy play guitar 	man play guitar 	3.20000
+10906	two men play game scrabble together 	two woman play game 	2.20000
+10907	two tan white dog one tan dog race beach near water 	lady pink tinkerbell jacket stand next rail look water 	0.20000
+10908	woman powder face 	woman tap finger table 	0.80000
+10909	two woman wrestling 	two woman wrestle floor 	4.00000
+10910	people flip swim pool 	men fall pool 	2.75000
+10911	man erase chalk board 	man erase chalk board 	5.00000
+10912	man slice tomato 	man slice bun 	2.00000
+10913	baby monkey scratch itself 	monkey scratch tummy 	3.25000
+10914	man lay grind aim rifle 	man spread butter tortilla 	0.00000
+10915	four girl swimsuit play volleyball beach 	four lady swimsuit play sand volleyball beach 	4.00000
+10916	black dog walk tall grass 	black dog run grass 	3.80000
+10917	man play guitar 	woman paint lips 	0.00000
+10918	three people meet coffee 	two people make coffee 	2.40000
+10919	two fisherman try untangle large fish net side road cloudy day 	several men pull fish net beach 	3.00000
+10920	man fishing 	man exercising 	0.50000
+10921	man play trumpet 	man play trumpet 	5.00000
+10922	man cut potato 	woman play electric guitar 	0.08300
+10923	man play guitar 	woman slice pork 	0.00000
+10924	small white dog climb log 	small dog step onto log 	2.80000
+10925	boy run beach 	two boy play beach 	2.75000
+10926	boy upset play video games 	someone play gameboy 	1.75000
+10927	child hand head 	little boy stand hand top head	4.20000
+10928	dog walk along edge pool 	dog walk along pool 	4.60000
+10929	monkey karate kick someone s gloved hand 	monkey pratices martial arts 	3.50000
+10930	woman put garland man s shoulders 	man pour water pilot head 	0.50000
+10931	man jean play ball woman jean stand nearby look away 	man tie red arm band around another man arm street 	0.00000
+10932	puppy repeatedly roll side side back 	dog roll side side 	3.50000
+10933	band perform stage 	band play onstage 	5.00000
+10934	man open box use knife 	man play guitar 	0.00000
+10935	woman slice onion 	man show slice carrot knife 	1.20000
+10936	girl doe back bend beach 	girl back bend beach 	4.80000
+10937	man stand top rock mountain watch sun set 	man stand mountain watch sunset 	4.80000
+10938	man rid motorcycle 	man rid motorcycle town 	3.50000
+10939	woman put makeup 	band singing 	0.00000
+10940	woman stir two egg glass bowl 	young girl sing stage 	0.00000
+10941	boy lie stomach grass 	small boy lie stomach grass 	4.40000
+10942	young woman flirt young boy 	girl young cheery 	1.40000
+10943	woman drink vodka 	woman exercising 	0.40000
+10944	woman play flute 	man play guitar 	1.00000
+10945	man levitating 	man talking 	0.80000
+10946	baseball player throw ball 	basketball player hold ball 	1.60000
+10947	rat like creature smell around 	animal walk ground 	2.00000
+10948	man running 	man dancing 	1.25000
+10949	four black dog run across grass 	dog run across grassy field 	2.00000
+10950	person fry meat pan 	man cut vegetable 	0.60000
+10951	someoen cook onions 	man swing nunchucks 	0.00000
+10952	two dog play snow 	two black dog snow 	4.00000
+10953	two young girl hug grass 	two young girl hold grassy grind	4.60000
+10954	little blonde girl stand front water fountain 	young girl stand front fountain	4.00000
+10955	meat put skillet 	woman put baby trash can 	0.40000
+10956	group girl exit taxi 	video clip rihanna leave taxi 	2.00000
+10957	monkey play drums 	someone gorilla costume play set drums 	2.50000
+10958	black dog retrieve snow 	skateboarder jump street 	0.00000
+10959	girl dance stage 	girl put makeup 	0.33300
+10960	person mix pot rice 	person peel potato 	0.77800
+10961	elderly woman pour oil fry pan 	tie man put water 	0.00000
+10962	woman cut leak 	woman slice leek 	4.00000
+10963	young man wear white t shirt green black short stand stump 	man wear white shirt red black short run sidewalk 	1.80000
+10964	man shoot gun 	man slice bun 	0.80000
+10965	man put cheese pizza 	man sprinkle cheese pizza 	5.00000
+10966	three people race ice skates 	three ice skater round corner 	3.20000
+10967	dog bark toy 	little dog bark electronic toy 	3.75000
+10968	woman peel garlic hands 	woman slice herbs 	1.00000
+10969	person play keyboard 	someone play keyboard 	5.00000
+10970	cat play keyboards 	cat play piano 	3.00000
+10971	woman cook shrimp 	woman dancing 	0.80000
+10972	little girl little boy hold hand shiny slide 	little girl paisley dress run across sandy playground 	0.40000
+10973	boy jump not so crowded public pool 	man jump snowboard 	0.80000
+10974	man sharpen pencil use knife 	woman dance rain 	0.00000
+10975	man break cinder block another man 	woman break egg pan 	0.80000
+10976	man clean fish kitchen counter 	man play flute 	0.80000
+10977	people throw dummy cliff edge 	people throw dummy cliff 	4.50000
+10978	woman put paste dish 	woman pull kind sticky goo bowl 	1.50000
+10979	two men run contest 	dog race 	1.00000
+10980	five men jump swim pool 	group swimmer fall pool 	2.80000
+10981	two robot kiss 	two robot kissing 	5.00000
+10982	man slice tape box 	man cut open box 	4.33300
+10983	someone cut circle pink sheet paper 	someone pour tomato sauce pot meat 	0.20000
+10984	dog paw fly carpet it 	dog play bug carpet 	3.60000
+10985	person peel onion 	person peel eggplant 	2.00000
+10986	man rid motorcycle 	woman rid horse 	0.75000
+10987	dog big ear hold small stick mouth 	puppy big ear chew stick 	3.80000
+10988	snowboarder ride snowboard rail beside flight steps 	boy grind skateboard concrete wall 	0.80000
+10989	someone shred cabbage leaf knife 	someone chop cabbage leaves 	4.50000
+10990	woman collect tap water mug 	boy fill pitcher water 	1.40000
+10991	girl play guitar 	girl play piano 	2.00000
+10992	monkey walk water 	guy play trumpet 	0.00000
+10993	cat play other 	two cat fight other 	2.60000
+10994	dog wear green sweater backpack walk snow 	small dog wear green sweater backpack walk snow 	4.40000
+10995	woman fry something 	woman rid horse 	0.60000
+10996	black dog chase two bird shore ocean 	dog run along beach beside ocean 	2.60000
+10997	woman slice ginger 	person hold two baby lorises 	0.00000
+10998	black white dog run mouth open 	black white dog swim blue water 	2.20000
+10999	woman slice lemon 	woman  kitchen  peel lemon 	2.66700
+11000	man eat pizza 	man eat food 	3.60000
+11001	woman ride horse 	woman rid horse 	5.00000
+11002	bird take bath faucet 	bird bath sink 	4.42900
+11003	woman slice fruit 	two woman slice lemons 	2.00000
+11004	man play keyboard 	man play guitar 	1.80000
+11005	person cut capsicum pieces 	person slice garlic pieces 	1.60000
+11006	young boy ha red fish pole 	young boy stand bridge fish pole 	3.00000
+11007	boy play key board 	boy sit room play piano lamp light 	3.25000
+11008	brown dog middle line dog chase dirty tennis ball dirt 	two white dog one brown dog chase ball 	2.80000
+11009	dog jump water 	dog jump water 	5.00000
+11010	person slice onions 	person peel onion 	2.60000
+11011	two people walk along shore sunset 	two people walk along beach sunset towarn group people 	3.00000
+11012	orangutan rid bus 	monkey rid bus 	3.60000
+11013	man blue cap sit stool tree 	dog stand beach ball nearby 	0.00000
+11014	pole behind person play peekaboo child 	child ball	0.20000
+11015	lady yellow outfit air bed yellow room 	dog red leash still attach chase grass toward tennis ball 	0.00000
+11016	man take sunglass talking 	man wear hard hat remove glass speaks 	3.40000
+11017	yellow vest person road work 	person well skateboard 	0.20000
+11018	person film outdoors 	couple outdoors 	1.60000
+11019	boy skateboard metal handrail night 	brown dog run sand  hold stick 	0.00000
+11020	man play guitar 	girl play guitar 	2.80000
+11021	man season carrots 	woman slice garlic 	0.80000
+11022	boy crawl dog house 	cat play floor 	0.00000
+11023	three dog play snow 	three dog run snow 	4.20000
+11024	woman carry boy 	woman carry baby 	2.33300
+11025	dog jump swim pool duck 	dog jump swim pool 	3.40000
+11026	woman sing microphone guy play guitar 	woman sing microphone guitar player background 	4.40000
+11027	boy take sunglasses 	boy screaming 	0.50000
+11028	girl play violin 	girl play flute 	2.60000
+11029	two men side barge	man lie grass long hair beard 	0.00000
+11030	group people water 	group people ride race	0.60000
+11031	badger burrow hole 	badger dig earth 	4.60000
+11032	man woman kissing 	man woman kiss 	5.00000
+11033	lady run dog agility course 	trainer run dog train course green pipe	4.20000
+11034	smile man reflective classes 	gentleman smile show reflective sunglasses 	4.60000
+11035	person light camera fire 	person blow torch cameras 	3.33300
+11036	person slice onion 	solenodon walk along ground 	0.00000
+11037	two surfer rid small wave 	two surfer perform trick waves 	3.60000
+11038	two girl hold scary movie fly	two girl hold sack stand field 	1.40000
+11039	woman dancing 	man eating 	0.14300
+11040	dog bark ball 	dog swim tennis ball 	1.50000
+11041	someone slice onion 	someoen peel potato 	1.00000
+11042	woman slice meat 	woman sing stage 	0.25000
+11043	woman hold kangaroo 	woman pick kangaroo 	3.25000
+11044	boy fell bike 	boy fall bike 	4.80000
+11045	children play trampoline snow 	several child jump trampoline snow 	4.50000
+11046	tan dog run leaves 	white dog run ocean 	1.80000
+11047	two terrier play wood floor home 	two puppy play red chew toy field 	1.60000
+11048	yellow shirt man wear golden sun mask 	man yellow shirt wear gold  sun shaped mask 	5.00000
+11049	man rid horse jump obstacles 	man kick soccer ball 	0.33300
+11050	man chop log axe 	man chop tree trunk axe 	4.00000
+11051	man slice onion 	woman slice pumpkin 	2.25000
+11052	man chop coriander leaf 	man play guitar 	0.80000
+11053	woman play game man 	man play piano 	0.60000
+11054	young girl back flip water 	young girl wear purple run water	2.80000
+11055	two black dog play grass 	two black dog play grassy plain 	4.60000
+11056	man walk rope 	man rid mo pad 	0.40000
+11057	brown dog run snow white ball mouth 	four dog play snow city skyline behind them 	1.80000
+11058	man rid horse 	woman rid elephant 	1.53300
+11059	man pick big rock 	woman pick large rock 	2.40000
+11060	overweight man skip rope 	young man dancing 	0.80000
+11061	man woman walk woods 	man woman walk jungle 	3.40000
+11062	group youngster swim lake water	many child play swim water 	4.40000
+11063	cat drink milk 	cat lick saucer milk 	4.40000
+11064	man sit little girl park 	man play shaggy little dog 	0.60000
+11065	girl bounce upside head trampoline 	girl bounce head trampoline 	4.80000
+11066	baby talking 	boy try say firetruck 	1.20000
+11067	tan white dog run field 	brown white dog run field 	3.40000
+11068	woman arm paralyze neck	woman sit step trip hurt ankle 	0.80000
+11069	woman slice garlic 	woman slice big pepper 	2.20000
+11070	woman pour oil skillet plastic bottle talking 	old woman pour oil skillet stove 	3.80000
+11071	man dive cliff 	man rid motorcycle 	0.66700
+11072	man card trick 	man squeeze water 	0.25000
+11073	black brown dog play yard 	black tan dog chase something ha spotted 	2.40000
+11074	man run road 	car drive road 	1.00000
+11075	man stand front window look outside 	man star window 	3.80000
+11076	woman devein shrimp 	man dance rain 	0.00000
+11077	woman swimming 	man singing 	0.06700
+11078	man exercise 	man fire rifle 	0.50000
+11079	person cut onion 	person cut onion 	5.00000
+11080	man drive car 	man drive car 	4.25000
+11081	young girl pink hat yellow build background 	young girl pink dress something hand 	1.80000
+11082	man use chopper chop onion 	man use machine chop potatoe 	2.00000
+11083	woman lead dog obstacle course 	woman lead small dog obstacle course 	4.60000
+11084	woman slice fish cake 	woman rid horse 	0.80000
+11085	girl make bed 	young girl make bed 	4.40000
+11086	lady dress kimono look camera 	two girl dress black sit room make suggestive pose camera 	1.00000
+11087	bike next couple women 	child next bike 	2.00000
+11088	man fit silencer pistol 	man add silencer gun 	4.50000
+11089	brown dog run field 	brown dog tongue wag run field	4.00000
+11090	man running 	man run road 	3.50000
+11091	man long hair look camera 	woman stand wall near video camera 	1.00000
+11092	boy white dog run grassy field	boy dog run grass	4.40000
+11093	person rid horse 	man rid motorcycle 	1.80000
+11094	group men walk hang onto ropes 	group men play college football game 	1.40000
+11095	girl wear purple sash match skirt 	group girl stand wear jean skirt superman shirts 	1.60000
+11096	one football player try tackle player oppose team 	football player attempt tackle 	4.60000
+11097	four boy stand front burn car 	four young men stand still car explode behind them 	3.75000
+11098	blonde woman wear black  american flag  tartan cap 	red haired woman wear black beret adorn american flag 	2.80000
+11099	woman play ocean 	woman prepare shrimp cook 	0.75000
+11100	man play guitar 	man sing play guitar 	3.60000
+11101	grate onion water 	person grate potato bowl 	1.50000
+11102	woman wrap tofu 	woman ball dough 	1.40000
+11103	two girl running 	three boy running 	2.20000
+11104	woman wear large sunglass hold newspaper hands 	fat woman wear faint blue top blow soap bubble 	1.00000
+11105	man play piano 	man play guitar 	2.00000
+11106	boy play violin stage 	person mix pot 	0.00000
+11107	rabbit run eagle 	hare run eagle 	4.20000
+11108	two dog run together one ha duck toy mouth 	black white dog walk grass long stick mouth 	1.80000
+11109	crowd men wear paper number shirt run race 	several men run grass field wear number front shirts 	3.60000
+11110	man play flute band 	man play guitar 	1.60000
+11111	man throw knife tree 	man show magic 	1.75000
+11112	woman blue shirt tan short sit table 	smile young woman tourquoise shirt bandanna pose table outdoors 	3.20000
+11113	two large dog run grass 	two brindle dog run grass 	4.20000
+11114	little boy jump one chair another 	young boy jump one chair another house	4.80000
+11115	pair young boy t shirt hide wood one look aghast 	two smile little girl play fountain people 	0.00000
+11116	doctor prescribe medicine patient 	doctor prescribe medicine 	4.40000
+11117	woman dancing 	woman play violin 	0.40000
+11118	people near water	people near water 	5.00000
+11119	man ha son back	man spend time son 	2.40000
+11120	young boy sing play guitar 	kid play guitar 	3.25000
+11121	girl swing long  wet hair lake 	person rid dirt bike 	0.00000
+11122	man rid skateboard 	woman cut potato 	0.00000
+11123	three guy play pro game basketball 	two guy play game baseball 	2.40000
+11124	man step	man sit steps 	4.00000
+11125	man doe floor exercises 	man exercising 	3.60000
+11126	carriage draw horse 	man rid bicycle side building 	0.40000
+11127	man gray suit lock bicycle	man woman stand city street 	0.40000
+11128	dog open fridge 	dog close refrigerator door 	1.75000
+11129	cat lick bottle 	cat play small bottle 	2.33300
+11130	man shoot pistol 	woman chop garlic 	0.80000
+11131	woman style hair 	woman slice herbs 	0.20000
+11132	man rid motorcycle 	man rid horse 	1.40000
+11133	man serve cake 	man season quail 	0.75000
+11134	two people bed 	two boxer ring 	0.00000
+11135	man spray fluid long hose beach 	guy sit bike one wheel air 	0.60000
+11136	man play guitar joe s cafe 	man play drum mom 	1.20000
+11137	top photo show two men take break 	person swim cap goggle take breath 	0.40000
+11138	someone play piano 	person play keyboard piano 	3.60000
+11139	two large black dog play grassy field 	two white dog run together 	2.20000
+11140	someone hold hedgehog 	onion sliced 	0.00000
+11141	woman crack egg bowl 	lady break raw egg bowl 	4.80000
+11142	someone season eggs 	someone season two raw egg bowl 	3.60000
+11143	man play guitar 	guy play instrument 	3.80000
+11144	man slice pepper 	person cut big green pepper apart 	3.80000
+11145	small monkey walk water 	monkey wad across marsh 	3.40000
+11146	man play drums 	man play guitar 	1.80000
+11147	elephant bathing 	two woman singing 	0.00000
+11148	woman hit man 	woman take bath 	0.20000
+11149	man play harp 	woman play guitar 	1.60000
+11150	group dark skinned people walk past barb wire 	two woman gossip fence 	0.40000
+11151	man wear us flag boxer short stand stairway 	woman wear white shirt stand street 	0.00000
+11152	six child clean room 	two male child clean leaf park lot 	1.60000
+11153	elephant spray water themselves 	elephants spray water 	3.60000
+11154	biker dangerous stunts 	biker stunts 	4.40000
+11155	little girl orange strip outfit airborne whilst bounce bed 	dog red shirt chase squirrel glass 	0.20000
+11156	two dog run grassy field	two dog run grassy field 	5.00000
+11157	person cut garlic piece knife 	someone put ingredient wok 	0.75000
+11158	man jump rope	man talking 	0.40000
+11159	man play guitar sing stage 	man play electric guitar 	3.20000
+11160	boy go inflatable slide 	boy red slide inflatable ride 	3.80000
+11161	man talk cell phone 	guy talk microphone 	2.00000
+11162	man desert field 	man outside field 	4.00000
+11163	man dress black wear hat glass front red wall 	woman white shirt stand front brick wall 	1.40000
+11164	boy skateboard rail graffiti stair	skateboarder jump obstacle front white house 	2.80000
+11165	man play guitar 	man play electric guitar 	3.75000
+11166	man walk rain 	man woman walk grand 	1.50000
+11167	red white race car race dirt racetrack 	person rid dirt bike race dirt track 	1.40000
+11168	group people stand street	woman address diverse group people stand street 	2.60000
+11169	man wa push water 	man push another man ocean 	2.50000
+11170	white brown dog run grass 	brown white dog run across grass 	4.60000
+11171	two teenage girls  one smiling 	little girl kid swing 	0.80000
+11172	snowboarder jump air 	snowboarder fly air 	4.00000
+11173	boy play toy 	boy play handheld game 	3.00000
+11174	man woman talking 	man woman eating 	1.60000
+11175	brown dog walk grass 	dog chase another tree 	1.20000
+11176	group men play soccer beach 	group boy play soccer beach 	3.60000
+11177	man shappens knife 	man carry women 	0.50000
+11178	cyclist stop near sign 	two men stop talk near sign outside 	3.40000
+11179	three child play snow 	three child play hay	2.40000
+11180	white dog light brown mark ha stick mouth paw snow 	white dog hold stick mouth run snow 	4.00000
+11181	religious people enjoy outdoors 	group people enjoy outdoors 	3.60000
+11182	someone grease pan 	smeone lay down 	0.40000
+11183	woman cut cook octopus 	woman chop octopus 	3.80000
+11184	man black suit surf along crash wave 	surfer wear black wet suit rid white wave ocean 	4.60000
+11185	woman hit man 	man hold slow loris 	0.00000
+11186	man wear t shirt say  gigolo  stand counter talk someone 	man wear shirt say  gigolo  stand front desk area back camera 	3.40000
+11187	woman file fingernail emery board 	woman feed baby bottle 	0.50000
+11188	man drawing 	man drawing 	5.00000
+11189	black dog blue collar run snow 	black dog wear blue collar run snow 	5.00000
+11190	monkey play drums 	gorilla play drums 	2.80000
+11191	person pencil trick hand 	person slice carrot half 	0.33300
+11192	surfer doe flip wave 	surfer doe flip wave 	4.80000
+11193	person drive car 	man drive car 	3.50000
+11194	young girl go tube slide 	young girl swing tire swing	1.80000
+11195	man wear gray hat fish fish boat 	man wear straw hat fish vest stream 	2.60000
+11196	boy earn next belt karate 	five girl one boy swimsuit middle jump pool 	0.20000
+11197	two little girl talk telephone 	two couple talk other 	1.20000
+11198	man slice carrot machine 	man climb rope 	0.40000
+11199	man dice onion 	woman cut onion 	2.50000
+11200	smile child stand front ocean sunset 	people walk dark 	0.60000
+11201	black brown dog walk snow near building 	old man stand outside old board building 	0.80000
+11202	young man sing play piano 	man write letter 	0.20000
+11203	three dog run water 	black dog run water 	1.00000
+11204	pankda eat bamboo 	panda bear eat bamboo 	4.20000
+11205	woman bath bath tub 	woman take bath 	4.40000
+11206	man spread shred cheese pizza 	man spread shred cheese uncooked pizza 	3.80000
+11207	girl rid horse 	girl spray plant water 	0.20000
+11208	person water beach sun sets 	person surfboard water 	3.00000
+11209	person bmx bike 	man bike mid air	3.00000
+11210	woman reading 	woman knead dough 	1.00000
+11211	man rid horse slow motion 	man rid horse 	3.40000
+11212	girl play piano 	boy push ups 	0.00000
+11213	man prepare hang rope 	man tie noose 	4.66700
+11214	two dog play grass 	two tan dog play snow 	2.60000
+11215	current vehicle museum everyone ha aircraft 	car need work	0.20000
+11216	woman walk open grind pet dog dog follow them 	man walk several dogs 	2.00000
+11217	person frying 	person peel potato 	1.20000
+11218	man eat bread 	man play flute 	0.80000
+11219	man give lecture podium 	man deliver lecture event celebrate game cricket 	2.33300
+11220	sculptor apply concrete large statue human figure stand head 	person stand front build hold aloft plywood	0.20000
+11221	brown dog dig hole front plant	group people walk side railroad track 	0.00000
+11222	woman dancing 	woman knead dough 	0.40000
+11223	group people march place 	group people dance concert 	1.70000
+11224	grey hound active grassy field 	bunch bike race track 	0.00000
+11225	man cut piece butter mix bowl 	piece butter add stand mixer 	3.60000
+11226	man open door 	man play guitar 	0.80000
+11227	one white boy one black boy stand arm around other 	two young boys  one white one black  stand arm around other 	4.80000
+11228	two dog run grass 	two dog play grass 	4.40000
+11229	kid play guitar 	man play guitar 	2.20000
+11230	butter put bowl 	man cut butter mix bowl 	4.25000
+11231	group people wear bunny ears 	group people ride race	0.80000
+11232	cat ferret playing 	ferret kitten play together 	4.25000
+11233	group people boat race towards shore 	group people stand together pose front house 	0.80000
+11234	two beige dog play grass 	two tan dog play grass	4.60000
+11235	someone drill hole strip wood power drill 	man drill hole piece wood 	3.20000
+11236	man rid bike 	woman rid horse 	1.40000
+11237	man stir juice 	man peel onion 	0.75000
+11238	man play guitar 	man play piano 	2.00000
+11239	man dancing 	man rid horse 	0.80000
+11240	dog play snow hind legs 	two dog play snow 	3.80000
+11241	kid theater watch movie 	picture day boy	0.20000
+11242	man dice onion 	man play guitar 	0.40000
+11243	man white suit walk street hold newspaper 	man white suit walk outside carry newspaper 	4.60000
+11244	two people rid motorcycle 	two people rid bike 	2.00000
+11245	group people play soccer soccer field front crowd 	group men play soccer stadium full people 	3.00000
+11246	little girl walk boardwalk blue dome background 	man go jump bike river background	0.00000
+11247	man break water jugs 	woman peel garlic 	0.20000
+11248	girl play flute 	girl play wind instrument 	3.20000
+11249	two men wear traditional clothe stand outside 	three woman wear black vest gray shirt talk outside building 	2.00000
+11250	two woman walk sidewalk store 	two woman walk sidewalk afternoon 	3.80000
+11251	man practice box	man practice box	5.00000
+11252	man put abulance 	man pour pasta onto plate 	0.00000
+11253	man play wooden flute 	little boy vacuum floor 	0.00000
+11254	man woman stand front build	two girl sit atv sand front bridge 	0.40000
+11255	woman eat something 	woman eat meat 	3.00000
+11256	woman black dress walk street 	woman watch dog jump stairs 	0.80000
+11257	man drive car 	man drive car 	4.87500
+11258	woman stab potato fork 	woman puncture potato fork 	5.00000
+11259	man pick tree 	man carry tree 	3.80000
+11260	woman chop onion 	man card trick 	0.00000
+11261	man cycling 	boy rid bicycle 	2.50000
+11262	three sheep graze grassy field dog walk behind them 	small group goat grass black white dog backgroud 	2.80000
+11263	man play flute 	man play guitar 	2.00000
+11264	man hold cat 	man hold dog 	3.00000
+11265	man ride motorcycle highway 	person drive motorcycle road 	3.75000
+11266	woman roll dough 	woman flour roll dough 	3.76500
+11267	man play guitar 	woman play guitar 	2.75000
+11268	slow lori walk around 	animal walk around 	2.80000
+11269	couple sit near water lawn chairs 	boy hop one picnic table park 	0.00000
+11270	two men near wall 	three woman sit near wall 	2.00000
+11271	man climb rope 	man climb rope 	5.00000
+11272	animal walk ground 	solenodon walk along ground 	3.00000
+11273	people street 	people street 	5.00000
+11274	white dog run field yellow flowers 	dog red collar run forest middle winter 	1.60000
+11275	person make bed 	person eat table 	0.20000
+11276	boy wear red shirt run across grass furry dog 	sport fan wear face paint stands 	0.00000
+11277	child s bike get wet 	put away bike 	1.20000
+11278	surfer wave 	surfer rid wave 	4.40000
+11279	black dog run snow 	black dog swim ball mouth 	1.80000
+11280	boy black wave arm people behind field 	man black shirt roller blading past bench city 	0.40000
+11281	dog run ground 	girl tap finger nails 	0.00000
+11282	white brown dog run across grass 	three dog run grass 	3.20000
+11283	black white dog swim pool	black white dog run something mouth 	2.00000
+11284	panda s play swing 	man play guitar 	0.80000
+11285	cheetah run behind prey 	cheetah chase prey across field 	4.40000
+11286	motorcyclist crash motorcycle 	person crash motorcycle 	4.20000
+11287	person baseball team 	person play basketball team 	2.40000
+11288	panda bear chew stick 	baby panda play stick 	3.00000
+11289	four dog stand snow 	four dog play snow 	3.60000
+11290	man rid boat 	man tie machine 	0.40000
+11291	group people camp rocks 	group people stand beside fire truck 	1.20000
+11292	two dog sniff something rocks 	two dog run path woods 	1.60000
+11293	people get dirty clothe clean	people get clothe cleaned 	5.00000
+11294	woman cut potatoes 	woman slice carrots 	1.20000
+11295	man rid bicycle 	man rid bike 	5.00000
+11296	woman jump pose camera 	woman pose camera 	4.00000
+11297	man kite surf away camera 	man sky surf water 	2.80000
+11298	boy rid swing 	young boy rid swing 	4.80000
+11299	someone beat egg 	woman stir egg bowl 	2.50000
+11300	man play piano 	man play piano 	5.00000
+11301	bird fly across water 	bird fly water 	4.80000
+11302	man walk along path wilderness 	man walk road 	2.50000
+11303	two kid play game foosball 	kid play game other 	3.40000
+11304	bloody man woman pose picture 	man woman dress warmly pose picture 	2.00000
+11305	little boy vacuum floor 	boy vacuuming 	3.80000
+11306	animal walking 	woman apply eye makeup 	0.00000
+11307	man use sword slice plastic bottle 	man slice plastic bottle sword 	5.00000
+11308	person rid jetski waves 	woman rid seadoo 	2.00000
+11309	man woman blow bubbles 	man woman glass blow bubbles 	4.20000
+11310	man play guitar 	man hat play harp 	1.40000
+11311	guy two girl smile camera 	three dogs  one white two brown  run together field grass 	0.00000
+11312	woman use sew machine 	woman sew machine 	5.00000
+11313	man play guitar 	man play guitar 	5.00000
+11314	woman exercising 	woman lift weights 	3.40000
+11315	two brown dog run together sand	two brown dog run sand 	4.60000
+11316	man sing play guitar 	man play guitar 	3.00000
+11317	young boy run along pavement 	black dog run along edge ocean 	0.50000
+11318	woman exercising 	man dancing 	0.25000
+11319	several ferret climb cage 	ferret climb shelf 	2.20000
+11320	man slice tomato 	man rid horse 	0.80000
+11321	man screw wood wall 	man give woman massage 	0.20000
+11322	man stand water near waterfall 	man wade water watch water fall 	3.40000
+11323	black dog swim river 	black dog dig snow 	1.20000
+11324	man carry another man back 	man take picture ant 	0.40000
+11325	man talk girl internet camera 	teenager talk girl webcam 	2.80000
+11326	man fry tortilla 	person perform card trick 	0.00000
+11327	dog bark toy 	dog bark toy 	5.00000
+11328	man walk toward policeman stand crosswalk city street 	policeman stand crosswalk city 	3.00000
+11329	man carry canoe dog 	dog carry man canoe 	1.80000
+11330	two men talking 	two men play guitar 	1.50000
+11331	man cut onion 	man cut plantain 	3.66700
+11332	chef slice carrot 	person draw picture 	0.00000
+11333	child jump trampoline 	two boy play trampoline 	3.00000
+11334	man play fetch two brown dogs 	woman play brown dog 	2.33000
+11335	two dog pen 	cowboy ride horse desert 	0.00000
+11336	woman peel shrimp 	man squeeze water 	0.20000
+11337	man hold leaf 	woman watch television 	0.00000
+11338	girl make eyelid 	woman apply eyeshadow 	2.00000
+11339	young girl hold peace sign 	little girl hold onto pole city street 	0.60000
+11340	one man two woman dress vampire costume	man two woman dress costumes 	3.40000
+11341	slow loris bite person fingers 	small animal chew finger 	2.50000
+11342	man throw knife tree 	man throw blade close target outside 	3.00000
+11343	woman squeeze cucumber slices 	woman get douse green slime 	0.75000
+11344	black white dog run red white pole	black white dog live room stand hind legs 	1.60000
+11345	man dog play tug war 	man dance colorful wall 	0.40000
+11346	little girl play grand piano stage 	little girl play piano 	2.60000
+11347	cat drink milk 	white cat lick drink milk keep plate 	3.80000
+11348	dog walk along beach break waves 	boy oar walk surf onto beach 	1.00000
+11349	cook knead flour 	woman knead tortilla dough 	2.60000
+11350	man play guitar 	man sing play guitar 	3.00000
+11351	man talk woman 	woman walk dog 	0.50000
+11352	two men pack suitcase trunk car 	men put suitcase car s trunk 	4.40000
+11353	one person wield umbrella 	one person hold umbrella 	4.40000
+11354	dog jump air catch toy 	black dog jump air catch toy 	4.00000
+11355	german shephard jump black hoop people watch	dog jump hoop 	3.20000
+11356	blonde haired toddler swing tire swing 	blonde haired child swing tire swing 	4.80000
+11357	turtle swim water 	turtle walk underwater 	3.20000
+11358	woman read lifestyle magazine 	woman slice meat pieces 	0.50000
+11359	five people stand sidewalk	five people sidewalk 	4.80000
+11360	group people sit around desk 	group girl beach 	0.60000
+11361	person slice carrot pieces 	person cut onion pieces 	1.50000
+11362	group people dance hill 	group people dancing 	3.20000
+11363	man play trumpet 	someone play toad 	0.80000
+11364	panda climbing 	man climb rope 	1.60000
+11365	large brown white dog run snow 	st  bernard dog run snowy field 	4.00000
+11366	girl carry baby 	man eat food 	0.00000
+11367	woman dance near fire 	woman cut tomatoe 	0.30800
+11368	man slice bunch water bottle knife 	man slice line water bottle knife	4.40000
+11369	woman put flour piece meat 	woman put flour onto meat 	5.00000
+11370	dog lick baby 	dog lick baby 	4.75000
+11371	four girl swimsuit play volleyball beach 	four woman bikini play volleyball beach 	4.80000
+11372	man carry tool box sidewalk 	woman rid blue bicycle park 	0.00000
+11373	man without shirt jumping 	man jump wear shirt 	4.60000
+11374	three dog run field 	two dog run grassy field	2.80000
+11375	young woman lean plate meal 	young woman  topless except paint mud 	0.80000
+11376	child would like swim 	child want swim 	3.80000
+11377	dog shake water 	dog shake water off 	5.00000
+11378	three dog run racetrack 	three dog round bend racetrack 	4.80000
+11379	woman cut fish 	woman cut tofu 	2.20000
+11380	people gather room 	people gather together room 	5.00000
+11381	girl ha something head 	woman ha something her 	2.60000
+11382	man smoking 	man skating 	0.50000
+11383	four kid hold hand jump swim pool 	four dog play snow 	0.00000
+11384	human rid skateboard 	child rid skateboard 	3.80000
+11385	man cut paper sword 	woman cut tomato 	0.60000
+11386	woman weight exercises 	woman exercise barbell 	3.50000
+11387	black white dog run water 	tan white dog run water 	3.00000
+11388	woman dancing 	woman slice ginger 	0.25000
+11389	man play guitar 	man drive car 	0.50000
+11390	man stare window 	man look window 	4.80000
+11391	man play guitar 	woman cut vegetable 	0.00000
+11392	man cut grass 	mask man sings 	0.00000
+11393	woman chop broccoli 	woman chop broccoli knife 	4.25000
+11394	man play guitar 	man play skull 	1.00000
+11395	man swing rope water 	man warm clothe swing monkey bar night 	1.60000
+11396	man sit chair stared 	little girl put hair pony tail 	0.00000
+11397	woman remove skin meat 	woman slice tomato 	1.20000
+11398	boat sail along water 	man play guitar 	0.00000
+11399	man cut tomato pieces 	woman cut potatoes 	1.80000
+11400	woman peel orange 	woman cut small piece lemon rind 	1.80000
+11401	men run race 	racers run track 	2.60000
+11402	man swim underwater 	woman swim underwater 	2.00000
+11403	cat play piano 	cat lick paw 	0.25000
+11404	woman add sauce food 	person cut leaves 	0.20000
+11405	person add food pan 	woman put rice pan 	3.00000
+11406	four people walk toward tower	two men walk toward dome shaped building 	2.00000
+11407	two men fistfight ring 	two men fistfight ring 	5.00000
+11408	man white shirt hat play guitar 	man green shirt black hat play guitar stage 	2.80000
+11409	two girl play people flower behind them 	two young girl wear skirt play garden 	3.20000
+11410	person fold square paper piece 	person fold piece paper 	3.75000
+11411	two kid splash water 	two dog play together bed 	0.00000
+11412	woman fry food 	woman deep fry food 	4.25000
+11413	man sit smoking 	man smoke cigarette 	4.00000
+11414	man dance outside 	man play flute 	1.00000
+11415	woman open window 	woman look window 	2.00000
+11416	woman dice peel potato cut thick strips 	woman chop peel potato slices 	4.00000
+11417	dog chase geese 	one dog chase other 	1.60000
+11418	man two young boy jump trampoline 	man two boy jump trampoline 	4.60000
+11419	man suit dance young girl front audience 	woman dangle blue fabric connect tree 	0.20000
+11420	man play guitar 	man play acoustic guitar 	3.75000
+11421	light brown dog run path happily 	pale dog run path 	3.40000
+11422	person pour cook oil pot 	person pour olive oil pot stove 	3.80000
+11423	boy jump water ball hand 	little boy swim underwater toy hand 	2.20000
+11424	two woman sit bench  face obscured  one woman carry inflatable tiger woman disney snow white costume 	girl sit bench hold inflatable tiger next another girl colorful outfit 	2.20000
+11425	two people sit end dock 	two people sit dock 	4.20000
+11426	man play guitar 	cat playing 	0.40000
+11427	person pet monkey 	man hold slow loris 	1.20000
+11428	animals play water 	two men play ping pong 	0.00000
+11429	woman slice big pepper 	person cut green pepper 	3.40000
+11430	three dog play water 	three dog run snow 	1.40000
+11431	golden dog run grass 	large beige dog run grass 	3.40000
+11432	kid sit soccer ball outside 	kid sit soccer ball park 	4.20000
+11433	group little girl dog stand road 	group people white water raft blue raft 	1.40000
+11434	woman stir rice pot 	someone put rice pan 	2.76900
+11435	man walk horse 	man lead horse around halter 	3.75000
+11436	young boy climb rock wall	five greyhound race sand track 	0.00000
+11437	woman add egg stirring 	woman mix egg bowl 	3.50000
+11438	five kid stand front tent 	people sit front garden 	0.60000
+11439	woman slice onion 	woman cut potato 	1.20000
+11440	boy orange shirt throw ball 	black white muzzle dog leap grass 	0.20000
+11441	man drive car 	woman dip shrimp batter 	0.00000
+11442	woman slip water tub 	woman lie raft 	0.80000
+11443	person remove scale fish 	person descale fish 	5.00000
+11444	woman cut tofu 	woman cut onion 	2.40000
+11445	woman chop onion 	woman slice partially half onion 	3.20000
+11446	man work farm 	old guy work farm cow kick him 	2.80000
+11447	two girl sit front statue 	two blonde girl sit next statue	3.80000
+11448	white dog run sand 	white dog run sand 	5.00000
+11449	person watch people ski hill 	woman jump long distance people watch 	1.40000
+11450	woman slice onion 	woman slice lemons 	1.40000
+11451	woman cut plastic sheet 	woman play guitar streets 	0.50000
+11452	two race dog run mud 	man go water 	0.00000
+11453	two zebra playing 	zebras socializing 	4.25000
+11454	two dog approach grass 	two dog face grass 	4.80000
+11455	two dog run field 	two dog play field 	4.20000
+11456	person cut meat 	person rid mechanical bull	0.00000
+11457	boy whack man sword 	boy spank man plastic sword 	3.33300
+11458	brown furry animal stand behind plants 	dog pant stand woods 	1.40000
+11459	man woman eat table 	couple eat meal talking 	3.00000
+11460	child red coat lay red mat 	toddler ready climb red piece equipment 	0.80000
+11461	baby laugh car seat 	baby laughing 	3.10000
+11462	man stand shore hit ball paddle 	two teenage girl stand beside beach listen ipods 	0.80000
+11463	big green ball knock potato over 	large green ball hit potato 	4.00000
+11464	woman open window 	man crawling 	0.00000
+11465	car drive road 	girl walk road 	1.20000
+11466	two dog fight snow 	two dog play snow 	3.20000
+11467	boy ride bike top metal fence 	bmx biker ride along top fence 	3.00000
+11468	man play keyboard 	man play keyboard piano 	4.00000
+11469	teenage girl run beach shouting  old man walk behind her 	young child run along shore beach	1.80000
+11470	man stand grind paintbrush	man crutch lie ground 	1.20000
+11471	man climb rock face 	man climb rock wall 	4.60000
+11472	gate blue 	gate yellow 	1.60000
+11473	black white dog swim river 	black man dog beach 	0.60000
+11474	two dog run grass 	two dog run dirt	3.60000
+11475	man woman bench 	man woman sit park bench 	3.60000
+11476	woman dice onions 	woman dance railway station 	0.40000
+11477	man paddle canoe 	man play harp 	0.66700
+11478	person draw large touchscreen 	man draw digital dry erase board 	3.00000
+11479	man sit bench drink mug surround rugs 	man sit one two red bench star kiosk 	2.20000
+11480	man rid bicycle 	man rid bicycle around park lot 	3.25000
+11481	people walk garden 	one boy talk man 	0.00000
+11482	skier jump air snowfield near mountain range 	woman sit near flower bed overlook tunnel 	0.00000
+11483	man drive car 	man rid horse 	1.20000
+11484	two boy driving 	two bay dancing 	0.60000
+11485	woman slice onion 	man cut onion 	2.75000
+11486	two white dog walk deep white snow 	two white dog walk huge bank mountain snow 	4.60000
+11487	two girl play doctor inside house 	two girl walk father 	0.80000
+11488	someone boil okra pot 	someone pour olive oil bowl tomato wedges 	0.80000
+11489	rider run jump horse 	woman jump hurdle horse 	4.00000
+11490	monkey brush bull dog 	monkey brush dog 	4.20000
+11491	girl play piano 	little girl play grand piano stage 	3.33300
+11492	woman slice big pepper 	man play instrument 	0.00000
+11493	cat play watermelon floor 	man pour oil pan 	0.00000
+11494	boy play violin stage 	boy onstage play violin 	4.25000
+11495	woman swim underwater 	man slice carrots 	0.00000
+11496	woman slice big pepper 	dog move mouth 	0.00000
+11497	woman thinly slice cucumber 	woman slice tomato 	1.20000
+11498	dog ha head inside red green gift bag 	pet playfully investigate content gift bag 	3.80000
+11499	butter melt pan 	man melt butter pan 	3.60000
+11500	woman fry bread pork chop 	woman cook bread pork chop 	4.20000

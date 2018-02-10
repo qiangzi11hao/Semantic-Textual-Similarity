@@ -1,0 +1,1500 @@
+10001	two big brown dogs running through the snow.	A brown dog running through the grass.	2.00000
+10002	A woman is peeling a potato.	A woman is slicing a tomato.	1.33300
+10003	A small boy is building with some wooden blocks.	A small boy wearing a blue shirt stacks wooden blocks.	4.00000
+10004	Soccer players are kicking a soccer ball into the goal.	A soccer player scores a goal.	3.80000
+10005	A man spins on a surf board.	A man is putting barbecue sauce on chicken.	0.00000
+10006	A person on a snowmobile.	A person on a snowmobile in mid jump.	3.60000
+10007	A person is scrubbing a zucchini.	A woman is scrubbing a zucchini with a vegetable brush.	4.00000
+10008	A dog jogs through the grass.	a dog trots through the grass.	5.00000
+10009	Three children playing with hay outdoors, throwing some at camera lens.	Three young children play in the hay, throwing some at the camera.	4.80000
+10010	Some men are fighting.	Two men are fighting.	4.25000
+10011	A man is playing flute.	A man is dancing.	0.20000
+10012	People are playing cricket.	Men are playing cricket.	3.20000
+10013	The young adult are cold	Asian children are playing with a dog.	0.20000
+10014	The girl is slicing an onion.	A woman is chopping an onion into small pieces.	2.20000
+10015	Two black and white dogs are playing together outside.	Two children and a black dog are playing out in the snow.	1.00000
+10016	A woman is frying ground meat.	A man is cutting a trunk with an axe.	0.50000
+10017	A rabbit is sniffing and pawing a stuffed rabbit.	A live rabbit is playing with a stuffed animal bunny.	4.50000
+10018	A pair of dogs playing with a purple ball.	Two dogs play with purple football.	4.40000
+10019	The man played haki sak in the office.	The man is seasoning the vegetables.	0.40000
+10020	Black and white dog running through water.	A black and white dog is running through grass.	2.60000
+10021	A woman holding a newspaper.	A man rollerblading on a metal bar.	0.00000
+10022	Two people are walking by the ocean.	Two men in fleeces and hats looking at the camera.	0.40000
+10023	A baby is laughing.	A baby is laughing and giggling.	4.00000
+10024	A puppy plays with a plastic container.	The dog is playing with a plastic container.	3.80000
+10025	A man is reading an email.	A person opening a banana.	0.00000
+10026	A girl is slicing a butter into two pieces.	A woman is slicing tofu.	1.00000
+10027	A kitten is drinking milk from a bowl.	A small child is drinking water from a cup.	0.80000
+10028	The man is playing the drums.	A man is playing drums.	5.00000
+10029	A man is peeling a banana.	A woman is peeling a potato.	1.40000
+10030	A girl is singing and playing a guitar.	A young man is singing while playing the guitar.	2.40000
+10031	Someone is slicing a onion.	Someone is carrying a fish.	0.75000
+10032	One woman is measuring another woman's ankle.	A woman measures another woman's ankle.	5.00000
+10033	A man is talking on the phone.	A man is talking.	3.20000
+10034	A man is playing a musical keyboard.	A man is playing a keyboard piano.	5.00000
+10035	The monkey is hanging from the trees.	The monkey swung from branch to branch.	2.00000
+10036	A woman plays the guitar.	A man sings and plays the guitar.	1.75000
+10037	A man is playing guitar.	A man plays a guitar.	4.85700
+10038	A squirrel runs around in circles.	A squirrel is moving in circles.	4.40000
+10039	A young boy wearing a red winter coat is eating and holding up a candy bar.	A young boy wearing a red coat eats a chocolate bar.	4.00000
+10040	A man is slicing a bun.	A man is breaking pots.	0.40000
+10041	Many people are on the beach, near a building with flags flying.	A busy beach has people scattered on it watching the sky.	2.40000
+10042	Two men are fighting.	The man is exercising.	0.75000
+10043	A man and a woman is kissing each other.	A man and a woman are hugging and kissing each other.	3.40000
+10044	A woman is eating fish at a restaurant.	A woman eating a large fish in a restaurant.	4.60000
+10045	A dog is jumping on a trampoline.	A dog bounces on a trampoline.	4.80000
+10046	A young boy is holding a guitar.	A little boy is playing a guitar.	2.75000
+10047	The man is eating pizza.	A man is eating a slice of pizza.	4.80000
+10048	A man is cutting grass.	A clown is singing.	0.00000
+10049	The brown and white dog is walking in shallow waters.	A white and brown dog appears to be walking on the water.	4.60000
+10050	A man is playing the guitar.	A man seated in a room is playing the guitar.	4.00000
+10051	A man is rowing a boat.	A man is slicing a tomato.	0.40000
+10052	A woman is slicing a potato.	A woman is slicing carrot.	2.50000
+10053	A person is mixing water and flour.	A person is hitchhiking on a road.	0.80000
+10054	A couple of policewomen are singing karaoke.	Two women are dancing.	0.80000
+10055	A person is peeling shrimp.	A person is preparing shrimp.	3.60000
+10056	A dog in a "superman" shirt sleeps on a blanket.	A brown dog in a Superman shirt is laying on a blue blanket.	4.00000
+10057	A woman cuts a pineapple.	A woman is slicing a pineapple into pieces.	4.00000
+10058	The woman is waterskiing.	A woman is wake boarding on a lake.	1.75000
+10059	A man is drawing some figures.	A man is drawing on a digital dry erase board.	3.33300
+10060	A woman is adding oil to a pan.	A man is pouring oil into a pan.	3.00000
+10061	The lady cut up a potatoe.	A man is cutting a potato.	2.40000
+10062	A dog swimming with a stick in it's mouth.	Dog swimming in the water with a stick in its mouth.	5.00000
+10063	A man is dancing on the ceiling.	A man is dancing on the ceiling of a room.	4.80000
+10064	The men are performing on stage.	The comedic mimes performed on stage.	2.60000
+10065	a young girl smiling with her head upside down	A girl poses with her head upside down.	4.60000
+10066	A man is playing guitar.	A man is draining pasta.	0.40000
+10067	Two girls on the shore watch people in a boat fish.	Two males, one in red and one in white playing a basketball game.	0.00000
+10068	A girl is dancing in a cage.	A onion is being chopped.	0.00000
+10069	The white dog runs across the snow.	A white bear walks along snow-covered ground and casts a shadow on the snow.	1.40000
+10070	A woman is slicing meat with a knife.	A man is spreading out dough.	0.41700
+10071	A man is playing a guitar.	Someone is handling a bun.	0.00000
+10072	A skateboarder on a city street.	A skateboarder in the air at a big, outdoor ramp.	2.60000
+10073	A turtle is walking.	A tortoise is walking.	4.40000
+10074	A squirrel is spinning around in circles.	A squirrel runs around in circles.	4.00000
+10075	Three dogs in the snow by a fence.	Two dogs drink water in a lake.	1.00000
+10076	A pair of men walk along the beach.	Two men standing in the surf on a beach.	2.60000
+10077	Two dogs are peeing at a red fire hydrant.	Two dogs are urinating on the red fire hydrant.	5.00000
+10078	Paper is being cut with scissors.	A piece of paper is being cut.	4.00000
+10079	A woman is cutting an onion.	A woman is chopping onions.	4.80000
+10080	A woman is peeling an orange.	A man is playing a flute.	0.00000
+10081	A man is playing a ukulele.	A man is sitting and playing a small guitar.	2.20000
+10082	Two gray dogs run together over the green grass.	Two grey dogs running in green grass.	4.60000
+10083	Two dogs in the snow	Two dogs play in the grass.	2.40000
+10084	A man is skating down a set of stairs.	The man is skiing down a snowy hill.	0.80000
+10085	Small child playing with letter P	2 young girls are sitting in front of a bookcase and 1 is reading a book.	0.80000
+10086	A plane rides on a road.	An airplane moves along a runway.	2.81200
+10087	A child and two dogs play in the water.	A child in red and blue floaties looking down at the water.	2.20000
+10088	A black dog and a white dog playing in the street.	A black dog and a white dog play in the street together.	4.60000
+10089	A person is playing a guitar.	The man played his guitar.	3.00000
+10090	A man is performing labor.	A man is performing today.	2.80000
+10091	A man is drawing a picture.	A person is drawing.	3.60000
+10092	A girl is flying a kite.	A girl running is flying a kite.	4.00000
+10093	A woman is chopping garlic.	A woman slices a fish.	1.00000
+10094	Someone is playing a piano.	Someone is playing guitar.	2.40000
+10095	Someone is greating a carrot.	A woman is grating an orange food.	2.50000
+10096	Someone is folding a piece of paper.	A person is slicing a small pieces of ginger.	0.25000
+10097	A black dog is running through the snow.	The black and brown dog is running through the snow.	4.00000
+10098	A man is spitting.	A man is talking.	0.80000
+10099	A woman is slicing a carrot.	A man is slicing a tomato.	1.20000
+10100	a group of navy seals are singing	A group of military personnel are playing in a brass quintet.	2.40000
+10101	A boy does a skateboard trick on the stairs downtown.	a boy is running on the sidewalk	0.60000
+10102	The man is seasoning the sausages.	The man added seasoning to water in a bowl.	2.40000
+10103	The flag was moving in the air.	A flag is waving.	3.75000
+10104	A dog runs through the grass.	Two dogs run through the brush.	2.80000
+10105	A man doing a jumping bike trick surrounded by trees.	A boy riding a green trick bike over some steps outdoors.	3.00000
+10106	A brown dog wades in the water.	A dog splashes in the murky water.	3.60000
+10107	A man is cutting tomatoes.	A woman is cutting broccoli.	1.50000
+10108	A cheetah is running.	A cheetah is running across a field.	3.80000
+10109	A young girl with glasses sits and holds two American flags.	A girl in glasses is looking over two American flags near a wooded area.	2.60000
+10110	A black and white dog is jumping into the water.	a white dog runs across the water.	2.80000
+10111	A female DJ holds up a Michael Jackson album.	a girl holding a picture of Michael Jackson smiling	3.00000
+10112	A man is buttering a piece of bread.	A man is applying butter to bread.	5.00000
+10113	A brown and white dog is running through the snow.	a brown and white dog is running on the grass.	2.40000
+10114	The woman is putting makeup on the man.	A woman is painting the face of a man.	2.80000
+10115	A man is cutting tomatoes into pieces.	A woman is cutting some vegetables.	1.80000
+10116	A young person  deep in thought.	A young man deep in thought.	4.60000
+10117	A large tan dog is running with a green item in its mouth	The tan dog is carrying a green squeak toy in its mouth.	4.40000
+10118	A woman is dancing with other women.	A woman is shredding chicken.	0.40000
+10119	A white and brown dog playing with a black toy.	A white and brown dog is playing tug-o-war.	3.40000
+10120	Two people are walking through some water.	Two girls are walking by a tree in front of a brick building.	1.20000
+10121	The baby boy wants his mother.	A baby boy is happy to see his mother.	2.80000
+10122	A man is selling items.	A man is cleaning the house.	0.80000
+10123	A brown dog is running through green grass.	A brown dog is running though a river.	2.40000
+10124	A woman reads while on public transportation.	A man who has fallen asleep on public transportation.	1.60000
+10125	A person pours some rice pudding into a bowl.	The lady poured the rice pudding into a bowl.	4.00000
+10126	Someone is peeling a potato.	Someone is slicing a tomato.	1.40000
+10127	A man is dancing.	A man is eating bread.	0.80000
+10128	The man is playing a guitar.	A baby is playing a guitar.	1.80000
+10129	Two children splashing in the water.	Two dolphins jumping into the water.	1.40000
+10130	Two little girls talk on the telephone.	Two girls talk on the phone.	4.50000
+10131	A woman holds a kangaroo.	A man in a hat sings a song.	0.00000
+10132	A man is lifting weights in a garage.	A man is lifting weights.	4.25000
+10133	A man is singing and playing a guitar.	A man is playing a guitar.	3.60000
+10134	A man is mowing a lawn.	A woman is cutting a lemon.	0.20000
+10135	A young boy is riding a bike.	A young girl laying on a blue inflatable toy	0.40000
+10136	A skier is falling into the snow.	A skier is falling face first into the snow.	4.00000
+10137	A boy studies a calendar.	A boy is looking at a calendar.	4.40000
+10138	Two kids are swimming.	Six kids are going swimming.	2.80000
+10139	A man is jumping rope outside.	A woman is slicing a cucumber.	0.00000
+10140	Two black dogs are jumping and playing with a yellow tennis ball in the snow.	A brown dog and a black dog playing with a yellow soccer ball.	2.00000
+10141	A man wearing an orange coat speaks to another as they walk in the snow.	A man and woman dressedin old fashion clothing sit outside at a table.	0.60000
+10142	A brown and white dog is running across a brown field.	A person hanging from a rocky cliff.	0.00000
+10143	Three people stand in an outdoor glass structure.	A girl stands high on an obstacle course platform.	0.40000
+10144	A man is peeling a potato.	A man is hiking.	0.50000
+10145	A cat is eating some corn.	A cat is eating corn on the cob.	4.25000
+10146	A man is playing guitar.	A lady is playing the guitar.	2.20000
+10147	A bear is running from two dogs.	A bear is fighting wolves.	1.40000
+10148	The lady peeled the potatoe.	A woman is peeling a potato.	4.75000
+10149	A soccer player is kicking the soccer ball into the goal from a long way down the field.	A soccer player kicks the ball into the goal.	3.25000
+10150	Someone is stirring chili in a kettle.	Someone is stirring a pot of chili with a spoon.	3.80000
+10151	Two roosters are fighting.	Two men are fighting.	2.00000
+10152	Three dogs playing in the snow.	The boy is playing in the sand.	0.80000
+10153	A man tries to feed a mouse to a snake.	A man is teasing a snake with a mouse.	3.20000
+10154	boy doing tricks on a skateboard	A boy does a trick on a skateboard.	4.80000
+10155	A man is taking out the insides of a green pepper.	Someone is removing the seeds from a bell pepper.	4.00000
+10156	A black dog running into the water.	A black dog running through water.	4.60000
+10157	A couple are running towards the ocean.	A man and and woman are running together, holding hands.	2.81800
+10158	A boy is cutting paper.	A man is loading a rifle.	0.00000
+10159	The lady stirred up raw eggs in the bowl.	A woman is pouring eyes into a bowl.	1.00000
+10160	Two constructions workers sit on a beam taking a break.	The man is putting on his shirt near an elevator.	0.00000
+10161	A white dog is running through the water at a beach	A white dog is running through the water onto the shore.	4.60000
+10162	A man is cutting a pipe with scissors.	A man is cutting carpet with a knife.	1.20000
+10163	A young girl with dirt on her face and a red child's bike is in the background.	The old woman in shorts and a white t-shirt is standing on a path watching children play.	0.80000
+10164	A woman is playing the flute.	A man is playing a keyboard.	1.00000
+10165	Trees are bending in storm.	Trees are hit by very hard winds.	2.66700
+10166	Two women holding checkered flags near an orange car.	Two ladies in skimpy clothes pose next to an old fashioned car.	2.80000
+10167	A woman is mincing some garlic.	A person is cleaning a disk.	0.00000
+10168	The lady cut the tail and body of a shrimp.	A woman is cleaning a shrimp.	4.50000
+10169	Three children are eating their food.	The deer jumped over the fence.	0.00000
+10170	A woman is taking a bath.	A woman is riding a horse.	0.53800
+10171	A woman is boiling shrimp.	A woman is combing her hair.	1.00000
+10172	A woman walking down the side of a highway.	A man is standing on one feet on a bridge.	0.40000
+10173	Three little girls are sitting on the grass.	Two poodles are running through the snow.	0.80000
+10174	There is a cook preparing food.	A cook is making food.	5.00000
+10175	The two kids look at the products sold inside the subway shop.	The kids are stealing from a store.	0.80000
+10176	A person is cutting mushrooms.	A person is cutting mushrooms with a knife.	4.20000
+10177	A person is walking down a stone path.	A man is walking down a sidewalk.	3.50000
+10178	A man and woman are Bollywood dancing.	A man an woman are dancing in the rain.	1.66700
+10179	a black and white dog jumping in the air to catch a Frisbee	A black and white dog jumping in a yard.	3.40000
+10180	A man is rowing a boat.	A man is shooting off a gun.	0.85000
+10181	A man is dangling a mouse near a snake.	A man is feeding a mice to a snake.	3.20000
+10182	A woman is cutting a tomato.	A woman is slicing a potato.	1.00000
+10183	A man is playing keyboards.	A man is riding a mechanical bull.	1.20000
+10184	Two workers are sitting next to pipes eating lunch	The construction workers are sitting down to eat lunch.	3.80000
+10185	A woman plays the flute.	A woman is playing the flute.	5.00000
+10186	A woman is slicing tomato.	A man is slicing onion.	1.60000
+10187	The black and white dog has its mouth wide open.	A black and white dog jumps in the snow.	1.80000
+10188	Child sliding in the snow.	Man sleeping on the street.	0.00000
+10189	A big turtle is walking.	The tortoise is walking.	4.25000
+10190	The woman is slicing tofu.	The woman is putting on lipstick.	0.40000
+10191	A lion cub tries to climb a fence.	A lion tries to climb over a wall.	2.75000
+10192	A man is hanging by a line off a cliff above water.	Man sitting by himself on a pier with a bottle of water.	0.60000
+10193	A kitten is playing with a blue rope toy.	A kitten is playing with a toy.	4.40000
+10194	A man walks his dog on the beach.	A man with his dog on the beach.	4.40000
+10195	A person is writing.	A person is writing with a pencil.	3.60000
+10196	Two little girls are playing on a trampoline.	Two little boys are playing on a playground.	1.40000
+10197	People are standing on an escalator moving up.	People ride up an escalator.	4.60000
+10198	The baby crawled through the doorway.	A baby is crawling across the floor.	2.40000
+10199	A woman is scraping a carrot.	A man is striking clay pots.	0.00000
+10200	A black and brown dog runs through the woods.	A dog running through the woods.	4.00000
+10201	a brown and white dog is running on the grass.	The tan and black dog is running across the grass.	3.40000
+10202	Brown dog splashing into the water.	Four dogs splashing in the water	2.40000
+10203	a man wearing a grey jacket standing on the side of a street.	A boy wearing a blue life jacket is holding onto the side of a green boat.	0.60000
+10204	A man is playing the guitar.	The man played his guitar with a friend.	3.20000
+10205	The man is putting chicken into the container.	A man is putting foods in a box.	2.50000
+10206	Two different breeds of brown and white dogs play on the beach.	Two dogs playing in the sand at the beach.	4.00000
+10207	A person uses a blowtorch on two cameras.	A person is burning cameras.	2.33300
+10208	A man is burning a flag.	A man is shooting a gun.	0.50000
+10209	A woman looks at a duck as she walks behind it.	A woman is going on a walk with her dog.	1.00000
+10210	A man is staring at a leaf.	A man is slicing a vegetable.	0.80000
+10211	Woman in black dress with red accessories is walking down the street.	Woman in a black dress walking on the street.	3.80000
+10212	A woman is firing a rifle.	A woman is cutting a lemon.	0.20000
+10213	A woman is deboning a fish.	A man catches a fish.	1.25000
+10214	The white and brown dog is running quickly through the grass.	The big white dog is running in the grass.	3.40000
+10215	A dog is running through a backyard full of leaves.	Three dogs run through a field.	2.80000
+10216	A man is smelling two pizzas.	A woman is feeding a man.	0.20000
+10217	The cat shimmied under the bed.	A cat is crawling upside down under the couch.	2.00000
+10218	A girl in a purple shirt and pink headband posing	A young girl wearing a hat and blue jeans is on a swing.	0.40000
+10219	A cook seasons some dough.	A man is seasoning some dough in a pan.	3.75000
+10220	A dog is barking.	A jet is flying.	0.23100
+10221	A woman is shooting a gun.	A woman shoots a shotgun.	4.09100
+10222	A woman is braiding her hair.	A man is riding a motorcycle.	0.00000
+10223	A woman is feeding a man.	A woman is mixing meat.	1.00000
+10224	A man is opening a door.	A man is cutting an onion.	0.80000
+10225	Two white dogs walking in the snow.	A tan dog with a black collar barking in the snow.	2.00000
+10226	A man is swinging on a rope over water.	A man in a maroon bathing suit swings on a rope on a lake.	3.00000
+10227	Someone is holding and petting a baby tiger.	Someone is rinsing a large beef steak at the kitchen sink.	0.40000
+10228	A woman is picking tomatoes.	A woman is pouring batter into a bowl.	1.00000
+10229	A man spreads butter on a big piece of bread.	A man is smearing butter on a slice of garlic bread.	3.50000
+10230	Two skinny young boys playing with sand in the water.	Two dogs are shaking water off.	0.40000
+10231	A man is putting broccoli into water.	A person is peeling a potato.	1.00000
+10232	A man is riding a bike.	A woman is dancing in the street.	0.20000
+10233	A woman is slicing an onion with a knife.	A man is preparing some dish.	1.25000
+10234	A kid is playing guitar.	A boy is playing a guitar.	3.80000
+10235	A man is putting two paper towels on a paper plate.	A man is putting papers on a dish.	2.20000
+10236	An explosion is booming in the desert.	A nuclear weapon explodes in a desert.	3.40000
+10237	A boy climbs a forest hill.	A boy is climbing a hill.	4.00000
+10238	A herd of deer are crossing the street.	A herd of caribou are crossing a road.	3.00000
+10239	people walk home	People waiting.	1.60000
+10240	A woman is cutting potato.	A woman is riding a horse.	0.75000
+10241	A woman cuts up some vegetables.	A woman is placing skewered food onto a cooker.	1.00000
+10242	A boy is playing an instrument.	A man is playing a trumpet.	2.50000
+10243	Two people are racing a sidecar motorcycle in the mud.	The dog carrying a long stick in its mouth.	0.00000
+10244	A man is hugging someone.	A man is taking a picture.	0.40000
+10245	A white fluffy dog is running in pure white snow.	A fluffy, white dog running in the snow.	4.60000
+10246	A player bounces a ball.	A player catching a ball.	1.60000
+10247	A woman is opening a soda and drinking it.	A woman is riding on an elephant.	0.60000
+10248	A skier going down the snowy hill.	A brown dog is laying in the snow.	0.40000
+10249	Men competing in a contest.	Two women compete in a contest.	2.40000
+10250	Four children on stools in a diner.	Four children sit on tall bar stools at a yellow and grey bar.	3.60000
+10251	A man is playing a basketball.	A man is playing a piano.	1.40000
+10252	Two brown dogs are biting each other.	Two brown dogs biting each other on sand.	4.20000
+10253	A man playing the guitar.	A man is playing a flute.	1.80000
+10254	a man plays his white guitar.	a man playing a white guitar and singing as well	3.20000
+10255	A cat is drinking milk.	A kitten is drinking milk.	4.00000
+10256	A man has his skis ready for the field to get iced out	A man on a boat getting ready to pull in his net to see what he caught.	0.40000
+10257	A woman is cutting an onion.	A woman is cutting meat.	2.00000
+10258	A puppy is trying to come out from the sink.	The puppy tried to get out of the tub.	3.00000
+10259	A man is finding something.	A woman is slicing something.	0.80000
+10260	A man is looking out of a window.	A woman is swimming in the water.	0.25000
+10261	A young boy in a white dress shirt is playing on a grassy plain.	A woman is getting her hair done at a salon.	0.00000
+10262	A young boy with his hair standing up, is sliding down a blue slide	The kid in the orange shirt is sliding down a teal slide.	2.60000
+10263	A man is playing a guitar.	A woman is playing a flute.	1.80000
+10264	A man and a dog on rocks on a beach.	A man and dog on a rocky seashore.	4.60000
+10265	The lady put the skewered shimp in the hot water.	The lady fried the breaded meat in hot oil.	1.60000
+10266	A tan dog jumps up to catch a tennis ball.	A red dog jumps an catches a tennis ball in its mouth.	3.00000
+10267	The man cut some carpet with a knife.	A man is cutting carpet with a knife.	4.75000
+10268	The women are sitiing down.	Two women are sitting close to each other and talking.	2.60000
+10269	Two homeless men stand outside with a cardboard sign.	Two homeless young men holding a cardboard sign.	4.60000
+10270	A white dog runs on a beach.	The white dog is running along the beach.	5.00000
+10271	A man is smoking.	A man is mixing.	0.20000
+10272	A woman is lying on a blanket on a rock and reading a book.	A woman seated is singing a song and playing the guitar too.	1.20000
+10273	Two men pushed carts through the woods.	Two men are pushing carts.	3.50000
+10274	A black dog is running after a white dog in the snow.	Black dog chasing brown dog through snow	1.80000
+10275	A person is boiling soup.	A woman is placing eggs into a pan.	0.25000
+10276	The woman is slicing herbs.	The man is slicing bread.	1.60000
+10277	Two little girls are talking on the phone.	A little girl is walking down the street.	0.50000
+10278	A man is playing a keyboard.	A man plays a keyboard.	5.00000
+10279	A man is bowling.	A kitten is walking.	0.00000
+10280	The clowns are striking a pose for the camera.	A child in orange is on a boogie board in the waves.	0.60000
+10281	A black poodle plays in the snow.	A black poodle frolics in the snow.	5.00000
+10282	A man is kicking a soccer ball.	A man is performing tricks with a soccer ball.	2.60000
+10283	The man stirred the sauce for the chicken.	The man is stirring oil.	2.40000
+10284	A man plays the guitar and sings.	A man is singing and playing a guitar.	5.00000
+10285	A woman is folding paper.	A woman is applying eye shadow.	0.40000
+10286	A woman is adding oil on fishes.	A woman is riding a horse.	0.80000
+10287	There are four snowboarders going off a jump and that are in the air.	Two racers are coming to a turn.	1.00000
+10288	A man is tying on a stenographers machine.	the man used a stenograph.	2.25000
+10289	A woman cuts a pink loaf with a knife.	A man is playing a guitar.	0.11800
+10290	A woman in a blue bathing suit is jumping off a dock into a lake.	a boy in a blue shirt and blue jeans runs across a playground	0.40000
+10291	Man riding a bicycle down a narrow path.	A man riding a unicycle down a paved road	2.60000
+10292	Many middle eastern people are sitting in the back of a blue truck.	A group of people are riding in the back of a truck.	3.40000
+10293	A cat is jumping into a box.	A young man is talking to a leaf.	0.00000
+10294	A helicopter is getting ready to take off.	The plane is getting ready to take off.	2.80000
+10295	The man is playing the piano.	The man is playing the guitar.	1.60000
+10296	A small dog runs through an obstacle course.	A small dog jumping over an obstacle.	3.80000
+10297	a dog runs through the long grass.	A dog lays down in the long green grass.	2.60000
+10298	A girl is singing on stage.	A man is singing on stage.	2.80000
+10299	A woman is slicing a pepper.	A woman is cutting a red pepper.	3.93800
+10300	A woman is spreading mustard on a bread roll.	A kitten is playing with a woman's finger.	0.00000
+10301	A golden colored dog jumps around in the grass while holding a stick in its mouth.	A black dog is running through the grass carrying something red in its mouth.	2.40000
+10302	A girl is communicating with sign language.	A young girl is using sign language.	3.94100
+10303	A blonde woman looks for medical supplies for work in a suitcase.	The blond woman is searching for medical supplies in a suitcase.	5.00000
+10304	A person is slicing a scallop.	A person is slicing octopus.	2.00000
+10305	A woman paints a picture of a large building which can be seen in the background.	A person paints a picture of a large building which can be seen in the background.	4.20000
+10306	A man is playing an electronic keyboard.	A man is playing a flute.	1.20000
+10307	A man is playing the piano.	A woman is playing a guitar.	1.20000
+10308	The polar bear is sliding on the snow.	A polar bear is sliding across the snow.	5.00000
+10309	A man attacks a woman.	A man slaps a woman.	3.60000
+10310	Two men are sitting in the room.	Two men are standing in a room.	3.00000
+10311	A man eats popcorn while watching cartoons late one night.	A man and a girl are watching cartoons at home	2.80000
+10312	A group of four children dancing in a backyard.	A group of children do stretches on colored mats.	1.60000
+10313	Three dogs are playing in the white snow.	Two dogs are playing in the grass.	1.60000
+10314	A black and white dog is running through the grass.	A tan dog is walking through snow.	2.00000
+10315	A woman is writing something.	A woman is chopping green onions.	0.80000
+10316	Lionel Richie is dancing on the ceiling.	Lionel Ritchie dances while standing on the ceiling.	4.00000
+10317	A dog is looking into swimming pool.	A dog is walking around a pool.	2.00000
+10318	A woman is mixing eggs.	The woman is eating.	0.50000
+10319	A man is breaking wooden boards with his hand.	A man is breaking tiles with his hands.	2.50000
+10320	The woman is playing the flute.	A woman is playing a flute.	5.00000
+10321	A black dog running through the snow.	A black dog runs through the water.	2.40000
+10322	A dog with a red toy in it's mouth.	A brown dog is carrying a stick in its mouth.	2.20000
+10323	A man is dancing.	A rat is running.	0.00000
+10324	A person is stirring rice.	A woman is cracking an egg.	1.00000
+10325	A man with long hair is looking through a camera.	A man with sunglasses looking straight ahead.	2.00000
+10326	A woman is sitting in the water.	The woman is skating in the park.	0.80000
+10327	A woman is playing a guitar and singing.	A woman is playing the guitar.	3.20000
+10328	A kangroo is eating something.	A kangaroo is eating.	4.80000
+10329	A woman is applying eye shadow.	A woman is washing a bowl.	1.20000
+10330	A young boy plays in a red ball pit.	A laughing boy lies on a pit of blue balls.	3.00000
+10331	A man is eating wood.	A man is adding oil to car.	0.50000
+10332	One boy is pushing another boy on a swing.	A boy is pushing another boy on the swings.	4.80000
+10333	A man is karate kicking at another man wearing protective boxing gloves.	A man is kick boxing with a trainer.	2.50000
+10334	A little white curly haired dog runs across the pavement with a stick in its mouth.	A white curly haired dog runs with a stick in it's mouth.	4.60000
+10335	A woman is playing the flute.	A girl is playing a flute.	3.80000
+10336	A woman slices a lemon.	A man is talking into a microphone.	0.00000
+10337	Two men are dancing together.	A woman opens a closet.	0.00000
+10338	A person is slicing a bread pieces.	A man is slicing bread.	3.20000
+10339	A woman is frying something in the pan.	A man is playing his guitar.	0.00000
+10340	a man and woman walking past a record shop	A man and woman kissing in front of a crowd of people.	0.20000
+10341	The dogs are playing in the snow.	Two dogs playing on the shore.	1.80000
+10342	Raccoons are eating.	A man is eating.	1.50000
+10343	two dogs running in the snow	A dog laying in the snow.	2.20000
+10344	A man is riding a bike.	A man is riding on a horse.	2.00000
+10345	A man is speaking.	A man is spitting.	0.63600
+10346	The man is playing the guitar.	A man is playing the flute.	1.64300
+10347	The dog is running through a field.	A dog runs through a field.	4.80000
+10348	A person checks some rice pudding.	A horse is running.	0.00000
+10349	A black horse is running around.	The horse is running.	4.20000
+10350	Someone is pouring oil into a skillet.	Someone is pouring milk into a blender.	1.60000
+10351	The two boys play in the field.	The two people have their heads covered with scarves.	0.00000
+10352	A woman holds a dog while another dog stands nearby in a field.	A lady holding one dog while another dog is playing in the yard.	3.40000
+10353	A target is being hit with gun fire.	The target was being shot with bullets.	4.21400
+10354	A surfer is riding on a breaking wave.	a group of surfers catching a wave	2.60000
+10355	Two kids are walking on a path in the woods.	Two children walking down a path in the woods.	5.00000
+10356	A boy in red jumping into a sandbox.	A dog swimming in a pond	0.00000
+10357	Women are talking.	The men are talking.	2.60000
+10358	The man danced in the diner.	The bomb exploded in the desert.	0.00000
+10359	A man is playing the piano.	A man is playing a wooden flute.	1.40000
+10360	A man plays the violin.	A man is playing violin.	5.00000
+10361	A group of couples are dancing.	Men and women are dancing slowly.	3.33300
+10362	Someone is on a blanket.	The person is making a blanket.	1.40000
+10363	A man is playing a violin.	A man is playing a harp.	1.60000
+10364	A woman is slicing a pumpkin.	A woman is riding an elephant.	0.40000
+10365	An infant sitting on a cot reaching over to touch the face of an older boy.	A boy who seems ill is being touched in the face by a toddler.	2.20000
+10366	Many football players sitting on the ground.	A dog rolls on the ground.	0.00000
+10367	A dog is stealing food from a refrigerator.	The dog took something out of the refrigerator.	3.20000
+10368	A little girl with a ribbon in her hair is picking her nose.	A little girl in a purple shirt and helmet is riding on a scooter.	1.20000
+10369	A man is playing a piano.	A man is playing a guitar.	1.77800
+10370	A girl is reading a newspaper.	A chef is peeling a potato.	0.00000
+10371	A shirtless man playing football on a lawn.	A shirtless man catches a football	4.40000
+10372	A woman is adding some mushrooms and liquid to a pot.	A young man is playing the guitar.	0.00000
+10373	A person is combing a cat hair.	A person is brushing a cat.	4.40000
+10374	a group of teenagers are jumping in the air on the beach.	A group of young people jump up in the air while on the beach.	4.80000
+10375	A person is slicing an onion.	A cat is pooping into a toilet.	0.00000
+10376	A man shooting a car.	A man is cutting a potato.	0.40000
+10377	The yard has a dog.	The dog is running after another dog.	1.60000
+10378	A cat is playing with an antenna.	A boy is playing in the mud.	0.40000
+10379	A man is preparing a snake for cooking.	The man is dropping sliced cucumbers into water.	1.00000
+10380	A man pours liquid into a pan.	The chef poured oil in the pan.	2.60000
+10381	A wet child shivers under a towel at a pool.	A wet child is shivering in a towel in front of a pool.	4.60000
+10382	A child is jumping into a swimming pool.	A dog jumping into a swimming pool.	1.20000
+10383	A person is chopping coriander leaves.	A woman is slicing up some green leaves.	2.25000
+10384	A dog with a stick follows another dog through the water.	A four wheel drive car is driving through the mud.	0.00000
+10385	A group of men playing brass instruments.	A group of guys play instruments outside.	3.40000
+10386	a group of people dancing	A group of men are dancing.	3.40000
+10387	Close-up of a hummingbird.	A closeup of a hummingbird flying.	3.60000
+10388	A person in a red vest is touching the blue ice skates on another person.	A lady fastens someone's ice skates in the snow.	2.20000
+10389	Two dogs playing by the shore.	Two dogs playing in the snow.	2.80000
+10390	A woman mixes up vegetables.	A woman is adding ingredients to a skillet.	1.60000
+10391	A man is playing soccer.	A man is drawing some figures.	0.40000
+10392	A bulldog is running through a grassy park while people stand in the background.	A dog is running in a large body of water causing it to splash.	1.80000
+10393	A man is laughing with a woman	A man and a woman laughing.	4.80000
+10394	A boy doing a back flip into a swimming pool.	A boy wearing red and blue swim trunks jumping head first into a swimming pool.	2.40000
+10395	People are sitting around dimly lit tables while smiling and laughing.	People are sitting on benches.	2.00000
+10396	Three children in a ball pit.	Several children playing in a ball pit.	3.40000
+10397	A woman is cracking eggs into a bowl.	A woman is placing skewers onto a rack.	0.60000
+10398	Someone is cleaning a animal.	A woman is cleaning a shrimp.	2.80000
+10399	A man is playing guitar.	A boy is talking to a giant dog.	0.00000
+10400	A young boy in a brown jacket playing with snow.	Two dogs are playing in the snow.	1.20000
+10401	Two women are lost and calling for help.	Two Asian men are gathering materials for their business and their child had to come with them.	0.20000
+10402	A person wearing scuba gear is swimming underwater water.	A person is scuba diving in very clear blue water.	3.80000
+10403	A man on skis on a snow-covered hill with mountains in the background	A dog enjoys a romp in the water with mountains and sand in the background.	0.60000
+10404	Hockey goal-keeper laying on the ice in front of net.	A hockey player is laying on the ice in front of the goal.	4.60000
+10405	A man pours oil into a pot.	A man pours wine in a pot.	3.20000
+10406	A large black and white dog is swimming in the water.	A black and white dog with a stick is in muddy water.	3.60000
+10407	A band is playing on stage.	A woman is dancing on a stage.	1.20000
+10408	A man is smoking.	The man sat in his suit and smoked.	4.00000
+10409	An old man wearing a hat stands outside a shop door.	a man in an oversized shirt sits at a shop	2.20000
+10410	A lion is walking in an enclosed area.	A lion is walking around.	2.60000
+10411	A dog with floppy ears walking towards the camera in the woods.	A child in front of his own reflection turning towards the camera and smiling.	1.20000
+10412	A person is playing a piano.	A person is slicing a potato.	0.50000
+10413	A man is crying.	A man is screaming.	3.00000
+10414	The man and woman are resting on a couch.	A man and woman are asleep on the couch.	4.00000
+10415	The man is riding a horse.	A man is riding on a horse.	5.00000
+10416	A woman runs on the beach.	a dog runs across the land.	1.80000
+10417	The woman holding a black purse is smoking a cigarette.	A woman with a black bag is smoking a cigarette	4.80000
+10418	The woman is peeling lemon.	The man is balancing on the wire.	0.40000
+10419	A man is climbing a rope.	A man is sitting on a rock.	0.25000
+10420	A black dog running in the snow.	A black dog running on a beach.	1.80000
+10421	A person holding a net is standing in the water.	A black woman and two black children are sitting in a thatched tent.	0.60000
+10422	The man cut down a tree with an axe.	A man chops down a tree with an axe.	5.00000
+10423	A white and black dog is jumping into a pool.	A woman in a black apron is standing in front of a mirror.	0.00000
+10424	A woman slices tofu.	A woman is cutting tofu.	5.00000
+10425	A gorilla is playing the drums.	A monkey is playing drums.	3.33300
+10426	A man is making a bed.	A man is speaking to an audience.	0.75000
+10427	A woman is dancing.	A woman is exercising.	1.00000
+10428	A man is placing meat in a bag.	A man is drivong a car.	0.50000
+10429	A woman is attempting to ride a small wave.	A man and woman sitting back to back outside in the sun.	0.00000
+10430	A woman is adding spices on a meat.	Woman is adding sugar to meat.	2.75000
+10431	A woman boils eggs.	A woman places two eggs into a pot of water.	3.00000
+10432	A brown dog is splashing water everywhere by shaking the water off of itself.	A white dog is standing by a river shaking himself dry.	2.40000
+10433	A man with a messenger bag in front of a gray tile wall.	Man in red jacket standing in front of lighthouse.	0.80000
+10434	Two men are setting up some electronic equpitment	Two dogs are wrestling on the ground in the snow.	0.00000
+10435	A man in a red jacket holds his bike for the picture.	A woman in a red jacket is video taping a natural landscape.	0.40000
+10436	A woman cracks two eggs into a glass bowl.	A woman is cracking an egg into a bowl.	3.80000
+10437	A swimmer is doing the backstroke in the swimming pool.	a person doing the back stroke in a swimming pool	4.80000
+10438	A person is folding a square paper piece.	A man is folding paper.	3.25000
+10439	A woman is taking a picture.	A man is playing a guitar.	0.25000
+10440	A person is cutting a potato.	A person is slicing a shallot.	1.00000
+10441	The men are fighting each other.	The man drew on the white paper.	0.40000
+10442	A person is riding a skateboard in the air above a ramp.	A biker is riding along a track element located with a wooded area.	0.60000
+10443	A man laying down and shooting a gun	A man is laying on the ground shooting a rifle.	3.80000
+10444	A woman is chopping up garlic.	The woman is dicing garlic.	4.80000
+10445	A man is running.	A man is mooing.	1.00000
+10446	A person is peeling shrimp.	A man is peeling shrimp.	3.80000
+10447	The boy is riding a tricycle.	A woman is riding a water scooter.	1.25000
+10448	A girl is playing a flute.	A band is playing on a stage.	1.28600
+10449	A man is cycling.	A man is talking.	0.60000
+10450	Woman in red overalls standing on the sidewalk.	A woman in red overalls stands on sidewalk.	5.00000
+10451	A man is smoking.	A baby is sucking on a pacifier.	0.00000
+10452	Four girls happily walk down a sidewalk.	Three young girls walk down a sidewalk.	3.40000
+10453	The dogs are chasing a cat.	The dogs are chasing a black cat.	4.40000
+10454	A man is dancing on the ceiling of a room.	A man is dancing upside-down on the ceiling.	4.60000
+10455	A man takes a slice of pizza.	A man talks on his cell phone.	0.80000
+10456	A dog running on the grass	Two dogs are running on the grass.	2.60000
+10457	Two women are dancing and singing in front of a crowd.	The women are singing and dancing.	3.53800
+10458	A little boy and a little girl playing together outside.	A young boy and a young girl walking towards each other	2.00000
+10459	A black dog is biting a light brown dogs ear in a playful manner.	A black dog playfully bits another dog in a living room setting	4.00000
+10460	A lady mixed up a meat mixture in bowl.	A woman is stirring meat in a bowl.	4.00000
+10461	There is a young girl.	There is a young boy with the woman.	1.00000
+10462	The woman had brown hair.	The woman has gray hair.	2.40000
+10463	A woman is cutting an onion.	A horse is standing.	0.00000
+10464	Two boys are jumping into a pool.	Two boys are in midair jumping into an inground pool.	4.20000
+10465	An older man is standing outside in front of a truck.	A woman dressed in green is roller skating outside at an event.	0.00000
+10466	a cyclist is making his bike jump between two rocks.	A man jumps his bicycle in the air between two rocks.	4.40000
+10467	A woman is posing for a Christmas card.	A girl is taking a photo.	1.20000
+10468	A woman is adding pasta to a pot of water.	A woman is making noodles.	3.60000
+10469	The man is aiming a gun.	A boy is playing on a toy phone.	0.00000
+10470	The player shoots the winning points.	The basketball player is about to score points for his team.	2.80000
+10471	A dog is running along the grass.	A brown dog is running in the grass.	4.20000
+10472	The man set up his camera to take sunset pictures at the beach.	A man is taking pictures of a lake.	2.20000
+10473	The dog could not figure out how to get a stick out the doggy door.	A dog is trying to get through his dog door.	2.75000
+10474	Two Sumo ringers are fighting each other.	A man rides a water toy in the water.	0.00000
+10475	A dog biting on a can.	A dog opens a can of food.	1.75000
+10476	A man is playing flute.	A man is petting a tied up dog.	0.20000
+10477	A blond haired lady in white poses for the camera.	A black and white dog runs with its mouth open.	0.00000
+10478	A woman is sewing on a machine.	A woman is breading some meat.	0.60000
+10479	A cat is trying to touch a dog.	The cat teased the dog by touching his head.	3.25000
+10480	A boy plays baseball.	A man is playing baseball.	3.00000
+10481	Three children and playing and laughing on the floor.	Three children playing on the floor.	3.80000
+10482	A girl dancing on a sandy beach.	A girl is on a sandy beach.	3.60000
+10483	A woman in a black shirt stands in front of bananas at a fruit stand.	a woman wearing black stands in front of a pickup truck.	2.40000
+10484	Two dogs are running in the field.	Two dogs running in a field.	5.00000
+10485	Three men are drying to pull a Subaru out of a ditch along a mountain road.	Two men are waiting for a ride on the side of a dirt road.	1.40000
+10486	A woman is playing an electric guitar.	A man is playing an acoustic guitar.	2.40000
+10487	A woman is resting in a floating raft.	A woman relaxes in an inner tube.	3.80000
+10488	The man is playing the guitar.	The man played his guitar.	3.66700
+10489	A man is playing a flute.	A man is playing a piano.	1.60000
+10490	A person is putting shredded cheese in a pot.	A hamster is eating some seeds.	0.25000
+10491	The person is riding the horse.	A man is riding a horse.	3.80000
+10492	A woman is slicing an onion.	A woman is cutting an onion.	4.20000
+10493	Three children playing on a floor with toys.	Three children sitting in floor playing with several toys.	4.20000
+10494	The man added vegetables to the broth in the pot.	A man is adding sliced vegetables to a cooking bowl with water.	3.40000
+10495	A tiger club is playing with a ball.	A person is chopping shrimp with a knife.	0.00000
+10496	A small boy is playing with a dog.	A baby is playing with a dog.	3.75000
+10497	A animal is eating.	The animal is hopping.	0.40000
+10498	A man plays a trumpet.	A man is playing a musical instrument.	3.40000
+10499	A man is singing.	A man is dancing.	0.50000
+10500	A black person in black and red is sleeping on a bench with an open black umbrella.	A man sitting up taking a nap on a park bench with an open umbrella protecting him from the sun.	3.60000
+10501	A woman is slicing some tomatoes.	A woman is chopping a potato.	1.40000
+10502	A man is eating a food.	A man is eating a piece of bread.	3.40000
+10503	A man and woman is riding in a car.	A woman is frying shrimp.	0.40000
+10504	A woman serving volleyballs over a net.	One woman hands volleyballs to another woman who serves them.	2.75000
+10505	A woman is water skiing.	A woman is slicing fish.	0.40000
+10506	A man is riding a bicycle.	A monkey is riding a bike.	2.00000
+10507	A man is slicing a bun.	A man is slicing an onion.	2.40000
+10508	three little boys cover themselves with bubbles.	Three children standing by a pool are covered in foam bubbles.	4.20000
+10509	A person is slicing onions.	Someone is slicing an onion.	4.60000
+10510	The man ran and jumped against the wall.	A man jumps into a wall.	3.40000
+10511	Two dogs in a yard.	Two dogs in a stream.	2.00000
+10512	A man is talking with other women on the beach.	A man is walking down the street.	0.00000
+10513	A little boy is playing a guitar.	A boy is playing guitar.	4.60000
+10514	A woman cuts up broccoli.	A woman is cutting broccoli.	5.00000
+10515	The girl is tiding up her bed.	A woman is making a bed.	2.50000
+10516	The two men did a funny skit with a boxer in front of a crowd of people.	Boys are dancing in front of people.	1.50000
+10517	A group of people are walking down the sidewalk of a big city.	A group of people are riding in the back of a truck.	1.00000
+10518	Two dogs on the beach.	A dog walks on the beach.	2.40000
+10519	People making a structure out of cards.	Two people are together and one is using a piece of clothing in a different way than intended.	0.20000
+10520	A man is demonstrating how to work with clay while at least two people observe.	At least one of the three women is talking to the others.	0.60000
+10521	The brown dog is laying down on a blue sheet.	A brown dog and two black dogs in an overgrown grassy field.	0.80000
+10522	The man in the backpack looks to his left.	An adult male wearing a backpack walks and looks to the left.	3.80000
+10523	A girl is styling her hair.	A girl is filing her nails.	1.25000
+10524	A man is peeling a potato.	A man peeled a potatoe.	3.80000
+10525	A brown and white dog is walking up snowy steps.	A black and white dog frolics in the snow.	2.60000
+10526	A man is jumping into water.	A man is cutting paper.	0.80000
+10527	A woman and man are riding in a car.	A woman driving a car is talking to the man seated beside her.	3.40000
+10528	The puppy played with a blue tennis ball.	A puppy is playing with a tennis ball.	4.00000
+10529	A girl jumps on a car.	A girl is jumping onto a car.	4.80000
+10530	A man and dog on a rocky seashore.	Man and dog standing on rocks next to water	4.80000
+10531	The man is eating.	A man is eating food.	4.60000
+10532	Two dogs are running through the grass near a house and trees.	Two dogs are running through a green yard	4.20000
+10533	A woman sits alone against a brick wall	A woman is walking with a red bag.	1.20000
+10534	A cat rapidly swats a kid in the head.	A cat and a boy play together.	2.60000
+10535	A man is on a rooftop	A man is holding a microphone in a room.	0.80000
+10536	Batman and Robin fly a helicopter over water.	A helicopter flies over water.	2.60000
+10537	A man is cutting bread.	A man is doing tricks with a soccer ball.	1.00000
+10538	A clown performs for brother and sister as the rest of the party watches.	A blond-haired child performing on the trumpet in front of a house while his younger brother watches.	1.20000
+10539	A small white and brown dog is jumping over a horizontal pole.	a brown and white dog jumping over a red and yellow pole	3.00000
+10540	A man is cleaning the windows.	A man is driving a car.	0.40000
+10541	A woman is riding a horse on a beach.	A man is carrying another man on his back.	0.40000
+10542	A black dog is jumping out of water.	A black dog is shaking off water.	3.00000
+10543	The # 2 greyhound dog is running around a track.	a muzzled greyhound dog is running around a track	4.00000
+10544	A black dog running through water.	A black dog is running through some water.	4.80000
+10545	A young girl running on the beach.	A little girl running at on the shore of a beach.	4.20000
+10546	A tiger is walking around his cage.	A tiger walks around aimlessly.	3.00000
+10547	A girl is jumping.	A boy is rock climbing.	0.60000
+10548	A woman beats two eggs in a bowl.	A person is mixing ingredients in a bowl.	3.00000
+10549	Someone is cracking an egg open.	A man is breaking an egg.	3.00000
+10550	A black dog lays in the sand.	Kids play in the water	0.00000
+10551	The man is playing the keyboards.	A man is playing guitar.	2.20000
+10552	Two dogs play in the grass.	Two dogs playing in the snow.	2.80000
+10553	A black dog wearing an orange collar is entangled with fishing wire.	The black dog wearing a red collar shakes water off.	1.80000
+10554	A black dog is walking on the grass with a stick in it's mouth.	The black dog is running on the grass with a toy in it's mouth.	3.20000
+10555	A woman shoots a shotgun.	The woman is shooting a rifle.	2.80000
+10556	a boy plays with a noodle by the pool.	A boy plays with a foam noodle toy by a pool.	4.60000
+10557	A cat is drinking some water.	A truck is going down a hill.	0.00000
+10558	A softball player swinging at a pitch.	A baseball player hitting the ball	2.80000
+10559	A man is playing the piano.	A woman is playing the violin.	1.00000
+10560	A man played the piano.	A man plays a piano.	4.00000
+10561	The young man is skateboarding at a skate park.	a boy in a blue T shirt is airborne on a skateboard in a skate park.	3.80000
+10562	An owl has its wings up and widespread during the day.	The bird has its wings spread as it flies.	2.40000
+10563	A chimpanzee is hurting a woman.	A man is driving a car.	0.00000
+10564	A man plays the keyboard with his nose.	The man is playing the piano with his nose.	4.40000
+10565	A man and woman are driving down the street in a jeep.	A man and woman are driving down the road in an open air vehicle.	4.00000
+10566	A woman is smoking.	A woman is making some food.	0.80000
+10567	A woman is swimming.	A man is spitting.	0.00000
+10568	A man is playing a guitar.	A man is eating pasta.	0.53300
+10569	A deer jumps a fence.	A deer is jumping over a fence.	5.00000
+10570	The panda bear lay on the logs.	A panda is lying down.	3.60000
+10571	A person peels shrimp.	The lady peeled the shrimp.	3.50000
+10572	A man is riding a horse.	A man is playing a keyboard.	0.20000
+10573	A man chops down a tree with an axe.	A man cut a tree with an axe.	4.75000
+10574	Two dogs playing in snow.	Two dogs play in the snow.	5.00000
+10575	A black dog is running in the grass.	A black and a brown dog running in the grass.	3.20000
+10576	Two women mix something in a food processor.	Two women make something in a blender.	4.00000
+10577	A boy is playing a guitar.	A kid is playing a guitar.	3.60000
+10578	A black and white dog is jumping over a hurdle.	A white dog running over a bridge.	2.00000
+10579	The woman picked up the kangaroo.	A woman is carrying a kangaroo.	3.50000
+10580	The woman is seasoning the oil.	A woman is pouring ingredients in a bowl.	1.40000
+10581	Two men are helping a boy.	Two men are with a young child.	3.60000
+10582	A man rides a horse.	A woman rubs a baby's leg.	0.00000
+10583	A woman is riding on a horse.	A woman is picking tomatoes.	0.50000
+10584	A man is mowing grass.	A guy is mowing the lawn.	4.80000
+10585	A woman with a knife is slicing a pepper.	A women slicing green pepper.	4.00000
+10586	Fish are swimming.	A fish is swimming.	4.13300
+10587	Two women are on a couch.	Two women are hugging on a couch.	3.20000
+10588	Two dogs playing in the snow.	Two kids playing with a dog.	1.20000
+10589	A dog is looking around	A dog is watching a store counter.	1.60000
+10590	A flock of birds hovered over the sandy beach.	Birds are flying at a beach.	3.80000
+10591	A dog leaps off a dock and into the water.	The black dog leaps off the dock and into the water.	4.00000
+10592	A boy is at school taking a test.	The boy is taking a test at school.	5.00000
+10593	Girl stands in subway waiting on something.	A girl stands in a dimly lit area.	2.00000
+10594	A woman is putting on sun glasses.	A woman puts on sunglasses.	5.00000
+10595	A man and a woman are riding bikes on a street.	A man and woman are riding bicycles across a junction in the city.	3.60000
+10596	A dog jumps in midair to catch a Frisbee.	The brown dog jumps for a pink Frisbee.	4.00000
+10597	A man is running on a street.	A man plays the guitar.	0.80000
+10598	Two people ride their bikes down a dirt road.	Two people riding their bikes on a hill.	3.40000
+10599	A dog jumps over a chain.	A dog leaping over a chain.	5.00000
+10600	A woman is sitting up asleep with her head resting on her hand.	A man who is resting his head on his hand.	2.20000
+10601	A man chases a dog trying to pass the barrier to enter a play area.	A man follows his black and white dog as it takes on an obstacle course.	2.20000
+10602	A woman and a dog standing in the grass.	A man carries a sign while standing in the rain.	0.00000
+10603	A brown and black dog is jumping to catch a red ball.	A brown and black dog jumps for a red ball.	5.00000
+10604	A skunk is looking here and there.	A skunk looks at the camera.	2.40000
+10605	Man in red shorts and white shirt kicking a soccer ball.	A black dog stands in the surf holding a red rubber ball.	0.00000
+10606	A kid plays with a toy phone.	A little boy plays with a toy phone.	3.50000
+10607	A man is slicing a potato.	A woman is peeling a potato.	2.33300
+10608	A rabbit is playing with a toy rabbit.	A bunny is playing with a stuffed bunny.	4.25000
+10609	A man is playing the guitar.	A man is playing the flute.	2.20000
+10610	A man is slicing an onion.	A man slices an onion.	5.00000
+10611	The man is hiking in the woods.	A man is tracking in the wood.	3.00000
+10612	A rooster pecks at a dead mouse.	A chicken is pecking at a dead mouse.	4.00000
+10613	Two dogs are playing on the beach together.	Two black dogs are playing in a grass.	3.00000
+10614	A man riding his bike on the beach by the ocean.	A man walking his cow down the side of the road.	0.80000
+10615	A man is pouring oil into a pan.	A man is pouring oil into a skillet.	4.20000
+10616	A group of kids are having a jumping contest.	A group of kids are having a sleepover.	1.20000
+10617	A woman is cooking eggs.	A woman is cooking something.	3.00000
+10618	A cow is eating grass.	A dog is pulling a girl down a hill.	0.00000
+10619	Someone is mixing ingrediants.	Someone is sewing things.	0.25000
+10620	A guy is playing hackysack	A man is playing a key-board.	1.00000
+10621	A woman and a man embrace while watching a horror movie.	A man and a woman watch a movie together.	2.80000
+10622	A woman is tapping her fingers on a table.	A woman is tapping her fingers.	4.00000
+10623	A man is pressing microwave buttons.	A man turns on the microwave.	2.75000
+10624	A yellow dog is playing in a grassy area near flowers.	A girl is playing on a swing.	0.40000
+10625	Several people are sitting around a fire at night.	A group of people are standing and sitting around on the ground at night.	2.60000
+10626	Two dogs playing in snow.	Two dogs playing in grass.	2.40000
+10627	The woman is pencilling on eye shadow.	The girl is using an eye pencil on her eyelid.	2.80000
+10628	A man is walking outside.	A man is dancing.	0.75000
+10629	A woman is in the rain.	A car is driving along the road.	0.00000
+10630	A man is stirring ingredients in a bowl.	A man is beating two eggs in a bowl with a fork.	2.75000
+10631	A woman in a black and orange jacket throws a stick for a brown and black dog to fetch.	The man in a blue jacket is standing in a crowd.	0.00000
+10632	A little girl holds a wooden stick.	A little girl swimming in a pool.	2.20000
+10633	A woman is cutting a cucumber.	A man is playing a guitar.	0.00000
+10634	A monkey pushes another monkey.	The monkey pushed the other monkey.	4.80000
+10635	A toddler walks down a hallway.	A little girl is walking down a hallway.	3.60000
+10636	A dog bounds across the brown grass.	Two dogs bound across the grass.	2.60000
+10637	A dog running across the snow with a snowball in it's mouth.	A tan dog is running through the grass with a yellow toy in its mouth.	2.40000
+10638	A group of people are sweeping water out of a house.	People are sweeping water out of a house.	5.00000
+10639	Girls are holding hands in blue clothes	The young people are wearing jeans with their red and green shirts.	1.80000
+10640	The man is driving a white car.	A man is giving an interview.	0.40000
+10641	The girl is playing along with the images on the big screen.	Three girls holding umbrellas with their backs to the camera.	0.40000
+10642	The girl flew her kite while she ran up a hill.	A girl loses her kite.	2.25000
+10643	A man in red and black is hitting a soccer ball with his head.	A man in a red striped soccer shirt heads a ball.	3.60000
+10644	The lady cracked two raw eggs.	The woman is cracking eggs into a bowl.	3.20000
+10645	Kittens are eating food.	Kittens are eating from dishes.	4.00000
+10646	A group of seven people are rafting in the rapids in a green boat.	A group of people are standing and sitting around on the ground at night.	0.00000
+10647	A climber is standing on the rock face next to the pink rope.	The children are running in the snow with fences in the background.	0.00000
+10648	The doctor was helping the patient.	Doctors are trying to revive a man.	2.80000
+10649	A girl is playing a guitar.	A man is playing a guitar.	2.80000
+10650	A person is surfing a large wave.	A person is surfing.	3.60000
+10651	A man on a bike nest to a river.	A man on a bike does a very high jump.	1.20000
+10652	A person is chopping an herb.	A man is finely chopping a green substance.	3.00000
+10653	A woman is doing a joker make up on a man.	The girl applied face makeup to a man.	1.80000
+10654	A child in a red shirt is using a black wake board to splash over a beach wave.	A man in a rowboat is rowing across blue water.	1.00000
+10655	A person is throwing a cat on to the ceiling.	A person throws a cat on the ceiling.	5.00000
+10656	A dog has a sweater on.	A man in a suit jacket is sitting on a red couch with a cat.	0.60000
+10657	A baby tiger is playing with a ball.	A baby is playing with a doll.	1.60000
+10658	A boy is riding a horse.	A monkey is riding a bus.	0.40000
+10659	A brown dog about to catch a green Frisbee.	A brown dog waits for the Frisbee to come down before catching it.	3.80000
+10660	A man is slicing open a fish.	A man is cutting up a fish.	4.40000
+10661	A dog knocks a boy into the water twice.	A dog pushes a toddler into a rain puddle.	2.69200
+10662	A large gray dog is playing in the deep snow.	Four dogs playing in the snow.	2.60000
+10663	A man is playing a guitar.	A man is stabbing a target.	1.20000
+10664	Two hikers stand at the top of a snowy mountain.	Two mountain climbers stand on the top of a mountain looking around.	3.40000
+10665	A couple are walking.	Some men are sawing.	0.00000
+10666	A child is waking up.	A girl is waking up.	3.20000
+10667	Many people are in the bicycle racing, including one man in a three-wheeled bike.	A man riding on a three-wheeled wheelchair.	2.60000
+10668	A woman is grating carrots.	A woman is coating a pork chop.	1.60000
+10669	A man is singing while playing the guitar.	A man is stuffing himself full with food.	0.50000
+10670	A woman is pouring egg into a frying pan.	A man is petting two dogs.	0.16700
+10671	A man is playing a flute.	A woman is applying eye liner.	0.00000
+10672	The shirtless man sat in a chair.	A shirtless man is sitting on a chair.	3.80000
+10673	A young boy jumping in the air at the beach.	A boy jumping in the air on the beach.	4.80000
+10674	Someone is slicing a tomato.	Someone is slicing fruit.	3.20000
+10675	A cat stares into the camera.	A cat addresses the camera.	3.00000
+10676	A woman is adding ingredients to a bowl.	A woman is cracking three eggs into a bowl.	1.75000
+10677	A woman is playing a flute on stage.	The woman is playing the flute.	3.60000
+10678	A woman is writing a letter.	A woman is sitting at a desk.	1.66700
+10679	A man is carrying another man.	A man sprays another man with water from a hose.	0.80000
+10680	Two women give a demonstration at a Renaissance Fair.	Two people are doing a demonstration at a renaissance fair.	4.20000
+10681	Three dogs standing in snow next to a blue fence.	Three dogs play in the shallows next to a rocky shore.	2.20000
+10682	A girl is dragged downhill by a dog.	A dog is pulling a child down a hill.	3.80000
+10683	a skateboard performs a trick off a quarter pipe.	A skateboarder attempts to do a trick over a homemade ramp.	3.20000
+10684	One man is breaking cement on another man's chest.	A man breaks cinder blocks on another man.	3.75000
+10685	Some guy sitting on a couch watching television.	A guy is sitting on the couch watching TV	5.00000
+10686	A woman is holding a dancing baby up.	A woman is abusing her child.	1.00000
+10687	The woman is dicing onions.	A woman is cutting an onion.	4.40000
+10688	A cat is rubbing against baby's face.	A cat is rubbing against a baby.	3.80000
+10689	A woman is mixing eggs in the bowl.	A man is doing push ups.	0.00000
+10690	A girl dances in the rain.	A woman is dancing in the rain.	3.00000
+10691	A man is slicing something.	A man is slicing a bun.	3.00000
+10692	Several swimmers jump into the water.	Swimmers are racing in a lake.	1.75000
+10693	A baby panda goes down a slide.	A panda slides down a slide.	4.40000
+10694	A woman is grating onion.	A woman grates onions.	5.00000
+10695	A man is playing the cello.	A man seated is playing the cello.	4.25000
+10696	A man is riding a white horse on an enclosed ground.	Someone is riding a horse.	2.60000
+10697	A dog standing in the water.	A girl playing on a parachute.	0.40000
+10698	A woman is applying cosmetics to her face.	A woman is putting on makeup.	4.60000
+10699	A young boy is punching a yellow ball.	A small dog jumps over a yellow beam.	0.40000
+10700	A group of people stand in the sand looking out at the water.	A group of people are standing on the beach in front of some boats.	3.20000
+10701	A little girl is riding a toy tricycle on springs.	A little girl is playing on a toy outdoors.	2.80000
+10702	The child is the woman's kid.	There is a boy and a girl.	0.80000
+10703	The young boy jumps barefoot outside in the front yard.	The teen rode his bike around the people walking in the courtyard.	0.40000
+10704	the soccer player kicked the ball side to side between his legs.	A person is kicking a soccer ball back and forth between his feet.	3.40000
+10705	A cat is playing.	A woman is playing flute.	0.25000
+10706	A man is doing trick with play cards.	A man is performing a card trick.	5.00000
+10707	A man in a grey suit kneels in front of a woman in a white dress.	A woman in red with a beer followed by a man in white.	0.00000
+10708	A man is running across a high wire.	A man is running on rope.	3.00000
+10709	A man uses a chainsaw to sculpt a phallic ice sculpture.	A man is using a chainsaw to carve a wooden sculpture.	2.60000
+10710	A woman is slicing octopus.	A man is playing the guitar.	0.00000
+10711	A man is playing an electronic keyboard.	A band is playing instruments.	1.25000
+10712	A woman is digging in the sand.	A man is buried in the sand.	1.40000
+10713	A man is slicing cucumber with a knife.	A man is cooking a tortilla in a skillet.	0.75000
+10714	Some men are skating on the road.	Two boys are skate boarding.	2.60000
+10715	A chicken is pecking at a dead mouse.	A rooster pecks at a dead mouse.	3.60000
+10716	A person is boiling noodles.	A woman is boiling noodles in water.	4.00000
+10717	A woman splits garlic cloves.	A woman is breaking a head of garlic into cloves.	4.60000
+10718	The lady looks sad because no one is buying her wares.	The lady is selling things.	2.00000
+10719	A female applies something to he hair with her hands.	A cat is eating a slice of watermelon.	0.00000
+10720	A man walks down a path.	A man walks across a tight rope.	0.80000
+10721	A man rides off on a motorcycle.	A man is riding on a motorcycle.	4.40000
+10722	A person is peeling a potato.	A cat is licking a small bottle.	0.00000
+10723	A wet, blond dog carries a stick on the shore.	The wet, brown dog has a stick in his mouth and is running in the sand next to the water.	3.60000
+10724	A man is playing the guitar and singing.	A man is playing the guitar.	2.91700
+10725	Two teams are playing soccer.	Different sets of teams are playing football on a field.	2.50000
+10726	A young man is playing the piano.	A woman is peeling a prawn.	0.00000
+10727	A car is moving through a road.	A car is driving down the road.	4.00000
+10728	A woman is slicing butter.	A woman slices tofu.	1.80000
+10729	Someone is boiling okra in a pot.	Someone is cooking okra in a pan.	4.40000
+10730	The boy played his trumpet.	A boy is playing the trumpet.	4.40000
+10731	Brown dog running on grass.	The dog is running on grass.	4.00000
+10732	Runners race around a track.	Runners compete in a race.	3.20000
+10733	A man is playing a piano.	A man is playing a flute.	2.00000
+10734	A girl with a black purse sitting on a wooden bench.	A young woman with a black purse sits on a wooden bench.	4.60000
+10735	A dog is eating water melon.	A dog is eating a piece of watermelon.	4.25000
+10736	The man is slicing a fish open.	A man is slicing a potato.	2.20000
+10737	A girl is applying makeup on her face.	A woman is putting on makeup.	2.75000
+10738	A man is lifting weights.	A man is lifting a barbell.	4.20000
+10739	A Golden Retriever jumping off a wood porch.	A golden retriever is jumping off a wooden porch	5.00000
+10740	A person is slicing an onion.	A person cuts ginger.	1.40000
+10741	A woman is slicing mango.	A man is putting cheese on a tortilla.	0.60000
+10742	A large white and grey dog runs through a yellow tunnel in an obstacle course.	A white and black dog is running out of a yellow and orange tube.	3.60000
+10743	Two puppies playing with a plastic bag.	Two dogs playing in a yard.	3.00000
+10744	A man puts seasoning in a bowl of water.	The man added seasoning to water in a bowl.	5.00000
+10745	A brown dog carrying a stick in its mouth.	A dog swimming with a stick in its mouth.	2.60000
+10746	The lady cracked an egg into a bowl.	The man is cracking eggs into a bowl.	2.60000
+10747	A man is holding a frog.	A man is emptying a plastic container.	0.60000
+10748	a boy jumps into the blue pool water.	The young boy is jumping into the pool on his belly.	3.40000
+10749	A man is slicing a cucumber.	A man is cutting cucumbers.	4.50000
+10750	A woman is in the bathroom.	The woman is in a bathroom.	4.60000
+10751	A dog running through snow.	A dog runs in the snow.	5.00000
+10752	A dog leaping over a hurdle.	A dog leaps over the hurdle.	4.80000
+10753	A woman in a pink bikini is laying on a deck lounge chair that is covered with a pink towel.	A woman in a white shirt and black skirt on a tennis court.	1.40000
+10754	A man is playing the drums.	A man plays the drum.	5.00000
+10755	A man is lifting a car.	A man is climbing a wall.	1.40000
+10756	Some men are playing guitars.	Three men are playing guitars and singing together.	3.20000
+10757	A man playing the violin in the rain.	A man playing the guitar in the rain.	3.20000
+10758	The boy is playing the piano.	A boy plays a piano.	5.00000
+10759	A person is adding oil in the pan.	The cook pouring oil into the pan.	4.25000
+10760	A person folds a tortilla.	A man folds a tortilla.	3.50000
+10761	Two people sit on a dock near the water.	Two people sit on the end of a dock in the middle of still water.	3.80000
+10762	Three dogs pulling a man on a bicycle through the snow.	The dogs are pulling a man on a type of bike, through the snow.	5.00000
+10763	A person is skijoring with a dog in the mountains.	A brown dog is playing with a ball in the water.	0.00000
+10764	Meat is dropped into a pan.	A woman is putting meat in a pan.	3.25000
+10765	The puppy is outdoor.	A man in printed board shorts is doing a yoga pose on the beach.	0.00000
+10766	A soccer player is kicking the ball.	The soccer player gave the ball a high kick.	3.80000
+10767	Medics transport a patient on a stretcher.	A doctor rushes a patient on a stretcher.	3.40000
+10768	A woman is chopping an onion.	A woman is chopping garlic with a knife.	1.80000
+10769	A woman is doing weight exercises.	A woman is doing her hair.	0.50000
+10770	A man is playing a guitar.	A man is playing a guitar and singing.	3.20000
+10771	Someone is sitring noodles in water.	A woman is boiling noodles in water.	3.20000
+10772	A musician is smearing jam on his white guitar at a concert.	Trombonist playing the her instrument in a band for a parade.	0.40000
+10773	A woman is filing her nails.	A man is peeling a carrot.	0.00000
+10774	A man and a woman laughing.	A man and a woman kiss.	1.20000
+10775	A man is playing guitar.	A boy is playing a guitar.	3.20000
+10776	A woman is riding on a horse.	A man is turning over tables in anger.	0.00000
+10777	A girl is riding a horse.	A girl is riding a bicycle.	1.91700
+10778	A black dog with a blue collar is running in the snow.	A black dog with a red collar plays in the snow.	3.20000
+10779	A man calling for a taxi at the airport on a sunny day.	A man is outside on a July day.	1.40000
+10780	A man is playing a guitar.	A man is singing while playing the guitar.	3.60000
+10781	a group of teenagers are dancing on a wooden floor.	A group of people in dark colored clothing are line dancing on a wooden floor.	3.40000
+10782	Men are fighting after a basketball game.	The men are playing a game of basketball.	2.20000
+10783	A man is throwing a penny into a fountain.	A little boy is throwing a man in water.	0.60000
+10784	A person is slicing a tomato.	A person is slicing some meat.	1.75000
+10785	A young boy riding a bike on a brick road	A person does tricks on a bike on a ramp surrounded by trees.	2.20000
+10786	A child is walking down the street as a jeep pulls up.	A woman is walking along a road and a man in a motorcar pulls up beside her.	1.40000
+10787	A girl jumping rope on a sidewalk near a parking garage.	A girl jumping rope on a sidewalk with a parking garage to the left.	4.40000
+10788	A Woman is eating.	A animal is eating.	1.60000
+10789	The man is mixing whipping cream.	The man is holding a skunk.	0.00000
+10790	A man is opening a box and taking out paper.	A woman is peeling a potato.	0.00000
+10791	The dog returns the play toy to its master.	Three dogs race in the snow together.	1.00000
+10792	A girl is coming up on a car.	A girl jumps on top of a car.	2.60000
+10793	Two zebras play in an open field.	Two zebras are playing in a field.	4.20000
+10794	Someone is playing a piano.	A man is playing a guitar.	1.20000
+10795	A man dries his hands.	A woman fixes her hair.	0.25000
+10796	Someone pours olive oil into a bowl of tomato wedges.	The man poured oil on the tomato slices.	3.75000
+10797	A woman is dancing.	A woman plays the clarinet.	0.80000
+10798	People ride and paddle a raft.	Four people are floating on a raft.	2.25000
+10799	A boy and a girl is dancing in the rain.	A man and woman is dancing in the rain.	2.60000
+10800	A woman is playing an electric guitar.	A woman is playing a guitar.	3.60000
+10801	A toy train is striking a toy car.	A toy train strikes a toy car.	5.00000
+10802	Two dogs run through the snow, one with a tennis ball.	The boy is doing a stunt, through the air, on his bicycle.	0.00000
+10803	A black and brown dog is chewing on a large stick.	A black and white dog playing in the sand.	1.80000
+10804	A girl is eating a cupcake.	A man is slicing a cucumber.	0.00000
+10805	A woman is picking a can.	A man is playing a guitar.	0.13300
+10806	A man is kicking pots of water.	A man is picking flowers.	0.40000
+10807	A dog and a red ball in the air.	A dog digs a hole in a yard.	1.00000
+10808	A young boy jumping into a pool that says "no diving".	A boy jumps into a pool while lifeguards watch.	3.20000
+10809	A young men jumps off rocks into a lake.	A young man in red swimming trunks jumped off a large rock into the water.	4.00000
+10810	The man and two young boys jump on a trampoline.	A man and two boys are bouncing on a trampoline.	4.80000
+10811	A man removes a couple of toaster scrambles from a plastic packet.	A man removes food from a bag.	1.75000
+10812	A young woman is putting stickers all over her face.	A woman is applying stickers to her face.	4.80000
+10813	A man is firing a shot gun.	A man shoots a shotgun.	5.00000
+10814	A guy is taking off his sunglasses.	A boy is removing his sunglasses.	3.80000
+10815	A man is shaking a container over a kitchen sink.	A man is emptying a plastic container.	2.20000
+10816	A dog licks up a baby's drool.	A dog licks a baby.	2.20000
+10817	Two men compete in a tire rolling race.	Two people flipped tractor tires in a race.	2.75000
+10818	Many people run in a race on a street.	A puppy running along a street.	1.00000
+10819	A man is mowing grass.	A man is busting concrete.	0.83300
+10820	A seated young woman in a hat is reading at a coffee shop.	a woman enjoying her reading at a coffee shop	4.40000
+10821	A woman placing a baby on a skateboard on the beach.	a woman holds a small baby on a skateboard at the beach	4.60000
+10822	A woman is adding oil on fishes.	A woman is pouring water on fish.	2.25000
+10823	A dog in in a car.	A dog is biting a mop.	1.00000
+10824	A man is getting into a car.	A man is getting into a car in a garage.	3.83300
+10825	A woman is playing the flute.	A woman is slicing some tuna.	0.40000
+10826	The woman is smoking.	The man is walking.	0.20000
+10827	The man in the red shirt is climbing the side of a mountain.	A man is climbing the side of a mountain.	4.20000
+10828	A man and woman with their hands on their chins are standing next to a Christmas tree.	The man with a white beard and blue cap is standing in the doorway of a workshop.	0.40000
+10829	The man is pushing the van.	The woman is singing.	0.00000
+10830	A man is petting a tied up dog.	A man is showing his dog to the camera.	1.00000
+10831	A man is swimming.	A woman is slicing meat.	0.00000
+10832	A woman is washing her hands.	A woman is straightening her hair.	0.80000
+10833	A man is hitting a boy with flower vase.	A man is cutting a mat.	0.30000
+10834	A woman is cutting meat into pieces.	A woman is cutting up some meat.	4.80000
+10835	Three men are playing chess.	Two men are playing chess.	2.60000
+10836	Female in a maroon shirt engaged in conversation with another female in a tan blazer.	A girl in a blue dress and another girl in a purple dress, both smiling.	1.20000
+10837	The man played his guitar.	A guy is singing while playing his guitar.	3.00000
+10838	The man drove his little red car around the traffic.	The dog ran in the water at the beach.	0.00000
+10839	A little boy is drinking from a juice packet.	A boy is drinking from a juice packet.	4.80000
+10840	A black dog is running through some water.	A man in a football uniform is running with a football during a game.	0.00000
+10841	Three teenage girls danced in the room.	Some teenage girls are dancing for the camera.	2.40000
+10842	A child in a blue and white team uniform chasing a soccer ball.	A young boy in a blue soccer uniform chasing a ball.	4.00000
+10843	Three men are dancing.	Women are dancing.	1.30000
+10844	A plane is landing.	A animated airplane is landing.	2.80000
+10845	A cat is on a robot.	A man is eating bread.	0.00000
+10846	A woman holds a baby while a man looks at it as another man holding a child watches.	A woman stands with her arms out in a store while another woman holds a camera.	0.40000
+10847	A group of penguins is walking.	A large amount of penguins are heading to the ocean.	2.80000
+10848	A woman thinly slices an onion with a large knife.	A woman is slicing onions with a large knife.	4.20000
+10849	A girl in a black and blue wet suit is surfing.	A woman wearing a black and blue striped suit is surfing on a wave.	4.40000
+10850	A dog is chasing cows.	A white dog is chasing cows.	4.00000
+10851	A kid is playing an instrument.	A young boy is playing a wind instrument.	3.80000
+10852	A man is walking along a path through wilderness.	A man is peeling an onion.	0.75000
+10853	A woman is sitting at a desk.	A woman is riding a donkey.	0.40000
+10854	A brown dog chases a Frisbee	A brown dog squating on grass.	1.60000
+10855	A woman is doing ballet.	A woman is riding on a horse.	1.00000
+10856	A brown dog in running on grass.	A brown dog runs through the grass.	4.80000
+10857	A man is playing a football.	A man is maneuvering a soccer ball with his feet.	2.00000
+10858	The dog is barking at the toy.	A dog is barking at an electronic toy duck.	3.50000
+10859	Three dogs racing on a dirt track	Cars racing on a dirt track	1.40000
+10860	A plane is taking off.	An air plane is taking off.	5.00000
+10861	A young laughing girl and a boy are playing on a big drum.	A baby girl and little boy are standing next to a guitar and a drum.	2.40000
+10862	A man is buttering bread.	A woman is ridint a horse.	0.00000
+10863	A white dog is playing with a ball on the beach.	A black and white dog is playing with a tan dog.	1.60000
+10864	A man is riding a horse.	A woman is washing a freezer.	0.00000
+10865	A man is riding on a horse.	A man is talking on a phone.	1.00000
+10866	A person drops a camera down an escelator.	A man tosses a bag down an escalator.	2.75000
+10867	The group is eating while taking in a breathtaking view.	A group of people take a look at an unusual tree.	2.20000
+10868	A man is enjoying watching three asian children dance.	A man is watching three asian kids dance.	4.60000
+10869	An okapi is eating from a tree.	A moose drinks from a sprinkler.	0.33300
+10870	A woman is playing the guitar.	A man is playing guitar.	2.40000
+10871	Someone is feeding a animal.	Someone is playing a piano.	0.00000
+10872	A man is playing a guitar and singing.	A man is playing a guitar.	3.20000
+10873	The men played follow the leader on the grass.	The rhino grazed on the grass.	1.00000
+10874	A man is playing a guitar.	A man plays the guitar.	5.00000
+10875	A man is lifting heavy weights.	A wallaby is licking a woman's hand.	0.25000
+10876	A man is scaling a fish.	A man pours some cooking oil into a pot.	1.00000
+10877	A dog runs through the grass.	a dog runs across the grass.	4.80000
+10878	A Japanese swordsman jumps into the air.	A woman is getting her dog to jump in the air.	1.00000
+10879	A man is eating.	A woman is rock climbing.	0.00000
+10880	Girl playing in a puddle with her bare feet.	A child is playing with two white and black geese.	0.60000
+10881	A man crouching and holding a camera.	The crouching man is holding a large camera.	4.60000
+10882	A man is kicking oots of water.	A woman is slicing a red pepper.	0.25000
+10883	Brown and black dogs on snow, showing teeth and barking at each other.	A black dog fighting with a brown dog in the snow.	3.40000
+10884	These cooks in the white are busy in the kitchen making dinner for their customers.	The women are preparing dinner in their kitchen.	3.00000
+10885	Children jumping on a trampoline.	A man is sledding on an orange slide.	0.00000
+10886	A train is moving.	A man is doing yoga.	0.00000
+10887	The dog plays in the park.	The dog leaps over the fence in the park.	3.20000
+10888	A brown and white dog with a pink collar is barking at a brown dog with a blue collar in the snow.	The dog with the red collar is bearing it's teeth at the dog with the blue collar.	3.40000
+10889	A black and white dog is running through a cow field.	A large black and white dog runs in the ocean water	2.20000
+10890	A girl runs along a river bank with two black dogs.	A little boy is petting a tiger that is laying down.	0.20000
+10891	Two girls are in pajama pants and appear to be dancing.	Two girls with baseball caps are eating a snack outside.	0.60000
+10892	A gun is being fired.	A potato is being peeled.	0.50000
+10893	A man is talking on a phone.	A man is singing to a woman.	0.25000
+10894	The man lifted barbells.	A man lifts weights.	4.00000
+10895	An airplane moves along a runway.	A plane is landing on a runway.	2.80000
+10896	Three children stand on or near a fence.	The three children are standing on and by a fence.	4.60000
+10897	A woman is frying fish.	A woman is cooking fish.	4.00000
+10898	A man is playing a guitar.	A man tries to read the paper.	0.80000
+10899	The man is shooting an automatic rifle.	A man is shooting a gun.	3.80000
+10900	A man is scalling a sheer rock face with a rope support.	A young man is doing a ski jump with a purple board.	0.40000
+10901	A man is wind sailing in the ocean.	A dog is running through the ocean.	1.40000
+10902	Two dogs running down a beach.	two dogs running on the beach	4.80000
+10903	Two women contestants are walking their dogs in a dog show.	Two women walk there dogs at a dog show.	4.80000
+10904	A man is playing guitar.	Smeone is laying down.	0.00000
+10905	A boy is playing guitar.	A man is playing a guitar.	3.20000
+10906	Two men are playing a game of Scrabble together.	The two women are playing a game.	2.20000
+10907	Two tan and white dogs and one tan dog racing down the beach near the water.	Lady in a pink Tinkerbell jacket stands next to the railing and looks out at the water.	0.20000
+10908	A woman is powdering her face.	The woman is tapping her fingers on the table.	0.80000
+10909	Two women are wrestling.	Two women are wrestling on the floor.	4.00000
+10910	People flip into a swimming pool.	Men are falling into a pool.	2.75000
+10911	A man is erasing a chalk board.	The man is erasing the chalk board.	5.00000
+10912	A man is slicing a tomato.	A man is slicing a bun.	2.00000
+10913	A baby monkey scratches itself.	The monkey scratched his tummy.	3.25000
+10914	A man lays on the ground and aims a rifle.	A man is spreading butter on a tortilla.	0.00000
+10915	Four girls in swimsuits are playing volleyball at the beach.	Four ladies in swimsuits play sand volleyball on the beach.	4.00000
+10916	The black dog is walking through the tall grass.	The black dog is running through the grass.	3.80000
+10917	A man playing the guitar.	A woman is painting her lips.	0.00000
+10918	Three people are meeting for coffee.	Two people make coffee.	2.40000
+10919	Two fishermen try to untangle their large fishing net on the side of the road on a cloudy day.	Several men pull a fishing net up on to the beach.	3.00000
+10920	A man is fishing.	A man is exercising.	0.50000
+10921	A man plays a trumpet.	A man is playing the trumpet.	5.00000
+10922	A man is cutting a potato.	A woman plays an electric guitar.	0.08300
+10923	A man is playing guitar.	A woman is slicing up some pork.	0.00000
+10924	A small white dog climbs over a log.	a small dog steps onto a log.	2.80000
+10925	A boy is running on a beach.	Two boys are playing in the beach.	2.75000
+10926	A boy is upset playing video games.	Someone is playing a gameboy.	1.75000
+10927	A child with his hands on his head.	A little boy stands with his hands on top of his head	4.20000
+10928	The dog walked along the edge of the pool.	A dog is walking along a pool.	4.60000
+10929	A monkey is karate kicking at someone's gloved hand.	A monkey pratices martial arts.	3.50000
+10930	A woman puts a garland over a man's shoulders.	A man pours water over a pilots head.	0.50000
+10931	A man in jeans is playing with a ball while a woman in jeans stands nearby looking away.	A man is tying a red arm band around another mans arm in the street.	0.00000
+10932	A puppy is repeatedly rolling from side to side while on its back.	A dog is rolling from side to side.	3.50000
+10933	A band is performing on a stage.	A band is playing onstage.	5.00000
+10934	A man is opening a box using a knife.	A man is playing a guitar.	0.00000
+10935	A woman is slicing an onion.	A man is shown slicing a carrot with a knife.	1.20000
+10936	A girl does a back bend on the beach.	A girl doing a back bend at the beach.	4.80000
+10937	A man is standing on top of a rock or mountain watching the sun set.	A man standing in the mountains watching a sunset.	4.80000
+10938	A man is riding a motorcycle.	A man is riding a motorcycle through a town.	3.50000
+10939	A woman is putting on makeup.	A band is singing.	0.00000
+10940	A woman is stirring two eggs in a glass bowl.	A young girl is singing on a stage.	0.00000
+10941	Boy lies on stomach in grass.	Small boy lying on his stomach on the grass.	4.40000
+10942	The young woman is flirting with the young boy.	The girl is young and cheery.	1.40000
+10943	A woman is drinking vodka.	A woman is exercising.	0.40000
+10944	A woman is playing the flute.	A man is playing the guitar.	1.00000
+10945	A man is levitating.	A man is talking.	0.80000
+10946	A baseball player throws the ball.	The basketball player holds the ball.	1.60000
+10947	A rat like creature is smelling around.	An animal is walking on the ground.	2.00000
+10948	A man is running.	A man is dancing.	1.25000
+10949	Four black dogs run across the grass.	A dog runs across the grassy field.	2.00000
+10950	A person is frying a meat in the pan.	A man is cutting a vegetable.	0.60000
+10951	Someoen is cooking onions.	A man is swinging nunchucks.	0.00000
+10952	Two dogs playing in the snow.	Two black dogs in the snow.	4.00000
+10953	two young girls hug each other in the grass.	two young girls holding each other on the grassy ground	4.60000
+10954	A little blonde girl is standing in front of a water fountain.	A young girl standing in front of a fountain	4.00000
+10955	Meat is being put into a skillet.	A woman is putting a baby into a trash can.	0.40000
+10956	A group of girls are exiting a taxi.	A video clip of Rihanna leaving a taxi.	2.00000
+10957	A monkey is playing drums.	Someone in a gorilla costume is playing a set of drums.	2.50000
+10958	A black dog retrieves in the snow.	A skateboarder jumping in the street.	0.00000
+10959	The girls danced on the stage.	A girl is putting on makeup.	0.33300
+10960	A person is mixing a pot of rice.	A person is peeling a potato.	0.77800
+10961	An elderly woman is pouring oil into a frying pan.	A tied man is putting into water.	0.00000
+10962	A woman is cutting a leak.	A woman is slicing a leek.	4.00000
+10963	a young man wearing a white t-shirt and green and black shorts standing on a stump.	A man wearing a white shirt and red and black shorts is running on the sidewalk.	1.80000
+10964	A man is shooting a gun.	A man is slicing a bun.	0.80000
+10965	A man puts some cheese on a pizza.	The man sprinkled cheese on the pizza.	5.00000
+10966	Three people racing on ice skates.	Three ice skaters round a corner.	3.20000
+10967	A dog is barking at a toy.	The little dog barked at the electronic toy.	3.75000
+10968	A woman peels garlic with her hands.	The woman is slicing herbs.	1.00000
+10969	A person plays a keyboard.	Someone is playing a keyboard.	5.00000
+10970	A cat is playing keyboards.	A cat is playing a piano.	3.00000
+10971	A woman is cooking shrimp.	A woman is dancing.	0.80000
+10972	A little girl and a little boy hold hands on a shiny slide.	A little girl in a paisley dress runs across a sandy playground.	0.40000
+10973	A boy jumps into a not-so-crowded public pool.	A man jumps while on a snowboard.	0.80000
+10974	A man sharpens a pencil using a knife.	A woman is dancing in the rain.	0.00000
+10975	A man breaks cinder blocks on another man.	A woman breaks an egg into a pan.	0.80000
+10976	A man is cleaning a fish on a kitchen counter.	A man is playing a flute.	0.80000
+10977	The people threw the dummy over the cliff edge.	Some people are throwing a dummy off a cliff.	4.50000
+10978	The woman is putting paste into a dish.	A woman is pulling some kind of sticky goo out of a bowl.	1.50000
+10979	Two men in a running contest.	Dogs in a race.	1.00000
+10980	Five men jump into a swimming pool.	A group of swimmers fall into a pool.	2.80000
+10981	Two robots kiss.	Two robots are kissing.	5.00000
+10982	The man is slicing the tape from the box.	A man is cutting open a box.	4.33300
+10983	Someone is cutting a circle out of a pink sheet of paper.	Someone is pouring tomato sauce into a pot of meat.	0.20000
+10984	A dog is pawing at a fly in the carpet before it.	The dog played with a bug on the carpet.	3.60000
+10985	A person is peeling an onion.	A person is peeling an eggplant.	2.00000
+10986	A man is riding a motorcycle.	A woman is riding a horse.	0.75000
+10987	A dog with big ears is holding a small stick in it's mouth.	A puppy with big ears chewing on a stick.	3.80000
+10988	A snowboarder rides a snowboard down a railing beside a flight of steps.	A boy is grinding a skateboard down a concrete wall.	0.80000
+10989	Someone is shredding cabbage leaves with a knife.	Someone is chopping some cabbage leaves.	4.50000
+10990	A woman is collecting tap water in a mug.	A boy is filling a pitcher with water.	1.40000
+10991	A girl is playing guitar.	A girl is playing a piano.	2.00000
+10992	A monkey is walking through the water.	A guy is playing a trumpet.	0.00000
+10993	The cats are playing with each other.	Two cats are fighting each other.	2.60000
+10994	A dog wearing a green sweater and a backpack walking on snow.	A small dog wearing a green sweater and a backpack walks through snow.	4.40000
+10995	A woman is frying something.	A woman is riding a horse.	0.60000
+10996	A black dog is chasing two birds on the shore of the ocean.	A dog is running along the beach beside the ocean.	2.60000
+10997	A woman is slicing ginger.	A person is holding two baby lorises.	0.00000
+10998	A black and white dog runs with its mouth open.	A black and white dog swims in blue water.	2.20000
+10999	A woman is slicing a lemon.	A woman, in a kitchen, peels a lemon.	2.66700
+11000	A man is eating a pizza.	A man is eating a food.	3.60000
+11001	A woman rides a horse.	A woman is riding a horse.	5.00000
+11002	The bird is taking a bath under the faucet.	A bird is bathing in a sink.	4.42900
+11003	A woman is slicing fruit.	Two women are slicing some lemons.	2.00000
+11004	A man is playing keyboard.	A man is playing guitar.	1.80000
+11005	A person is cutting a capsicum into pieces.	A person is slicing a garlic into pieces.	1.60000
+11006	A young boy has a red fishing pole.	A young boy stands over a bridge with a fishing pole.	3.00000
+11007	A boy is playing a key-board.	A boy is sitting in a room playing a piano by lamp light.	3.25000
+11008	A brown dog is in the middle of a line of dogs chasing a dirty tennis ball over dirt.	There are two white dogs and one brown dog chasing a ball.	2.80000
+11009	a dog jumps into the water.	A dog is jumping into the water.	5.00000
+11010	A person is slicing onions.	A person is peeling an onion.	2.60000
+11011	Two people walking along the shore at sunset.	Two people walking along the beach at sunset towarn a group of people.	3.00000
+11012	An orangutan is riding a bus.	A monkey is riding on a bus.	3.60000
+11013	A man in a blue cap is sitting on a stool under a tree.	A dog standing on a beach with a ball nearby.	0.00000
+11014	A pole is behind a person that is playing peekaboo with a child.	There is a child with a ball	0.20000
+11015	A lady with a yellow outfit is in the air above the bed in a yellow room.	A dog with a red leash still attached chases over the grass toward a tennis ball.	0.00000
+11016	The man took off his sunglasses while talking.	A man wearing a hard hat removes his glasses as he speaks.	3.40000
+11017	A yellow vested person is doing road work.	A person is doing very well on their skateboard.	0.20000
+11018	A person filming the outdoors.	There is a couple outdoors.	1.60000
+11019	A boy skateboards down the metal handrail at night.	A brown dog runs on the sand, holding a stick.	0.00000
+11020	A man is playing a guitar.	A girl is playing a guitar.	2.80000
+11021	A man is seasoning some carrots.	A woman is slicing garlic.	0.80000
+11022	A boy is crawling into a dog house.	A cat is playing on the floor.	0.00000
+11023	Three dogs playing in the snow.	Three dogs run in the snow.	4.20000
+11024	A woman is carrying a boy.	A woman is carrying her baby.	2.33300
+11025	A dog is jumping into a swimming pool after a duck.	A dog jumping into a swimming pool.	3.40000
+11026	A woman sings into a microphone by a guy playing a guitar.	A woman sings into a microphone with a guitar player in the background.	4.40000
+11027	A boy takes off his sunglasses.	A boy is screaming.	0.50000
+11028	A girl is playing a violin.	A girl is playing a flute.	2.60000
+11029	Two men on the side of a barge	A man is lying the grass with long hair and beard.	0.00000
+11030	A group of people are in the water.	A group of people ride in a race	0.60000
+11031	A badger is burrowing a hole.	A badger is digging the earth.	4.60000
+11032	A man and a woman are kissing.	A man and woman kiss.	5.00000
+11033	A lady is running her dog through an agility course.	Trainer runs her dog through training course with green pipe	4.20000
+11034	Smiling man with reflective classes.	A gentleman smiling and showing his reflective sunglasses.	4.60000
+11035	The person lit the cameras on fire.	A person is blow torching cameras.	3.33300
+11036	A person is slicing an onion.	A solenodon is walking along the ground.	0.00000
+11037	Two surfers on riding a small wave.	Two surfers perform tricks in the waves.	3.60000
+11038	two girls holding up a scary movie flyer	Two girls holding sacks are standing in a field.	1.40000
+11039	A woman is dancing.	A man is eating.	0.14300
+11040	A dog is barking at a ball.	A dog swims after a tennis ball.	1.50000
+11041	Someone is slicing an onion.	Someoen is peeling a potato.	1.00000
+11042	A woman is slicing a meat.	A woman is singing on stage.	0.25000
+11043	A woman holds a kangaroo.	A woman is picking up a kangaroo.	3.25000
+11044	The boy fell off his bike.	A boy falls off his bike.	4.80000
+11045	Children are playing on a trampoline in the snow.	Several children and jumping on a trampoline in the snow.	4.50000
+11046	The tan dog runs through the leaves.	The white dog runs through the ocean.	1.80000
+11047	Two terriers play on the wood floor of their home.	Two puppies play with a red chew toy in a field.	1.60000
+11048	A yellow shirted man wearing a golden sun mask.	A man in a yellow shirt wears a gold, sun-shaped mask.	5.00000
+11049	A man is riding a horse and jumping over obstacles.	A man is kicking a soccer ball.	0.33300
+11050	A man is chopping a log with an axe.	A man is chopping a tree trunk with an axe.	4.00000
+11051	A man is slicing an onion.	A woman is slicing a pumpkin.	2.25000
+11052	A man is chopping coriander leaf.	A man is playing a guitar.	0.80000
+11053	A woman is playing a game with a man.	A man is playing piano.	0.60000
+11054	A young girl doing a back flip in the water.	a young girl wearing purple running through water	2.80000
+11055	Two black dogs are playing on the grass.	Two black dogs are playing in a grassy plain.	4.60000
+11056	A man is walking on a rope.	A man is riding a mo-pad.	0.40000
+11057	The brown dog runs on the snow with a white ball in his mouth.	Four dogs play in the snow with the city skyline behind them.	1.80000
+11058	A man is riding on a horse.	A woman is riding an elephant.	1.53300
+11059	A man picking up a big rock.	A woman picking up a large rock.	2.40000
+11060	An overweight man is skipping rope.	A young man is dancing.	0.80000
+11061	A man and a woman are walking in the woods.	A man and woman are walking through the jungle.	3.40000
+11062	A group of youngsters swim in lake water	Many children are playing and swimming in the water.	4.40000
+11063	The cat is drinking milk.	A cat is licking from a saucer of milk.	4.40000
+11064	The man is sitting with a little girl in the park.	The man is playing with the shaggy little dog.	0.60000
+11065	A girl bounces upside down on her head on a trampoline.	A girl is bouncing on her head on a trampoline.	4.80000
+11066	A baby is talking.	A boy is trying to say firetruck.	1.20000
+11067	The tan and white dog is running in the field.	The brown and white dogs run through the field.	3.40000
+11068	A woman doesn't have her arms up because she's paralyzed from the neck down	A woman is sitting on the steps because she tripped and hurt her ankle.	0.80000
+11069	A woman is slicing a garlic.	A woman is slicing a big pepper.	2.20000
+11070	A woman pours oil into a skillet from a plastic bottle while she is talking.	An older woman is pouring oil into a skillet on the stove.	3.80000
+11071	A man dives off of a cliff.	A man is riding a motorcycle.	0.66700
+11072	A man is doing a card trick.	A man is squeezing water.	0.25000
+11073	The black and brown dog is playing in the yard.	The black and tan dog is chasing something he has spotted.	2.40000
+11074	A man is running on the road.	A car is driving down the road.	1.00000
+11075	A man is standing in front of the window and looking outside.	A man is staring out the window.	3.80000
+11076	A woman is deveining shrimp.	A man is dancing in rain.	0.00000
+11077	A woman is swimming.	A man is singing.	0.06700
+11078	A man is doing exercise.	A man is firing a rifle.	0.50000
+11079	A person cuts an onion.	A person is cutting an onion.	5.00000
+11080	A man drove his car.	A man is driving a car.	4.25000
+11081	A young girl with a pink hat on with a yellow building in the background.	A young girl in a pink dress with something in her hand.	1.80000
+11082	The man used a chopper to chop the onion.	The man used a machine to chop up a potatoe.	2.00000
+11083	The woman is leading a dog through an obstacle course.	Woman leading her small dog through an obstacle course.	4.60000
+11084	The woman is slicing fish cake.	The woman is riding a horse.	0.80000
+11085	A girl makes up her bed.	A young girl makes her bed.	4.40000
+11086	A lady dressed in a kimono is looking at the camera.	Two girls dressed in black are sitting in a room making suggestive poses at the camera.	1.00000
+11087	A bike is next to a couple women.	A child next to a bike.	2.00000
+11088	A man is fitting silencer on a pistol.	A man is adding a silencer to a gun.	4.50000
+11089	A brown dog is running through the field.	a brown dog with his tongue wagging as he runs through a field	4.00000
+11090	A man is running.	A man is running down a road.	3.50000
+11091	A man with long hair is looking through a camera.	A woman stands against a wall near a video camera.	1.00000
+11092	Boy and white dog running in grassy field	A boy and a dog running on grass	4.40000
+11093	A person is riding a horse.	A man is riding a motorcycle.	1.80000
+11094	A group of men walk and hang onto ropes.	A group of men play a college football game.	1.40000
+11095	A girl is wearing a purple sash and matching skirt.	A group of girls stands wearing jean skirts and superman shirts.	1.60000
+11096	One football player tries to tackle a player on the opposing team.	A football player attempts a tackle.	4.60000
+11097	Four boys are standing in front of the burning car.	Four young men stand still as a car explodes behind them.	3.75000
+11098	The blonde woman is wearing a black, american flag, tartan cap.	A red-haired woman is wearing a black beret adorned with the American flag.	2.80000
+11099	A woman is playing in the ocean.	A woman is preparing shrimp to cook.	0.75000
+11100	A man is playing a guitar.	A man is singing and playing a guitar.	3.60000
+11101	Some is grating onion into water.	A person grates a potato into a bowl.	1.50000
+11102	A woman is wrapping tofu.	A woman is balling dough.	1.40000
+11103	Two girls are running.	Three boys are running.	2.20000
+11104	A woman wearing large sunglasses holds newspapers in both hands.	A fat woman wearing faint blue top is blowing soap bubble.	1.00000
+11105	A man is playing the piano.	A man played the guitar.	2.00000
+11106	A boy is playing violin on stage.	A person is mixing a pot.	0.00000
+11107	A rabbit is running from an eagle.	A hare is running from a eagle.	4.20000
+11108	Two dogs running together and one has a duck toy in its mouth.	a black and white dog walking through the grass with a long stick in his mouth.	1.80000
+11109	A crowd of men wearing paper numbers on their shirts run in a race.	Several men running down a grass field wearing numbers on the front of their shirts.	3.60000
+11110	A man is playing a flute in a band.	A man is playing a guitar.	1.60000
+11111	A man is throwing knives at a tree.	A man is showing magic.	1.75000
+11112	A woman in a blue shirt and tan shorts sits at a table.	A smiling young woman in a tourquoise shirt and bandanna poses at table outdoors.	3.20000
+11113	Two large dogs running in some grass.	Two brindle dogs running in the grass.	4.20000
+11114	A little boy jumping from one chair to another.	A young boy jumping from one chair to another in his house	4.80000
+11115	A pair of young boys in t-shirts are hiding in the woods with one looking aghast.	Two smiling little girls playing in a fountain with other people.	0.00000
+11116	A doctor prescribes medicine to a patient.	A doctor prescribes a medicine.	4.40000
+11117	A woman is dancing.	A woman is playing violin.	0.40000
+11118	People are near water	People are near water.	5.00000
+11119	A man has his son on his back	A man spent his time with his son.	2.40000
+11120	A young boy sings and plays a guitar.	A kid plays the guitar.	3.25000
+11121	A girl swings her long, wet hair in a lake.	A person riding a dirt bike.	0.00000
+11122	A man is riding a skateboard.	A woman is cutting a potato.	0.00000
+11123	Three guys playing a pro game of basketball.	two guys playing a game of baseball.	2.40000
+11124	man on steps	A man sits on steps.	4.00000
+11125	A man does floor exercises.	A man is exercising.	3.60000
+11126	The carriage is drawn by a horse.	A man riding on a bicycle by side of building.	0.40000
+11127	A man in a gray suit locking up a bicycle	A man and a woman standing on a city street.	0.40000
+11128	A dog is opening a fridge.	A dog closes a refrigerator door.	1.75000
+11129	The cat is licking a bottle.	A cat plays with a small bottle.	2.33300
+11130	A man is shooting a pistol.	A woman is chopping garlic.	0.80000
+11131	The woman is styling her hair.	The woman is slicing herbs.	0.20000
+11132	A man is riding a motorcycle.	A man is riding a horse.	1.40000
+11133	A man is serving cake.	A man seasoning quail.	0.75000
+11134	Two people are in bed.	Two boxers are in the ring.	0.00000
+11135	A man is spraying a fluid from a long hose at the beach.	A guy is sitting on his bike with one wheel in the air.	0.60000
+11136	A man is playing his guitar at Joe's Cafe.	The man is playing the drums for his mom.	1.20000
+11137	This over the top photo shows two men taking a break.	A person with swim cap and goggles taking a breath.	0.40000
+11138	Someone is playing piano.	A person is playing a keyboard piano.	3.60000
+11139	Two large black dogs are playing in a grassy field.	Two white dogs are running together.	2.20000
+11140	Someone is holding a hedgehog.	A onion is being sliced.	0.00000
+11141	The woman is cracking eggs into a bowl.	The lady broke raw eggs into a bowl.	4.80000
+11142	Someone is seasoning eggs.	Someone is seasoning two raw eggs in a bowl.	3.60000
+11143	A man is playing a guitar.	A guy is playing an instrument.	3.80000
+11144	A man is slicing a pepper.	A person cuts a big green pepper apart.	3.80000
+11145	A small monkey walks through water.	A monkey is wading across a marsh.	3.40000
+11146	A man is playing drums.	A man is playing his guitar.	1.80000
+11147	The elephants are bathing.	Two women are singing.	0.00000
+11148	A woman is hitting a man.	A woman is taking a bath.	0.20000
+11149	A man is playing a harp.	A woman is playing a guitar.	1.60000
+11150	A group of dark-skinned people are walking past barbed wire.	Two women are gossiping by a fence.	0.40000
+11151	A man wearing US flag boxer shorts is standing on a stairway.	A woman wearing a white shirt stands on the street.	0.00000
+11152	Six children are cleaning a room.	Two male children cleaning up leaves in a parking lot.	1.60000
+11153	The elephants sprayed water on themselves.	Elephants spray themselves with water.	3.60000
+11154	The biker is doing dangerous stunts.	A biker is doing stunts.	4.40000
+11155	A little girl in an orange striped outfit is airborne whilst bouncing on a bed.	A dog in a red shirt is chasing a squirrel through the glass.	0.20000
+11156	Two dogs are running in a grassy field	Two dogs running through a grassy field.	5.00000
+11157	A person is cutting garlic into pieces with a knife.	Someone is putting ingredients into a wok.	0.75000
+11158	A man jumping rope	A man is talking.	0.40000
+11159	A man is playing a guitar and singing on a stage.	A man is playing the electric guitar.	3.20000
+11160	A boy goes down an inflatable slide.	A boy in red slides down an inflatable ride.	3.80000
+11161	A man is talking on a cell phone.	A guy is talking into a microphone.	2.00000
+11162	The man is in a deserted field.	The man is outside in the field.	4.00000
+11163	A man dressed in black wearing a hat and glasses in front of a red wall.	A woman in a white shirt standing in front of a brick wall.	1.40000
+11164	A boy skateboards down the railing of some graffiti stairs	A skateboarder is jumping over an obstacle in front of a white house.	2.80000
+11165	A man is playing a guitar.	A man is playing an electric guitar.	3.75000
+11166	A man is walking in the rain.	A man and woman is walking in the grand.	1.50000
+11167	a red and white race car racing on a dirt racetrack.	A person is riding a dirt bike in a race on a dirt track.	1.40000
+11168	A group of people standing in the street	A woman addressing a diverse group of people standing in the street.	2.60000
+11169	The man was pushed into the water.	A man pushes another man into the ocean.	2.50000
+11170	A white and brown dog is running over grass.	A brown and white dog is running across the grass.	4.60000
+11171	Two teenage girls, one is smiling.	A little girl on a kid swing.	0.80000
+11172	a snowboarder jumps into the air.	A snowboarder flies through the air.	4.00000
+11173	A boy is playing with a toy.	A boy plays a handheld game.	3.00000
+11174	A man and woman are talking.	A man and woman is eating.	1.60000
+11175	A brown dog is walking on the grass.	A dog chases another by a tree.	1.20000
+11176	A group of men play soccer on the beach.	A group of boys are playing soccer on the beach.	3.60000
+11177	A man shappens a knife.	A man carries a women.	0.50000
+11178	Some cyclists stop near a sign.	Two men stop to talk near a sign outside.	3.40000
+11179	Three children playing in snow.	Three children playing in hay	2.40000
+11180	A white dog with light brown markings has a stick in his mouth and his paws in the snow.	A white dog holds a stick in its mouth while it runs through snow.	4.00000
+11181	The religious people are enjoying the outdoors.	The group of people are enjoying the outdoors.	3.60000
+11182	Someone is greasing a pan.	Smeone is laying down.	0.40000
+11183	The woman is cutting cooked octopus.	A woman is chopping octopus.	3.80000
+11184	A man in a black suit is surfing along a crashing wave.	A surfer wearing a black wet suit is riding a a white wave in the ocean.	4.60000
+11185	A woman is hitting a man.	A man is holding a slow loris.	0.00000
+11186	A man wearing a t-shirt that says "Gigolo" stands at the counter talking to someone.	A man wearing a shirt that says "Gigolo" is standing at a front desk area with his back to the camera.	3.40000
+11187	A woman is filing her fingernails with an emery board.	A woman is feeding her baby with a bottle.	0.50000
+11188	The man is drawing.	A man is drawing.	5.00000
+11189	A black dog with a blue collar is running in the snow.	A black dog wearing a blue collar is running through the snow.	5.00000
+11190	A monkey is playing drums.	A gorilla plays the drums.	2.80000
+11191	A person is doing pencil tricks with his hand.	A person is slicing carrots in half.	0.33300
+11192	The surfer does a flip off of a wave.	A surfer does a flip on a wave.	4.80000
+11193	A person is driving a car.	A man is driving a car.	3.50000
+11194	A young girl going down a tube slide.	A young girl swinging off a tire swing	1.80000
+11195	a man wearing a gray hat fishing out of a fishing boat.	A man wearing a straw hat and fishing vest in a stream.	2.60000
+11196	The boys are earning their next belt in karate.	Five girls and one boy are in their swimsuits all in the middle of jumping into the pool.	0.20000
+11197	Two little girls talk on the telephone.	Two couple are talking with each other.	1.20000
+11198	A man is slicing a carrot by a machine.	A man is climbing a rope.	0.40000
+11199	A man is dicing an onion.	A woman is cutting an onion.	2.50000
+11200	Some smiling children are standing in front of an ocean sunset.	People walking in the dark.	0.60000
+11201	A black and brown dog walks through the snow near a building.	An older man stands outside a old boarded up building.	0.80000
+11202	A young man is singing and playing the piano.	The man is writing a letter.	0.20000
+11203	Three dogs running through water.	A black dog running through water.	1.00000
+11204	A pankda is eating bamboo.	A panda bear is eating some bamboo.	4.20000
+11205	A woman is bathing into bath-tub.	A woman is taking a bath.	4.40000
+11206	A man is spreading shreded cheese on a pizza.	A man is spreading shredded cheese on an uncooked pizza.	3.80000
+11207	The girl is riding the horse.	The girl is spraying the plants with water.	0.20000
+11208	A person is out in the water at the beach while the sun sets.	A person above their surfboard on the water.	3.00000
+11209	A person on a bmx bike.	A man on a bike in mid-air	3.00000
+11210	A woman is reading.	A woman is kneading dough.	1.00000
+11211	A man riding a horse in slow motion.	A man is riding on a horse.	3.40000
+11212	A girl is playing a piano.	A boy is doing push ups.	0.00000
+11213	A man is preparing a hanging rope.	A man is tying a noose.	4.66700
+11214	Two dogs play in the grass.	Two tan dogs play in the snow.	2.60000
+11215	Our current vehicles will be in museums when everyone has their own aircraft.	The car needs to some work	0.20000
+11216	A woman is walking on an open ground with a pet dog as some other dogs follow them.	A man is walking with several dogs.	2.00000
+11217	A person is frying.	A person is peeling a potato.	1.20000
+11218	A man is eating bread.	A man is playing flute.	0.80000
+11219	A man is giving a lecture on a podium.	A man is delivering a lecture at an event celebrating the game of cricket.	2.33300
+11220	Sculptor applying concrete to large statue of human figure standing with no head.	A person is standing in front of a building holding aloft some plywood	0.20000
+11221	A brown dog digging a hole in front of a plant	A group of people walking on the side of a railroad track.	0.00000
+11222	A woman is dancing.	A woman is kneading dough.	0.40000
+11223	A group of people are marching in place.	A group of people are dancing in concert.	1.70000
+11224	A grey hound is active in a grassy field.	A bunch of bikes racing on a track.	0.00000
+11225	A man is cutting pieces of butter into a mixing bowl.	Pieces of butter is added in the stand mixer.	3.60000
+11226	A man is opening a door.	A man is playing a guitar.	0.80000
+11227	One white boy and one black boy stand with arms around each other.	Two young boys, one white and one black, are standing with their arms around each other.	4.80000
+11228	The two dogs are running on the grass.	Two dogs are playing in the grass.	4.40000
+11229	A kid is playing guitar.	A man is playing a guitar.	2.20000
+11230	Butter is being put into a bowl.	A man cutting butter into a mixing bowl.	4.25000
+11231	A group of people are wearing bunny ears.	A group of people ride in a race	0.80000
+11232	A cat and a ferret are playing.	A ferret and kitten play together.	4.25000
+11233	A group of people in boats racing towards the shore.	A group of people stand together and pose in front of a house.	0.80000
+11234	Two beige dogs play in the grass.	two tan dogs play in the grass	4.60000
+11235	Someone drills a hole in a strip of wood with a power drill.	A man drills a hole in a piece of wood.	3.20000
+11236	A man is riding a bike.	A woman is riding a horse.	1.40000
+11237	A man is stirring juice.	A man is peeling an onion.	0.75000
+11238	A man is playing a guitar.	A man is playing a piano.	2.00000
+11239	A  man is dancing.	A man is riding a horse.	0.80000
+11240	The dogs play in the snow on hind legs.	Two dogs play in the snow.	3.80000
+11241	The kids are at the theater watching a movie.	it is picture day for the boys	0.20000
+11242	A man is dicing an onion.	The man is playing the guitar.	0.40000
+11243	A man in a white suit walks down the street holding a newspaper.	A man in a white suit walks outside carrying a newspaper.	4.60000
+11244	Two people are riding a motorcycle.	Two people are riding a bike.	2.00000
+11245	A group of people playing soccer on a soccer field in front of a crowd.	A group of men playing soccer in a stadium full of people.	3.00000
+11246	A little girl walks on a boardwalk with blue domes in the background.	A man going over a jump on his bike with a river in the background	0.00000
+11247	A man is breaking water jugs.	A woman is peeling garlic.	0.20000
+11248	A girl is playing a flute.	A girl plays a wind instrument.	3.20000
+11249	Two men wearing traditional clothing is standing outside.	Three women wearing black vests and gray shirts are talking outside of a building.	2.00000
+11250	Two women walk down the sidewalk to the store.	Two women walk down the sidewalk in the afternoon.	3.80000
+11251	A man practicing boxing	A man practices boxing	5.00000
+11252	A man is being put into an abulance.	A man is pouring pasta onto a plate.	0.00000
+11253	The man is playing the wooden flute.	A little boy is vacuuming the floor.	0.00000
+11254	A man and a woman are standing in front of a building	Two girls are sitting on an ATV on the sand in front of a bridge.	0.40000
+11255	A woman is eating something.	A woman is eating meat.	3.00000
+11256	Woman in a black dress walking on the street.	A woman watches a dog jump down the stairs.	0.80000
+11257	A man is driving a car.	A man drives a car.	4.87500
+11258	A woman is stabbing a potato with a fork.	A woman is puncturing a potato with a fork.	5.00000
+11259	A man is picking up a tree.	A man is carrying a tree.	3.80000
+11260	A woman is chopping onion.	A man is doing a card trick.	0.00000
+11261	A man is cycling.	A boy is riding a bicycle.	2.50000
+11262	Three sheep graze on the grassy field with a dog walking behind them.	a small group of goats in the grass with a black and white dog in the backgroud.	2.80000
+11263	A man is playing a flute.	A man is playing a guitar.	2.00000
+11264	A man holding a cat.	A man holding a dog.	3.00000
+11265	The man rode his motorcycle down the highway.	A person is driving a motorcycle on a road.	3.75000
+11266	The woman is rolling dough.	A woman is flouring and rolling dough.	3.76500
+11267	A man is playing a guitar.	A woman is playing the guitar.	2.75000
+11268	A slow lori walks around.	A animal is walking around.	2.80000
+11269	The couple is sitting near the water in lawn chairs.	The boy hops from one picnic table to the other in the park.	0.00000
+11270	There are two men near a wall.	Three women are sitting near a wall.	2.00000
+11271	A man is climbing a rope.	A man climbs up a rope.	5.00000
+11272	An animal is walking on the ground.	A solenodon is walking along the ground.	3.00000
+11273	There are people out on the street.	People are out on the street.	5.00000
+11274	A white dog runs through a field of yellow flowers.	A dog with a red collar runs in a forest in the middle of winter.	1.60000
+11275	A person is making a bed.	A person is eating at a table.	0.20000
+11276	A boy wearing a red shirt runs across the grass with a furry dog.	A sports fan is wearing face paint in the stands.	0.00000
+11277	The child's bike got wet.	She is putting away the bike.	1.20000
+11278	A surfer on a wave.	A surfer is riding a wave.	4.40000
+11279	A black dog is running in snow.	A black dog is swimming with a ball in it's mouth.	1.80000
+11280	A boy in black waves his arms while other people are behind him on a field.	a man in a black shirt is roller blading past a bench in the city.	0.40000
+11281	A dog is running on the ground.	A girl is tapping her finger nails.	0.00000
+11282	The white and brown dog runs across the grass.	Three dogs are running on the grass.	3.20000
+11283	A black and white dog swimming in the pool	A black and white dog running with something in his mouth.	2.00000
+11284	Panda's play on a swing.	A man is playing guitar.	0.80000
+11285	A cheetah is running behind its prey.	A cheetah chases prey on across a field.	4.40000
+11286	A motorcyclist crashes on his motorcycle.	A person crashes on a motorcycle.	4.20000
+11287	A person is on a baseball team.	A person is playing basketball on a team.	2.40000
+11288	A panda bear is chewing on a stick.	A baby panda plays with a stick.	3.00000
+11289	Four dogs stand in the snow.	Four dogs playing in the snow.	3.60000
+11290	A man is riding on a boat.	A man is tying in the machine.	0.40000
+11291	A group of people are camping out on some rocks.	A group of people are standing beside a fire truck.	1.20000
+11292	Two dogs are sniffing something in the rocks.	Two dogs running down a path in the woods.	1.60000
+11293	people getting their dirty clothes cleaned	People are getting their clothes cleaned.	5.00000
+11294	A woman is cutting potatoes.	A woman is slicing carrots.	1.20000
+11295	A man is riding a bicycle.	A man is riding a bike.	5.00000
+11296	A woman jumps and poses for the camera.	A woman poses for the camera.	4.00000
+11297	A man is kite surfing away from the camera.	A man is sky surfing on the water.	2.80000
+11298	A boy riding on a swing.	A young boy riding in a swing.	4.80000
+11299	Someone is beating an egg.	A woman stirs eggs in a bowl.	2.50000
+11300	A man plays the piano.	A man is playing a piano.	5.00000
+11301	A bird flies across the water.	A bird flies above the water.	4.80000
+11302	A man is walking along a path through wilderness.	A man is walking down a road.	2.50000
+11303	Two kids are playing a game of Foosball.	The kids are playing a game with each other.	3.40000
+11304	A bloody man and woman pose for a picture.	A man in woman dressed warmly pose for a picture.	2.00000
+11305	A little boy is vacuuming the floor.	A boy is vacuuming.	3.80000
+11306	An animal is walking.	A woman is applying eye makeup.	0.00000
+11307	The man used a sword to slice a plastic bottle.	A man sliced a plastic bottle with a sword.	5.00000
+11308	A person is riding a jetski in the waves.	A woman is riding a seadoo.	2.00000
+11309	A man and woman blow bubbles.	A man and a woman in glasses blow bubbles.	4.20000
+11310	A man is playing a guitar.	A man in a hat is playing a harp.	1.40000
+11311	A guy and two girls are smiling at the camera.	Three dogs, one white and two brown, are running together on a field of grass.	0.00000
+11312	A woman is using a sewing machine.	A woman is sewing on a machine.	5.00000
+11313	A man plays the guitar.	A man is playing the guitar.	5.00000
+11314	A woman is exercising.	A woman lifts weights.	3.40000
+11315	Two brown dogs running together on sand	Two brown dogs are running on the sand.	4.60000
+11316	The man is singing and playing the guitar.	A man is playing a guitar.	3.00000
+11317	Young boys running along the pavement.	A black dog running along the edge of the ocean.	0.50000
+11318	A woman is exercising.	A man is dancing.	0.25000
+11319	Several ferrets climb out of their cage.	Ferrets climb down from a shelf.	2.20000
+11320	A man is slicing a tomato.	A man is riding a horse.	0.80000
+11321	A man is screwing wood to a wall.	A man is giving a woman a massage.	0.20000
+11322	A man is standing in water near a waterfall.	A man wades in the water and watches a water fall.	3.40000
+11323	a black dog swimming through a river.	a black dog digging through the snow.	1.20000
+11324	A man is carrying another man on his back.	A man is taking pictures of ant.	0.40000
+11325	The man talked to a girl over the internet camera.	A teenager talks to a girl over a webcam.	2.80000
+11326	A man is frying a tortilla.	A person is performing a card trick.	0.00000
+11327	The dog is barking at the toy.	A dog is barking at a toy.	5.00000
+11328	A man walks toward a policeman standing in a crosswalk on a city street.	A policeman stands in a crosswalk in a city.	3.00000
+11329	A man is carrying a canoe with a dog.	A dog is carrying a man in a canoe.	1.80000
+11330	Two men are talking.	Two men are playing guitar.	1.50000
+11331	A man is cutting an onion.	A man is cutting a plantain.	3.66700
+11332	A chef is slicing carrot.	A person is drawing a picture.	0.00000
+11333	Some children are jumping on Trampoline.	Two boy are playing on a trampoline.	3.00000
+11334	A man playing fetch with two brown dogs.	A woman plays with a brown dog.	2.33000
+11335	The two dogs were in the pen.	The cowboy rode his horse in the desert.	0.00000
+11336	A woman is peeling shrimp.	A man is squeezing water.	0.20000
+11337	A man is holding a leaf.	A woman is watching television.	0.00000
+11338	A girl is making eyelid.	A woman is applying eyeshadow.	2.00000
+11339	A young girl holds up a peace sign.	A little girl holds onto a pole on a city street.	0.60000
+11340	One man and two women dressed in vampire costumes	A man and two women dressed in costumes.	3.40000
+11341	A slow loris bites a persons fingers.	A small animal is chewing on a finger.	2.50000
+11342	The man is throwing knives at a tree.	A man is throwing blades into a close target outside.	3.00000
+11343	A woman is squeezing some cucumber slices.	A woman is getting doused in green slime.	0.75000
+11344	a black and white dog running through some red and white poles	Black and white dog in living room standing on hind legs.	1.60000
+11345	A man and a dog are playing tug of war.	A man dances on a colorful wall.	0.40000
+11346	A little girl is playing a grand piano on stage.	A little girl is playing the piano.	2.60000
+11347	The cat is drinking milk.	A white cat is licking and drinking milk kept on a plate.	3.80000
+11348	A dog walks along a beach with breaking waves.	A boy with an oar walks out of the surf and onto a beach.	1.00000
+11349	The cook is kneading the flour.	A woman is kneading tortilla dough.	2.60000
+11350	A man plays the guitar.	The man sang and played his guitar.	3.00000
+11351	A man is talking with a woman.	A woman is walking with a dog.	0.50000
+11352	Two men are packing suitcases into the trunk of a car.	The men are putting suitcases into the car's trunk.	4.40000
+11353	One person wields an umbrella.	One person is holding an umbrella.	4.40000
+11354	A dog is jumping up in the air to catch a toy.	A black dog jumps in the air to catch a toy.	4.00000
+11355	German Shephard jumping through black hoop while people watch	A dog jumps through a hoop.	3.20000
+11356	A blonde haired toddler swinging on a tire swing.	A blonde haired child is swinging on a tire swing.	4.80000
+11357	A turtle is swimming in water.	A turtle is walking underwater.	3.20000
+11358	A woman is reading a lifestyle magazine.	A woman is slicing a meat into pieces.	0.50000
+11359	five people standing on a sidewalk	Five people on a sidewalk.	4.80000
+11360	A group of people sitting around a desk.	A group of girls on a beach.	0.60000
+11361	A person is slicing a carrot into pieces.	A person is cutting an onion into pieces.	1.50000
+11362	A group of people dance on a hill.	A group of people are dancing.	3.20000
+11363	A man is playing the trumpet.	Someone is playing with a toad.	0.80000
+11364	A panda is climbing.	A man is climbing a rope.	1.60000
+11365	The large brown and white dog is running through the snow.	St. Bernard dog running in the snowy field.	4.00000
+11366	The girl is carrying a baby.	A man is eating a food.	0.00000
+11367	A woman is dancing near a fire.	A woman is cutting a tomatoe.	0.30800
+11368	A man sliced through a bunch of water bottles with a knife.	A man is slicing a line of water bottles with a knife	4.40000
+11369	A woman puts flour on a piece of meat.	A woman is putting flour onto some meat.	5.00000
+11370	A dog licks a baby.	A dog is licking a baby.	4.75000
+11371	Four girls in swimsuits are playing volleyball at the beach.	Four women in bikinis are playing volleyball on the beach.	4.80000
+11372	Man is carrying a tool box down the sidewalk.	A woman is riding a blue bicycle in a park.	0.00000
+11373	The man without a shirt is jumping.	The man jumping is not wearing a shirt.	4.60000
+11374	Three dogs are running in a field.	Two dogs are running in a grassy field	2.80000
+11375	A young woman leans over her plate at a meal.	A young woman, topless except for paint or mud.	0.80000
+11376	The child would like to swim.	The children want to swim.	3.80000
+11377	A dog shaking off water.	A dog shaking water off.	5.00000
+11378	Three dogs running on a racetrack.	Three dogs round a bend at a racetrack.	4.80000
+11379	A woman is cutting some fish.	A woman is cutting tofu.	2.20000
+11380	People gathered in a room.	People gathered together in a room.	5.00000
+11381	The girl has something on her head.	The woman has something with her.	2.60000
+11382	A man is smoking.	A man is skating.	0.50000
+11383	Four kids holding hands jump into a swimming pool.	Four dogs playing in the snow.	0.00000
+11384	A human riding a skateboard.	A child is riding a skateboard.	3.80000
+11385	A man is cutting paper with a sword.	A woman is cutting a tomato.	0.60000
+11386	A woman is doing weight exercises.	A woman is exercising with a barbell.	3.50000
+11387	Black and white dog running through water.	A tan and white dog runs through water.	3.00000
+11388	A woman is dancing.	A woman is slicing ginger.	0.25000
+11389	A man is playing a guitar.	A man is driving a car.	0.50000
+11390	A man stares out a window.	A man looks out the window.	4.80000
+11391	A man is playing a guitar.	A woman is cutting vegetable.	0.00000
+11392	A man is cutting grass.	A masked man sings.	0.00000
+11393	A woman is chopping broccoli.	A woman is chopping broccoli with a knife.	4.25000
+11394	The man is playing the guitar.	The man is playing with a skull.	1.00000
+11395	A man is swinging on a rope above the water.	A man in warm clothes swinging on monkey bars at night.	1.60000
+11396	The man sat in his chair and stared.	The little girl is putting her hair into a pony tail.	0.00000
+11397	A woman is removing skin from some meat.	A woman is slicing a tomato.	1.20000
+11398	A boat sails along the water.	The man is playing the guitar.	0.00000
+11399	A man is cutting tomatoes into pieces.	A woman is cutting potatoes.	1.80000
+11400	A woman is peeling an orange.	A woman cuts off a small piece of lemon rind.	1.80000
+11401	Men are running a race.	Racers are running down a track.	2.60000
+11402	A man swims underwater.	A woman is swimming underwater.	2.00000
+11403	A cat is playing the piano.	A cat is licking its paw.	0.25000
+11404	A woman is adding sauce to some food.	A person is cutting leaves.	0.20000
+11405	A person is adding food in a pan.	A woman puts rice into a pan.	3.00000
+11406	four people walk toward a tower	Two men walk toward a dome-shaped building.	2.00000
+11407	Two men are fistfighting in a ring.	Two men fistfight in a ring.	5.00000
+11408	A man in a white shirt and hat playing a guitar.	A man in a green shirt and black hat playing a guitar on stage.	2.80000
+11409	Two girls playing with people and flowers behind them.	Two young girls wearing skirts are playing in a garden.	3.20000
+11410	A person is folding a square paper piece.	A person folds a piece of paper.	3.75000
+11411	Two kids splashing in the water.	Two dogs play together on the bed.	0.00000
+11412	A woman is frying a food.	A woman is deep frying food.	4.25000
+11413	A man is sitting and smoking.	A man is smoking a cigarette.	4.00000
+11414	A man is dancing outside.	A man is playing flute.	1.00000
+11415	A woman opens a window.	A woman is looking out a window.	2.00000
+11416	A woman is dicing some peeled potatoes cut into thick strips.	A woman is chopping a peeled potato into slices.	4.00000
+11417	The dog is chasing the geese.	One dog is chasing the other.	1.60000
+11418	The man and two young boys jump on a trampoline.	A man and two boys jump on a trampoline.	4.60000
+11419	A man in a suit dances with a young girl in front of an audience.	A women dangles from a blue fabric connected to a tree.	0.20000
+11420	A man is playing the guitar.	A man plays an acoustic guitar.	3.75000
+11421	A light brown dog runs down a path happily.	A pale dog runs down a path.	3.40000
+11422	A person pours cooking oil into a pot.	A person is pouring olive oil into a pot on the stove.	3.80000
+11423	A boy is jumping into the water with a ball in his hand.	A little boy swimming underwater with a toy in his hand.	2.20000
+11424	Two women sitting on a bench, their faces obscured, with one woman carrying an inflatable tiger and the other woman in a Disney snow white costume.	A girl sits on a bench holding an inflatable tiger next to another girl in a colorful outfit.	2.20000
+11425	Two people sit on the end of a dock.	Two people sitting on a dock.	4.20000
+11426	A man is playing guitar.	A cat is playing.	0.40000
+11427	A person is petting a monkey.	A man is holding a slow loris.	1.20000
+11428	Animals are playing in water.	Two men are playing ping pong.	0.00000
+11429	A woman is slicing a big pepper.	A person is cutting a green pepper.	3.40000
+11430	Three dogs are playing in the water.	Three dogs run in the snow.	1.40000
+11431	A golden dog is running on the grass.	The large beige dog is running through the grass.	3.40000
+11432	A kid sits on a soccer ball outside.	A kid sitting on a soccer ball at the park.	4.20000
+11433	Group of little girls and a dog standing on the road.	a group of people white water rafting in a blue raft.	1.40000
+11434	A woman is stirring rice in a pot.	Someone is putting rice in a pan.	2.76900
+11435	A man is walking with a horse.	A man is leading a horse around by it's halter.	3.75000
+11436	a young boy climbing on a rock wall	Five greyhounds are racing on a sand track.	0.00000
+11437	A woman is adding an egg and stirring.	A woman is mixing an egg in a bowl.	3.50000
+11438	Five kids are standing in front of a tent.	People are out sitting in front of a garden.	0.60000
+11439	A woman is slicing a onion.	A woman is cutting a potato.	1.20000
+11440	The boy in the orange shirt is throwing the ball.	The black and white muzzled dog is leaping above the grass.	0.20000
+11441	A man  is driving a car.	A woman dips a shrimp in batter.	0.00000
+11442	A woman is slipping in the water-tub.	A woman is lying in a raft.	0.80000
+11443	The person is removing the scales from the fish.	A person is descaling a fish.	5.00000
+11444	A woman is cutting tofu.	A woman is cutting an onion.	2.40000
+11445	A woman is chopping an onion.	A woman is slicing partially into half of an onion.	3.20000
+11446	A man is working on his farm.	An old guy is working on his farm and a cow kicks him.	2.80000
+11447	Two girls are sitting in front of a statue.	Two blonde girls are sitting next to a statue	3.80000
+11448	A white dog running on sand.	A white dog runs on the sand.	5.00000
+11449	A person is watching people ski down the hill.	The woman is jumping a long distance while people watch.	1.40000
+11450	A woman is slicing an onion.	A women slicing lemons.	1.40000
+11451	A woman is cutting a plastic sheet.	A woman is playing a guitar on streets.	0.50000
+11452	Two racing dogs run in the mud.	The man is going into the water.	0.00000
+11453	Two zebras are playing.	Zebras are socializing.	4.25000
+11454	Two dogs approach each other in the grass.	Two dogs face off of each other on the grass.	4.80000
+11455	Two dogs running through a field.	Two dogs play in a field.	4.20000
+11456	A person is cutting a meat.	A person riding a mechanical bull	0.00000
+11457	A boy whacks a man with a sword.	A boy spanks a man with a plastic sword.	3.33300
+11458	A brown furry animal stands behind some plants.	A dog pants while standing in the woods.	1.40000
+11459	A man and woman are eating at a table.	A couple are eating a meal and talking.	3.00000
+11460	The child in the red coat laid in the red mat.	The toddler is ready to climb the red piece of equipment.	0.80000
+11461	The baby laughed in his car seat.	A baby is laughing.	3.10000
+11462	The man is standing on the shore hitting a ball with a paddle.	Two teenage girls are standing on beside the beach listening to ipods.	0.80000
+11463	A big green ball knocks a potato over.	A large green ball hits a potato.	4.00000
+11464	A woman opens a window.	A man is crawling.	0.00000
+11465	A car is driven down the road.	A girl is walking down a road.	1.20000
+11466	Two dogs fighting in the snow.	Two dogs play in the snow.	3.20000
+11467	A boy rode his bike on top of a metal fence.	A BMX biker rides along the top of a fence.	3.00000
+11468	A man is playing on his keyboard.	A man is playing a keyboard piano.	4.00000
+11469	A teenage girl running on a beach shouting, with an older man walking behind her.	a young child running along the shore at a beach	1.80000
+11470	A man is standing on the ground with a paintbrush	A man with a crutch lying on the ground.	1.20000
+11471	A man climbing a rock-face.	A man is climbing a rock wall.	4.60000
+11472	The gate is blue.	The gate is yellow.	1.60000
+11473	The black and white dog is swimming in the river.	A black man and his dog on the beach.	0.60000
+11474	Two dogs are running on the grass.	Two dogs running in the dirt	3.60000
+11475	A man and a woman on a bench.	A man and woman sit on a park bench.	3.60000
+11476	The woman is dicing onions.	A woman is dancing in railway station.	0.40000
+11477	A man is paddling a canoe.	A man is playing a harp.	0.66700
+11478	A person is drawing on a large touchscreen.	A man is drawing on a digital dry erase board.	3.00000
+11479	Man sitting on a bench drink from a mug surrounded by rugs.	A man is sitting on one of two red benches and staring into a kiosk.	2.20000
+11480	A man is riding a bicycle.	A man is riding a bicycle around a parking lot.	3.25000
+11481	People are walking in the garden.	One boy is talking with other man.	0.00000
+11482	A skier is jumping in the air over a snowfield near a mountain range.	A woman is sitting near a flower bed overlooking a tunnel.	0.00000
+11483	A man is driving a car.	A man is riding a horse.	1.20000
+11484	Two boys are driving.	Two bays are dancing.	0.60000
+11485	A woman is slicing an onion.	A man is cutting an onion.	2.75000
+11486	Two white dogs are walking through deep white snow.	Two white dogs walk through a huge bank of mountain snow.	4.60000
+11487	Two girls are playing Doctor inside their house.	The two girls are walking with their father.	0.80000
+11488	Someone is boiling okra in a pot.	Someone pours olive oil into a bowl of tomato wedges.	0.80000
+11489	A rider is running and jumping her horse.	A woman jumps hurdles on a horse.	4.00000
+11490	A monkey is brushing a bull dog.	A monkey brushes a dog.	4.20000
+11491	A girl is playing the piano.	A little girl is playing a grand piano on stage.	3.33300
+11492	A woman is slicing big pepper.	A man is playing an instrument.	0.00000
+11493	A cat is playing with a watermelon on a floor.	A man is pouring oil into a pan.	0.00000
+11494	A boy plays violin on stage.	A boy is onstage playing the violin.	4.25000
+11495	A woman is swimming underwater.	A man is slicing some carrots.	0.00000
+11496	A woman is slicing big pepper.	A dog is moving its mouth.	0.00000
+11497	The woman is thinly slicing a cucumber.	The woman is slicing a tomato.	1.20000
+11498	A dog has it's head inside a red and green gift bag.	A pet playfully investigates the contents of a gift bag.	3.80000
+11499	Butter is melting in a pan.	A man is melting butter in a pan.	3.60000
+11500	The woman is frying a breaded pork chop.	A woman is cooking a breaded pork chop.	4.20000
